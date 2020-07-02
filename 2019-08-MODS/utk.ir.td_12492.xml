@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Biochar Amendment for Enhanced Nitrogen Use, Soil Health, and Plant Growth</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">Xiuwen</mods:namePart>
+    <mods:namePart type="family">Li</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-07-25T09:26:38-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-06-07T23:28:50-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-06-07T23:28:50-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-07-25T09:25:02-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-07-25T09:26:38-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Masters (pre-doctoral)</etd:level>
+      <etd:name>Master of Science</etd:name>
+      <etd:discipline>Environmental and Soil Science</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Sindhu</mods:namePart>
+    <mods:namePart type="family">Jagadamma</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Nourredine</mods:namePart>
+    <mods:namePart type="family">Abdoulmoumine</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Jennifer M.</mods:namePart>
+    <mods:namePart type="family">DeBruyn</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Forbes R.</mods:namePart>
+    <mods:namePart type="family">Walker</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_bdcc">masters thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Biochar is considered as a soil amendment to improve the resilience and productivity of agricultural systems. In particular, co-application of biochar and nitrogen (N) fertilizer has the potential to reduce N losses compared to applying synthetic N alone. However, the positive effects of biochar amendment are tightly linked to several factors. Our overall objective was to determine the effect of biochar types, application methods, and biochar rate on soil health, especially on soil N dynamics, and forage production through bench - and field-scale experiments. A 60-day bench-scale experiment was conducted to study the effect of amending soil with the two types of biochar using two application methods on soil N transformation. This experiment consisted of four treatments (control, 150 mg N kg-1 biochar, 150 mg N kg-1 urea, 75 mg N kg-1 urea + 75 mg N kg-1 biochar) with two application methods (surface application and incorporation). When biochar and urea were co-applied, biochar with higher cation exchange capacity inhibited nitrification and biochar with higher ash content reduced nitrous oxide (N2O) emission compared to urea alone. Biochar applied on soil surface increased 47% mineral N concentration and reduced 20% N2O emission compared to biochar mixed with soil. A two-year field experiment was conducted in a pasture system in Middle Tennessee to determine the effect of biochar rates (0 to 22.5 Mg ha-1) on forage production and soil properties. Biochar was surface applied in April 2017. Soil samples were collected from 0-15 cm depth biannually beginning June 2017 and plant harvest was done in May 2017 and 2018. Results showed that &gt;18 Mg ha-1 biochar rate significantly affected soil properties and 9 Mg ha-1 was the most profitable rate based on the cost-benefit analysis. Also, biochar addition reduced 38-53% soil mineral N within six months while increased 16-22% soil organic carbon and 12-21% extractable phosphorus within two years compared to no biochar addition. Biochar did not increase forage yield but increased plant potassium uptake by 16-26% in 2017. In conclusion, biochar exhibited positive impacts on soil quality, but these effects were influenced by biochar characteristics, application method, and biochar rates.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">Biochar, Soil nitrogen, Application method, Soil health, Forage system</mods:note>
+  <mods:accessCondition type="local rights statement">Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+  <mods:note displayLabel="Copyright holder">author</mods:note>
+  <mods:physicalDescription>
+    <mods:note displayLabel="Publication Status">PUBLISHED</mods:note>
+  </mods:physicalDescription>
+</mods:mods>

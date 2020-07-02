@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Redox Conditions Determine Microbial Cobamide Production in Hyporheic Sediment Enrichments</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">Laurel</mods:namePart>
+    <mods:namePart type="family">Seus</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-07-26T14:26:42-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-07-26T14:26:42-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-07-26T14:26:42-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Masters (pre-doctoral)</etd:level>
+      <etd:name>Master of Science</etd:name>
+      <etd:discipline>Microbiology</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Frank E.</mods:namePart>
+    <mods:namePart type="family">Loeffler</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Karen</mods:namePart>
+    <mods:namePart type="family">Lloyd</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Jill</mods:namePart>
+    <mods:namePart type="family">Mikucki</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_bdcc">masters thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>All kingdoms of life rely on cobalamin, a coenzyme produced by a subset of Bacteria and Archaea. Cobalamin belongs to a family of molecules called cobamides. Cobamides all share a tetrapyrrole corrin ring which is joined to one of 17 known naturally occurring lower bases. Until now, little work has explored why one type of cobamide is produced over another. This research explores cobamide production under different redox conditions: glucose fermentation, lactate fermentation, methanogenesis, sulfate reduction, nitrate reduction, and iron reduction. Homogenized sediment from Third Creek (Knoxville, Tennessee) was used for initial microcosms grown under each redox condition and fifth generation or later transfers were used to analyze cobamide production. Type and quantity of cobamide produced under each condition was distinct. Cobamide production was normalized between redox conditions by comparing total cobamide produced to the amount of substrate or electron acceptor consumed. Glucose and lactate fermenters both resulted in 5-hydroxybenzimidazole cobamide and methylbenzimidazole cobamide. Methanogens produced exclusively methylbenzimidazole cobamide. Sulfate reduction and nitrate reduction both produced cobalamin. No detectable cobamide was produced by iron reduction. Maintenance of redox conditions were verified by monitoring the reactants and products for each redox process. This work demonstrates that redox conditions shape the cobamide pool. The results have important implications for microbial ecology including in bioremediation systems where corrinoid-auxotrophic bacteria require certain types of cobamide for metabolic processes that break down pollutants.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">corrinoid, cobamide, biogeochemistry, bioremediation, reductive dechlorination, environmental microbiology</mods:note>
+  <mods:accessCondition type="local rights statement"> Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+<mods:note displayLabel="Copyright holder">author</mods:note><mods:physicalDescription><mods:note displayLabel="Publication Status">PUBLISHED</mods:note></mods:physicalDescription></mods:mods>

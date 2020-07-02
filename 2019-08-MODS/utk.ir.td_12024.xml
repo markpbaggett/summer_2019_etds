@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Evaluation of Uranium Dioxide for Solid-State Direct-Conversion Neutron Detection</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">Christopher</mods:namePart>
+    <mods:namePart type="family">Shaver</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-07-24T16:12:42-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-02-19T14:40:13-05:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-02-19T14:40:13-05:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-04-09T18:37:26-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-04-10T15:07:43-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-04-10T15:09:33-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-07-24T16:12:42-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Doctoral (includes post-doctoral)</etd:level>
+      <etd:name>Doctor of Philosophy</etd:name>
+      <etd:discipline>Engineering Science</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Thomas</mods:namePart>
+    <mods:namePart type="family">Meek</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Brett</mods:namePart>
+    <mods:namePart type="family">Compton</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Jackie</mods:namePart>
+    <mods:namePart type="family">Johnson</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Claudia</mods:namePart>
+    <mods:namePart type="family">Rawn</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_db06">doctoral thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>A solid-state direct-conversion neutron detector is a device that utilizes neutron moderating materials that function as the active signal detecting semiconductor. Uranium dioxide (urania) is an example of such a material that meets these criteria but also has the compelling capability of undergoing neutron-induced fission. Fission fragments released from neutron interactions can deposit an additional 165 MeV of energy within the detector resulting in a theoretical increase in electrical carriers and an improvement to the overall detection efficiency. Urania requires a high electrical resistivity to overcome inherent background noise from self-irradiation. Increasing the electrical resistivity is required to elevate this material as a potential candidate material for solid-state direct-conversion detectors. This dissertation presents a study on methods of increasing the electrical resistivity and initial efforts to fabricate detectors from urania.&#13;
+&#13;
+Electrical characterization was performed on Schottky diodes fabricated from urania single crystals synthesized by arc fusion. Ion implantation was used to dope these samples with various materials. Electrical resistivity was measured to be between 10² – 10³ Ω-cm which is below the threshold of 10⁸ Ω-cm required for direct-conversion detectors. Thin film devices fabricated using urania with the chemical solution deposition (CSD) method resulted in an increase in electrical resistivity. However, these thin films were later shown to be undesirable as the samples are too thin for neutron interactions to occur. Subsequent experiments involved the fabrication of co-doped urania to increase the electrical resistivity and grain size. Urania samples doped with Nb₂O₅ and La₂O₃ increased the electrical resistivity 10⁵ Ω-cm compared to intrinsic urania. Doped cerium dioxide (ceria) samples were also investigated as a method of determining the change in properties on a nonradioactive structural simulant of urania. Pulse height spectra was collected during the irradiation of single crystals of urania with a neutron flux produced by a 0.59 μg Cf-252 source. A positive response was observed but energy calibration was not possible from the α-decay of urania. Further investigations will require additional refinement to the selection of dopant materials and sintering conditions.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">uranium dioxide, detectors, neutron, structure, semiconductors, dopants</mods:note>
+  <mods:accessCondition type="local rights statement">Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+  <mods:note displayLabel="Copyright holder">author</mods:note>
+  <mods:physicalDescription>
+    <mods:note displayLabel="Publication Status">PUBLISHED</mods:note>
+  </mods:physicalDescription>
+</mods:mods>

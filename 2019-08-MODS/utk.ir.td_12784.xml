@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Effects of Cover Crop Species on Residue Decomposition and Soil Nitrogen Availability in a Corn-Soybean System</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal" authority="orcid" authorityURI="http://id.loc.gov/vocabulary/identifiers/orcid.html" valueURI="http://orcid.org/0000-0003-3975-2675">
+    <mods:namePart type="given">Manuel</mods:namePart>
+    <mods:namePart type="family">Sabbagh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-07-25T22:52:41-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-07-25T22:52:41-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-07-25T22:52:41-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Masters (pre-doctoral)</etd:level>
+      <etd:name>Master of Science</etd:name>
+      <etd:discipline>Environmental and Soil Science</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Sindhu</mods:namePart>
+    <mods:namePart type="family">Jagadamma</mods:namePart>
+    <mods:namePart type="termsOfAddress">Dr.</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Jaehoon</mods:namePart>
+    <mods:namePart type="family">Lee</mods:namePart>
+    <mods:namePart type="termsOfAddress">Dr.</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Michael</mods:namePart>
+    <mods:namePart type="family">Essington</mods:namePart>
+    <mods:namePart type="termsOfAddress">Dr.</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Forbes</mods:namePart>
+    <mods:namePart type="family">Walker</mods:namePart>
+    <mods:namePart type="termsOfAddress">Dr.</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_bdcc">masters thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>There is limited knowledge concerning the effects of multi-species cover crops (CC) on soil nitrogen (N) dynamics in the row-crop systems of the southeastern US. This study was conducted with two objectives: (i) to determine the rates of in-situ CC residue decomposition and N release in response to CC species and degree of soil contact, and (ii) to understand the seasonal changes in soil N pools across different CC treatments compared to a CC-free control at different soil depths. &#13;
+&#13;
+Based on a 21-week in situ litterbag experiment, CC residue decomposition rates and N release were determined. Litterbags were either placed on the soil surface (SP) or in the subsurface (SSP). The SSP residues decomposed and released N significantly faster than SP residues. By week 4, proportion of residues decomposed was 43% and 72%, and the amount of N remained was 30 and 8 kg N ha-1 for SP and SSP, across the treatments. For SP, the cereal rye (Secale cereal L.) and hairy vetch (Vicia villosa Roth) mixture consistently had the greatest N remaining, whereas the single-species cereal rye had the greatest N remaining for SSP.&#13;
+&#13;
+Soils were sampled 5 times between October 2017 and November 2018 from the 0-5, 5-10, and 10-20 cm depth and analyzed for plant available N, water extractable total soluble N (WEN), and potentially mineralizable N. Cover crop type, soil depth, and soil sampling event had no significant effect on any of the analyzed parameters. However, the soil depth and sampling time interaction were significant for all parameters. Plant available N was greatest in the top soil layer in April and May 2018 (27 and 24 mg N kg-1), whereas WEN was greatest in May 2018 with a 167% increase from April 2018. &#13;
+&#13;
+Overall, this study determined the rate of N release in soil in response to different CC species and characterized available soil N pools. This study indicated that no-till planting of row-crops within a few weeks of CC termination is a strategic management method for utilizing CC as a supplemental N source for row-crop production.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">cover crop, nitrogen, decomposition, no tillage, cover crop mixture, nutrient cycling</mods:note>
+  <mods:accessCondition type="local rights statement"> Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+<mods:note displayLabel="Copyright holder">author</mods:note><mods:physicalDescription><mods:note displayLabel="Publication Status">PUBLISHED</mods:note></mods:physicalDescription></mods:mods>

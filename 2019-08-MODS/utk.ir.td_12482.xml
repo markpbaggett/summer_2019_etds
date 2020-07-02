@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Improving MPI Threading Support for Current Hardware Architectures</mods:title>
+  </mods:titleInfo>
+  <mods:name valueURI="http://orcid.org/0000-0002-3921-022X" type="personal" authority="orcid" authorityURI="http://id.loc.gov/vocabulary/identifiers/orcid.html">
+    <mods:namePart type="given">Thananon</mods:namePart>
+    <mods:namePart type="family">Patinyasakdikul</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-08-02T21:50:47-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-06-07T15:48:01-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-06-07T15:48:01-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-08-02T21:50:47-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Doctoral (includes post-doctoral)</etd:level>
+      <etd:name>Doctor of Philosophy</etd:name>
+      <etd:discipline>Computer Science</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Jack</mods:namePart>
+    <mods:namePart type="family">Dongarra</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Michael</mods:namePart>
+    <mods:namePart type="family">Berry</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Michela</mods:namePart>
+    <mods:namePart type="family">Taufer</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Yingkui</mods:namePart>
+    <mods:namePart type="family">Li</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_db06">doctoral thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Threading support for Message Passing Interface (MPI) has been defined in the MPI standard for more than twenty years. While many standard-compliance MPI implementations fully support multithreading, the threading support in MPI still cannot provide the optimal performance on the same level as the non-threading environment. The performance disparity leads to low adoption rate from applications, and eventually, lesser interest in optimizing MPI threading support. However, with the current advancement in computation hardware, the number of CPU core per packet is growing drastically. Using shared-memory MPI communication has become more costly. MPI threading without local communication is one of the alternatives and the some interests are shifting back toward threading to MPI.&#13;
+&#13;
+In this work, we investigate different approaches to leverage the power of thread parallelism and tools to help us to raise the multi-threaded MPI performance to reasonable level. We propose a novel multi-threaded MPI benchmark with multiple communication patterns to stress multiple points of the MPI implementation, with the ability to switch between using MPI process and threads for quick comparison between two modes. Enabling the us, and the others MPI developers to stress test their implementation design.&#13;
+&#13;
+We address the interoperability between MPI implementation and threading frameworks by introducing the thread-synchronization object, an object that gives the MPI implementation more control over user-level thread, allowing for more thread utilization in MPI. In our implementation, the synchronization object relieves the lock contention on the internal progress engine and able to achieve up to 7x the performance of the original implementation. Moving forward, we explore the possibility of harnessing the true thread concurrency. We proposed several strategies to address the bottlenecks in MPI implementation. From our evaluation, with our novel threading optimization, we can achieve up to 22x the performance comparing to the legacy MPI designs.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">Message Passing, High-performance Computing, Threads, communication, MPI</mods:note>
+  <mods:accessCondition type="local rights statement">Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+  <mods:note displayLabel="Copyright holder">author</mods:note>
+  <mods:physicalDescription>
+    <mods:note displayLabel="Publication Status">PUBLISHED</mods:note>
+  </mods:physicalDescription>
+</mods:mods>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Uncertainty Estimates in Few-Body Physics</mods:title>
+  </mods:titleInfo>
+  <mods:name valueURI="http://orcid.org/0000-0002-8748-6976" type="personal" authority="orcid" authorityURI="http://id.loc.gov/vocabulary/identifiers/orcid.html">
+    <mods:namePart type="given">Daniel</mods:namePart>
+    <mods:namePart type="family">Odell</mods:namePart>
+    <mods:namePart type="termsOfAddress">Jr</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-05-03T15:47:39-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-03-27T09:41:07-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-03-27T09:41:07-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-05-03T15:47:39-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Doctoral (includes post-doctoral)</etd:level>
+      <etd:name>Doctor of Philosophy</etd:name>
+      <etd:discipline>Physics</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Lucas</mods:namePart>
+    <mods:namePart type="family">Platter</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Thomas</mods:namePart>
+    <mods:namePart type="family">Papenbrock</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Robert</mods:namePart>
+    <mods:namePart type="family">Hinde</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Norman</mods:namePart>
+    <mods:namePart type="family">Mannella</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_db06">doctoral thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Uncertainty estimates in theoretical physics are just as important as they are in experimental physics. As a theorist, one must qualify a given calculation with the assumptions on which the calculation is performed. Such a practice equips the scientific community with the context necessary to evaluate the validity of a theory. It also provides some basis upon which the theory can develop improvements. The work presented here concerns itself with two sources of uncertainty in theoretical physics. First, we discuss numerical uncertainties. Particularly, we quantify the uncertainties introduced by basis truncations and the exploit it to extrapolate infinite-basis results. Second, we examine framework uncertainties — those attributable to the inherent failure of the employed model to describe the fullness of nature. We establish the sufficiency of a two-body contact interaction to renormalize short-distance physics in the two- and three-body sectors of systems where singular potentials relevant to nuclear and atomic dominate the low-energy behavior.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment">Portions of this document were previously published in Physical Review C.</mods:note>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">renormalization, EFT, van der Waals, nuclear, theory</mods:note>
+  <mods:accessCondition type="local rights statement">Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+  <mods:note displayLabel="Copyright holder">author</mods:note>
+  <mods:physicalDescription>
+    <mods:note displayLabel="Publication Status">PUBLISHED</mods:note>
+  </mods:physicalDescription>
+</mods:mods>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>The Jacksonian Reformation: Political Patronage and Republican Identity</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">Max</mods:namePart>
+    <mods:namePart type="family">Matherne</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-06-18T13:25:53-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-06-18T13:25:53-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-06-18T13:25:53-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Doctoral (includes post-doctoral)</etd:level>
+      <etd:name>Doctor of Philosophy</etd:name>
+      <etd:discipline>History</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Daniel</mods:namePart>
+    <mods:namePart type="family">Feller</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Luke</mods:namePart>
+    <mods:namePart type="family">Harlow</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_db06">doctoral thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>This dissertation examines the seemingly mundane issue of political appointments and its significance for eighteenth- and nineteenth-century republican thought. I do this by situating Andrew Jackson’s political supporters in an intellectual longue dureé spanning both hemispheres of the Enlightenment-era Atlantic. Eighteenth-century  republican discourse depicted corrupt officeholders and their “aristocratic” masters as the greatest threats to political liberty. Between the Revolution and 1828, Americans crafted a theory of history that reified moral distinctions between the virtuous, independent “people” and the imagined sub-sects of conspiring “aristocrats” and supplicant “courtiers” who wielded power through government patronage. The first task of the Jackson administration was to extirpate any aristocratic fifth columns in their midst; they carried out this inquisitorial agenda with a ruthless purge of the Federal Civil Service. Jacksonian Democrats did not originally unite around matters of fiscal policy or white supremacy, then, but around an old and venerable “anti-establishment” republican tradition.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">American Political History, Jacksonian Democracy, Political Patronage, American Political Thought, Early American Republic</mods:note>
+  <mods:accessCondition type="local rights statement"> Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+<mods:note displayLabel="Copyright holder">author</mods:note><mods:physicalDescription><mods:note displayLabel="Publication Status">PUBLISHED</mods:note></mods:physicalDescription></mods:mods>

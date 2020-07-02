@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Evaluating scenarios using an agent-based model for pheasant populations and biomass harvest strategies</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">Jasmine Asha Fadale</mods:namePart>
+    <mods:namePart type="family">Kreig</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-05-13T22:18:23-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-05-13T22:18:23-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-05-13T22:18:23-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Masters (pre-doctoral)</etd:level>
+      <etd:name>Master of Science</etd:name>
+      <etd:discipline>Mathematics</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Suzanne</mods:namePart>
+    <mods:namePart type="family">Lenhart</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Henriette</mods:namePart>
+    <mods:namePart type="family">Jager</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Monica</mods:namePart>
+    <mods:namePart type="family">Papes</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_bdcc">masters thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Ring-necked pheasants (Phasianus colchicus), while a non-native species in North America, is a popular game species. Many mid-western states, including Iowa, depend on the revenue that hunting tourism gen- erates. Thus, there are programs to ensure pheasant populations do not decline, the most ubiquitous being Conservation Reserve Programs (CRP). By enrolling land in CRP, farmers remove that land from tradi- tional agricultural production and receive rental payment. Additionally, farmers plant crops that simulate pheasant habitat, which can be harvested as biomass feedstock. In this study, we build a spatially-explicit agent-based model (ABM) to simulate dynamics associated with pheasants, hunters, and tractors on a typ- ical Iowa field with CRP land. We evaluate the model’s ability to realistically represent dynamics of agents and their interactions. The ABM simulates pheasant population trends over time, under varied sex-ratio probabilities, and exhibits reasonable habitat-use by pheasants. We compare two scenarios (S2, S3) that differ in spatial and temporal rules for tractors and hunters to investigate the effect such constraints have on pheasant populations and harvested biomass. S3 (harvest outward spiral, mow once between August 1 - 15) had approximately 10,000 tons/km2 more biomass harvested than S2 (harvest inward spiral, two-cut system), though a portion of this difference can be attributed to model assumptions and must be further investigated. However, double the number of roosters were killed by hunters in S2 (strip hunting, 93 day season) compared with S3 (radial hunting, 42 day season). Proportionally, roosters were killed at the same rate, indicating that spatial constraints on hunters have less impact on the number of roosters killed com- pared to length of the hunting season. Accidental rooster death by tractor was also tracked in each scenario (S2 - 220, S3 - 52), and these deaths may be lower in S3 because tractors are mowing after hens have finished using the area to rear broods. In comparison, mowing occurs in S2 while hens are nesting. Overall, these results are promising and planned future work should provide valuable insight into the effect spatiotemporal harvesting constraints have on pheasants and biomass.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">Ring-necked pheasant, agent-based model, biomass, harvest strategies, Conservation Reserve Program, NetLogo</mods:note>
+  <mods:accessCondition type="local rights statement"> Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+<mods:note displayLabel="Copyright holder">author</mods:note><mods:physicalDescription><mods:note displayLabel="Publication Status">PUBLISHED</mods:note></mods:physicalDescription></mods:mods>

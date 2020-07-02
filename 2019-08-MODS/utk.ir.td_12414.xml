@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Tennessee Beef Cattle Producer Use of and Willingness to Adopt Warm-Season Grasses for Forage</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">Yongwang</mods:namePart>
+    <mods:namePart type="family">Ren</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-07-24T09:16:03-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-05-22T09:43:39-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-05-22T09:43:39-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-06-21T16:32:37-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-07-24T09:16:03-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Masters (pre-doctoral)</etd:level>
+      <etd:name>Master of Science</etd:name>
+      <etd:discipline>Agricultural and Resource Economics</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Christopher</mods:namePart>
+    <mods:namePart type="family">Clark</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Christopher</mods:namePart>
+    <mods:namePart type="family">Clark</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Christopher</mods:namePart>
+    <mods:namePart type="family">Boyer</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Andrew</mods:namePart>
+    <mods:namePart type="family">Griffith</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Jada</mods:namePart>
+    <mods:namePart type="family">Thompson</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_bdcc">masters thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>This thesis is comprised of two studies focusing on current adoption conditions and willingness to adopt warm-season grasses (WSG) of Tennessee beef cattle producers. The first study summarizes the results of Tennessee Beef Cattle Producer Survey, which gathered data about livestock producers, pasture management, livestock operations, producers’ knowledge about WSG and so on. About 40.5% of respondents have already planted WSG and half of them have grazed livestock on WSG for more than 10 years. From 2001 to 2017, the annual growth rate of number of producers who planted WSG was about 5.75%, although the growth was more rapid during the recent 10 years. &#13;
+The second study explores the reasons for the limited utilization of WSG and the effect of financial incentives on WSG adoption. For the early users of WSG, except the effect of survey distribution, they were more likely to attend Field days or Extension workshops, have larger pastures, rotate livestock more frequently and test their soil. Respondents who were not already using WSG were asked if they would be willing to adopt WSG given a financial incentive. For respondents who were not already using WSG, producers who were more likely to adopt WSG include those who have higher stocking density, have higher expectations of WSG, rely more on municipal water, and had previously supplemented water source during a drought. Incentive only have influences on the adoption of WSG, about 50.8% to 64% of nonusers chose to adopt WSG with incentive changed from $25/acre to $165/acre. The number of acres of WSG they were willing to plant were influenced by their total pasture acres, expectations of WSG, and concern of time and effort needed to convert pasture to WSG. The results could be used when designing a program to promote the conversion of pasture to WSG through incentives and in targeting producers who are more likely to adopt WSG.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author"/>
+  <mods:accessCondition type="local rights statement">Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+  <mods:note displayLabel="Copyright holder">author</mods:note>
+  <mods:physicalDescription>
+    <mods:note displayLabel="Publication Status">PUBLISHED</mods:note>
+  </mods:physicalDescription>
+</mods:mods>

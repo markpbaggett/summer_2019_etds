@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Floral visitors of Helianthus verticillatus, a rare sunflower species in the southeastern United States</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">Nicolas C.</mods:namePart>
+    <mods:namePart type="family">Strange</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-06-03T09:32:09-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-06-03T09:32:09-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-06-03T09:32:09-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Masters (pre-doctoral)</etd:level>
+      <etd:name>Master of Science</etd:name>
+      <etd:discipline>Entomology and Plant Pathology</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Robert N.</mods:namePart>
+    <mods:namePart type="family">Trigiano</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">William</mods:namePart>
+    <mods:namePart type="family">Klingeman</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Ernest</mods:namePart>
+    <mods:namePart type="family">Bernard</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Feng</mods:namePart>
+    <mods:namePart type="family">Chen</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_bdcc">masters thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Whorled sunflower (Helianthus verticillatus) is an endangered species of aster found exclusively in the southeastern United States. Evidence suggests that this species is self-incompatible and reliant on insect pollination for seed production. However, little is known about the general biology of this species, including the identity of probable pollinators. Floral visitors were collected and identified during September of 2017 and 2018. A total of 41 species of visitors (29 Hymenoptera, 6 Diptera, 1 Lepidoptera, and 5 miscellaneous) were trapped during seven collection days at one site in Georgia and two in Tennessee. Within a collection day (7:45 to 18:15), there were either 5 or 6 discrete half-hour time periods when insects were trapped. Insect visitor activity peaked during the 11:45-12:15 and 13:45-14:15 collection periods and was least during the 7:45- 8:45 and 9:45-10:15 periods at all three locations. Visitors were identified to genus and species using morphological keys and some with sequences of the COX-1 mitochondrial gene.  A rarefaction analysis using the iNext Online package was used to assess species richness, while Simpson’s Diversity Index was used to assess species diversity within and across each location. The most common visitor across all locations was Bombus spp. (bumblebees), followed by Ceratina calcarata (a carpenter bee) and members of the halictid bee tribe Augochlorini at the two Tennessee locations. Pollen on visitors was identified to genus via direct PCR of DNA using Helianthus-specific microsatellites. Pollen grain counts were obtained from the 10 most common visitors and Apis mellifera (honey bee) using a hemocytometer. Of these visitors, Bombus spp., Halictus ligatus (a sweat bee), and Melissodes spp. (long-horned bees) carried the most Helianthus pollen grains. These visitors are likely to be the primary pollinators of H. verticillatus flowers.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">Helianthus, verticillatus, pollinators, sunflower, bees, pollination</mods:note>
+  <mods:accessCondition type="local rights statement"> Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+<mods:note displayLabel="Copyright holder">author</mods:note><mods:physicalDescription><mods:note displayLabel="Publication Status">PUBLISHED</mods:note></mods:physicalDescription></mods:mods>

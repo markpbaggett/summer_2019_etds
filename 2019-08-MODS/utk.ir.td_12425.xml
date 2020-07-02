@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>An evaluation of early seral plant communities following tall fescue eradication and crop field abandonment in the Mid-South</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">Wade</mods:namePart>
+    <mods:namePart type="family">GeFellers</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-05-24T19:58:14-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-05-24T19:58:14-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-05-24T19:58:14-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Masters (pre-doctoral)</etd:level>
+      <etd:name>Master of Science</etd:name>
+      <etd:discipline>Wildlife and Fisheries Science</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Craig</mods:namePart>
+    <mods:namePart type="family">Harper</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Christopher</mods:namePart>
+    <mods:namePart type="family">Moorman</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">David</mods:namePart>
+    <mods:namePart type="family">Buehler</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">John</mods:namePart>
+    <mods:namePart type="family">Zobel</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_bdcc">masters thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Declines in early successional plant and wildlife communities are widely documented throughout the eastern USA and restoration efforts have increased in recent years. Conservation programs encourage establishment of these communities by providing financial and technical assistance to landowners. Planting native grasses and forbs is the common establishment approach with these programs and on public lands. Improper planting and weed competition are common barriers to planting success. We compared planting to seedbank response at eighteen sites throughout the Mid-South to evaluate early successional plant community establishment in fields previously dominated by tall fescue (Schedonorus arundinaceus) and row-crop agriculture. We planted a native seed mix to establish early successional plant communities in planted (PL) treatments. Planting and management were conducted according to state wildlife agency Private Land Wildlife Biologists’ recommendations to replicate practices used in conservation programs offered by the Tennessee Wildlife Resources Agency, the Alabama Department of Conservation and Natural Resources, and the Natural Resources Conservation Service. Natural revegetation treatments (NR) established from the seedbank, and strategic herbicide applications were used to remove undesirable species. Data indicated NR and PL treatments produced plant communities that were not different in composition, structure, coverage of northern bobwhite food plants, deer forage, deer nutritional carrying capacity, species richness, diversity, and evenness, coverage of native and nonnative plants, and coverage of native flowering forbs important to pollinators. There was less coverage of sericea lespedeza (Lespedeza cuneata) in NR. Multivariate analyses of nest-site data of 6 bird species indicated considerable overlap in nest sites and treatments, and most importantly, overlap of NR and PL confidence ellipses. Natural revegetation was 4.4 times more cost effective than planting. Imazapic was the only usable herbicide in PL that would not harm planted species, and johnsongrass (Sorghum halapense) was the most problematic undesirable species imazapic would control. Considering costs, control options for undesirable species, impacts on habitat quality for various wildlife species, and greater species diversity, evenness, and richness in NR compared to CNTL, it is recommended that land managers consider natural revegetation techniques when establishing or restoring early successional plant communities.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author"/>
+  <mods:accessCondition type="local rights statement"> Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+<mods:note displayLabel="Copyright holder">author</mods:note><mods:physicalDescription><mods:note displayLabel="Publication Status">PUBLISHED</mods:note></mods:physicalDescription></mods:mods>

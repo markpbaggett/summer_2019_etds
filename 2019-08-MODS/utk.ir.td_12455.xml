@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Children's Motivation for Physical Activity</mods:title>
+  </mods:titleInfo>
+  <mods:name valueURI="http://orcid.org/0000-0002-3873-1613" type="personal" authority="orcid" authorityURI="http://id.loc.gov/vocabulary/identifiers/orcid.html">
+    <mods:namePart type="given">Tyler</mods:namePart>
+    <mods:namePart type="family">Kybartas</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-07-29T14:57:57-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-06-04T21:43:06-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-06-04T21:43:06-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-07-29T14:57:57-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Doctoral (includes post-doctoral)</etd:level>
+      <etd:name>Doctor of Philosophy</etd:name>
+      <etd:discipline>Kinesiology and Sport Studies</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Dawn</mods:namePart>
+    <mods:namePart type="family">Coe</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Kelley</mods:namePart>
+    <mods:namePart type="family">Strohacker</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Rebecca</mods:namePart>
+    <mods:namePart type="family">Zakrajsek</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Samantha</mods:namePart>
+    <mods:namePart type="family">Ehrlich</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Jedediah</mods:namePart>
+    <mods:namePart type="family">Blanton</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_db06">doctoral thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>The establishment of physical activity routines in the early stages of life is critical to form life-long physical activity habits. Children are motivated for physical activities that they enjoy but research is scarce in children younger than eight years old. Thus, the purpose of this study was to explore why children enjoyed or did not enjoy physical activities and to measure physical activity and perceived motor competence. A convergent parallel mixed-methods study design was employed. First, 2nd, and 3rd grade students at two YMCA afterschool programs wore an accelerometer on the right hip for seven consecutive days, completed Harter’s perceived motor competency survey, and took part in focus groups. There was an insufficient number of first grade participants, so they were excluded from the analysis, leaving 16 total participants in 2nd and 3rd grade. There were two 2nd grade and two 3rd grade focus groups. Pearson correlations were conducted with all physical activity, perceived motor competency, demographic, and anthropometric data. Focus group data underwent thematic analysis using an inductive approach. Physical activity data revealed that over half the participants met physical activity recommendations and was similar among each YMCA site. There was a moderate positive correlation between age and percent of time spent in vigorous activity (r=0.542, p=0.045). There were moderate to high positive correlations between school site and percent of time spend in moderate physical activity (r=0.783, p=0.01), percent of time spent in vigorous physical activity (r=0.537, p=0.048), and percent of time spent in moderate to vigorous physical activity (r=0.738, p=0.003). This indicated children at the second school site had higher levels of moderate, vigorous, and moderate to vigorous physical activity. Additionally, the average perceived motor competency score was 3.0 (out of 4). There were no correlations between perceived motor competency scores and age, grade, focus groups, or school site (p&gt;0.05). There were four over-arching themes which included 1) physical activity is sport, 2) social influence, 3) perceived competence, and 4) physical activity characteristics. Results suggest exposing children early to wide varieties of physical activities may help minimize activities they dislike and build their perceived competence and social bonds.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">children, motivation, physical activity, enjoyment, exercise</mods:note>
+  <mods:accessCondition type="local rights statement">Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+  <mods:note displayLabel="Copyright holder">author</mods:note>
+  <mods:physicalDescription>
+    <mods:note displayLabel="Publication Status">PUBLISHED</mods:note>
+  </mods:physicalDescription>
+</mods:mods>

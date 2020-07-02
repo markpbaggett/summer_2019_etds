@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Teaching Trauma Theory and Practice to Master’s Level Counselors-in-Training: A Multiple Case Study</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">Charmayne</mods:namePart>
+    <mods:namePart type="family">Adams</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-07-02T11:54:00-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-06-09T14:12:01-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-06-09T14:12:01-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-07-02T11:54:00-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Doctoral (includes post-doctoral)</etd:level>
+      <etd:name>Doctor of Philosophy</etd:name>
+      <etd:discipline>Counselor Education</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Casey</mods:namePart>
+    <mods:namePart type="family">Barrio Minton</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Joel</mods:namePart>
+    <mods:namePart type="family">Diambra</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Gary</mods:namePart>
+    <mods:namePart type="family">Skolits</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Nicoll</mods:namePart>
+    <mods:namePart type="family">Hannaway</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_db06">doctoral thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>The purpose of this qualitative multiple case study was to understand how counselor educators (CEs) facilitate learning in their master’s level trauma theory and practice courses. The study addressed two research questions: (a) How do counselor educators choose which trauma content to address in master’s level trauma theory and practices courses? and (b) Which teaching methods do counselor educators utilize to facilitate significant learning in master’s level trauma theory and practice courses? Three CEs participated in this study. All three participants worked in CACREP accredited or aligned programs in three different regions (south, north central, north east). The participants had been employed as counselor educators from 3 years – 15 years. Data sources included two interviews each participant, an open-ended questionnaire completed by each participant, and document review of each instructor’s course syllabus and assignment descriptions. &#13;
+Three methods of teaching were consistent across the three Cases: lecture, discussion, and case study. Themes were examined within and across individual Cases. Case 1, Jade, chose course content and teaching methods based on responsivity to students, instructor awareness of contextual factors and current events, and embracing and capitalizing on instructor expertise and limitations. The hybrid format of the course, mentorship relationships, and program accreditation also impacted course design. Case 2, Jimmy, chose course content and teaching methods based on conceptualizing the role of students as advocates and his role as facilitator, the instructor’s experience, and choosing course methods to facilitate application of material. Additionally, the asynchronous online course format and the instructor’s conceptualization of Bloom’s Taxonomy impacted course design. Case 3, Alex, chose course content and teaching methods based on instructor clinical experience, creating course pedagogy focused on application, wanting to elicit&#13;
+student self-awareness, and various student influences. Additionally, the face-to-face format of the course and the use of a co-instructor impacted course design. Cross-case analysis indicated themes related to instructor role, instructor identity, methods of teaching that elicit fundamental change in the learner, and methods of teaching to develop student skill acquisition. Based on these findings, I provide implications for CE and recommendations for future research.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">counselor education, trauma, pedagogy, multiple case study</mods:note>
+  <mods:accessCondition type="local rights statement">Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+  <mods:note displayLabel="Copyright holder">author</mods:note>
+  <mods:physicalDescription>
+    <mods:note displayLabel="Publication Status">PUBLISHED</mods:note>
+  </mods:physicalDescription>
+</mods:mods>

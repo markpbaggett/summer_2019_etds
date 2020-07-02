@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Medium Mass Nuclei Using Pionless Effective Field Theory in Harmonic Oscillator Basis</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">Aaina</mods:namePart>
+    <mods:namePart type="family">Bansal</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-06-18T10:54:20-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-06-18T10:54:20-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-06-18T10:54:20-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Doctoral (includes post-doctoral)</etd:level>
+      <etd:name>Doctor of Philosophy</etd:name>
+      <etd:discipline>Physics</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Thomas</mods:namePart>
+    <mods:namePart type="family">Papenbrock</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Lucas</mods:namePart>
+    <mods:namePart type="family">Platter</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Robert</mods:namePart>
+    <mods:namePart type="family">Grzywacz</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Robert</mods:namePart>
+    <mods:namePart type="family">Hinde</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_db06">doctoral thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>I present next-to-leading order (NLO) pionless effective field theory (EFT) results for $^{16}$O and $^{40}$Ca nuclei at physical~$m_{\pi} = 140$~MeV and heavier pion mass~$m_{\pi} = 806$~MeV, where our predictions at heavier pion mass are based on the lattice quantum chromodynamics (QCD) data for $A = 2,3$ systems. We find bound $^{16}$O and $^{40}$Ca nuclei at NLO with binding energies per nucleon are 9-10 MeV and 26-36 MeV at pion masses of 140 MeV and 806 MeV, respectively. &#13;
+The EFT potentials are regulated by finite harmonic oscillator basis. I discuss the details of this method for three-nucleon contact interaction in addition to the short-ranged nucleon-nucleon potentials in pionless EFT. This approach facilitates many-body calculations due to ultraviolet (UV) convergence by construction. We confirm UV convergence using infrared extrapolations of our results for $A = 3,4$ nuclei. &#13;
+I also present our progress towards building a Nucleon-Nucleus (N-A) effective field theory potential to study $A+1$ neighbor of an $A$-body doubly-magic nucleus by attaching a neutron to an inert core with a structure. The low-energy coefficients of the N-A potential are optimized to differential scattering cross section experimental data for $(n,n)$ process.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment">Some figures, tables and portions of the text of this document were previously published in peer-reviewed journal Physics Review C.</mods:note>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">Pionless effective field theory, Lattice nuclei, discrete variable representation, Infrared extrapolation</mods:note>
+  <mods:accessCondition type="local rights statement"> Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+<mods:note displayLabel="Copyright holder">author</mods:note><mods:physicalDescription><mods:note displayLabel="Publication Status">PUBLISHED</mods:note></mods:physicalDescription></mods:mods>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>An Assessment of Genetic Diversity and Spatial Distribution of Cercis canadensis L. (Eastern Redbud) Using Microsatellite Loci.</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">Meher Afroze</mods:namePart>
+    <mods:namePart type="family">Ony</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-07-26T11:40:45-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-06-10T16:24:45-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-06-10T16:24:45-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-07-18T09:41:25-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-07-26T11:40:45-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Masters (pre-doctoral)</etd:level>
+      <etd:name>Master of Science</etd:name>
+      <etd:discipline>Entomology and Plant Pathology</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Denita</mods:namePart>
+    <mods:namePart type="family">Hadziabdic Guerry</mods:namePart>
+    <mods:namePart type="termsOfAddress">Dr.</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Robert</mods:namePart>
+    <mods:namePart type="family">Trigiano</mods:namePart>
+    <mods:namePart type="termsOfAddress">Dr.</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">William</mods:namePart>
+    <mods:namePart type="family">Klingeman</mods:namePart>
+    <mods:namePart type="termsOfAddress">Dr.</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">John</mods:namePart>
+    <mods:namePart type="family">Zobel</mods:namePart>
+    <mods:namePart type="termsOfAddress">Dr.</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_bdcc">masters thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Cercis canadensis L. (Eastern Redbud) is a small, understory tree native to the eastern United States. This species is a popular deciduous shade tree that accounts for more than $27 million in the annual native tree and cultivar sales in the United States. Knowledge of the genetic diversity and spatial distribution of C. canadensis populations in their native range is currently limited. For this study, we estimated genetic diversity and determined the spatial structure of C. canadensis populations at a fine scale within the Tennessee-Georgia area, and at a broad scale across the native range of the species. We hypothesized that high genetic diversity and the presence of population structure of &#13;
+C. canadensis would be evident at both fine and broad-scale perspectives, due to the species’ wide range in observable morphological variation. For the fine-scale study, we utilized 15 microsatellite loci developed previously to determine genetic diversity and population structure of 174 individual, wild-type (open-pollinated) trees from 18 collection sites in Tennessee and Georgia. For the broad-scale study, we used 12 microsatellite loci to determine genetic diversity and spatial structure of 691 individual wild-type trees in 74 locations across 23 states. At both fine and broad scale, we detected two genetic clusters, high genetic diversity (He = 0.60 and He = 0.67, respectively), and moderate to high levels of genetic differentiation (FST = 0.14 and FST = 0.19, respectively) among C. canadensis populations. At both fine and broad scales, the majority of genetic variation were individually based (45.60%, P &lt; 0.001 and 69.15%, P &lt; 0.001, respectively). The high levels of genetic diversity and spatial structure of C. canadensis at fine and broad scales has important implications for habitat management and for future breeding programs that will target desirable horticultural traits in the species.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">Cercis, eastern redbud, forest fragmentation, population genetics, microsatellite loci, SSRs, native species, genetic diversity, population structure, spatial distribution</mods:note>
+  <mods:accessCondition type="local rights statement">Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+  <mods:note displayLabel="Copyright holder">author</mods:note>
+  <mods:physicalDescription>
+    <mods:note displayLabel="Publication Status">PUBLISHED</mods:note>
+  </mods:physicalDescription>
+</mods:mods>

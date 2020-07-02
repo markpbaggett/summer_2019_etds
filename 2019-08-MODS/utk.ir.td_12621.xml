@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Sub-Saharan African Refugee Mother and Health Care Provider Experiences, Perceptions, and Needs</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">Jennifer</mods:namePart>
+    <mods:namePart type="family">Ward</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-06-10T17:15:10-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-06-10T17:15:10-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-06-10T17:15:10-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Doctoral (includes post-doctoral)</etd:level>
+      <etd:name>Doctor of Philosophy</etd:name>
+      <etd:discipline>Child and Family Studies</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Hillary</mods:namePart>
+    <mods:namePart type="family">Fouts</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Megan</mods:namePart>
+    <mods:namePart type="family">Haselschwerdt</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Mary Jane</mods:namePart>
+    <mods:namePart type="family">Moran</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Katie</mods:namePart>
+    <mods:namePart type="family">Kavanagh</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_db06">doctoral thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Refugees have resettled in the U.S. for decades and welcoming communities are charged with providing services to culturally and linguistically groups of people. Women from Sub-Saharan Africa (SSA) have increasingly been resettled in the past decade and present specific challenges and opportunities to the health care system that serves them during pregnancy care. Pregnancy care in particular and maternal health care in general are of particular interest because they include services that have the potential to impact long-term health outcomes of families and because they are often a point of entry into the health care system. Through three studies, this dissertation examined the interactions between refugee women from SSA and their health providers in the context of maternity care through bioecological, socio-ecological, intersectional, and cultural competence theoretical frameworks. The first study used the PRISMA framework to systematically review what is known about the needs of women from SSA as they encounter the maternal health care system in the U.S. Results indicated that needs can be categorized as Clinical, Systemic, and Personal and recognized Strengths and Protective Factors. The second study is an in-depth case study that used interviews and observations to understand the experiences and perceptions of care received by two refugee women from the Democratic Republic of the Congo that were resettled in the southeastern U.S. Participants had different experiences of pregnancy care and these were related to the differences in personal characteristics between the participants. Personal characteristics influenced the participants’ ability to access care and their subsequent experiences and perceptions of that care. The third study used key informant interviews with medical doctors, nurse practitioners, and nurse midwives to understand their perceptions of the needs of refugee patients from SSA and their needs as health providers interacting within their respective clinics and the larger U.S. health system. Together, the studies elucidate the importance of culture as a factor in health care interactions and opportunities for service providers and public health professionals to bolster services in a way that allows for more seamless service delivery in a culturally competent manner that ultimately improves health outcomes and reduces health disparities.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">Sub Saharan Africa, refugee, maternal health, infant feeding, cultural competency</mods:note>
+  <mods:accessCondition type="local rights statement"> Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+<mods:note displayLabel="Copyright holder">author</mods:note><mods:physicalDescription><mods:note displayLabel="Publication Status">PUBLISHED</mods:note></mods:physicalDescription></mods:mods>

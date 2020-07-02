@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Multiple Particle Positron Emission Particle Tracking and its Application to Flows in Porous Media</mods:title>
+  </mods:titleInfo>
+  <mods:name valueURI="http://orcid.org/0000-0001-8767-8866" type="personal" authority="orcid" authorityURI="http://id.loc.gov/vocabulary/identifiers/orcid.html">
+    <mods:namePart type="given">Cody</mods:namePart>
+    <mods:namePart type="family">Wiggins</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-07-06T10:25:43-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-06-04T17:41:31-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-06-04T17:41:31-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-07-06T10:25:43-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Doctoral (includes post-doctoral)</etd:level>
+      <etd:name>Doctor of Philosophy</etd:name>
+      <etd:discipline>Physics</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Katherine</mods:namePart>
+    <mods:namePart type="family">Grzywacz-Jones</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Arthur</mods:namePart>
+    <mods:namePart type="family">Ruggles</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Anthony</mods:namePart>
+    <mods:namePart type="family">Mezzacappa</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Soren</mods:namePart>
+    <mods:namePart type="family">Sorensen</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_db06">doctoral thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Positron emission particle tracking (PEPT) is a method for flow interrogation capable of measurement in opaque systems. In this work a novel method for PEPT is introduced that allows for simultaneous tracking of multiple tracers. This method (M-PEPT) is adapted from optical particle tracking techniques and is designed to track an arbitrary number of positron-emitting tracer-particles entering and leaving the field of view of a detector array. M-PEPT is described, and its applicability is demonstrated for a number of measurements ranging from turbulent shear flow interrogation to cell migration. It is found that this method can locate over 80 particles simultaneously with spatial resolution of order 0.2 mm at tracking frequency of 10 Hz and, at lower particle number densities, can achieve similar spatial resolution at tracking frequency 1000 Hz. The method is limited in its ability to resolve particles approaching close to one another, and suggestions for future improvements are made.&#13;
+M-PEPT is used to study flow in porous media constructed from packing of glass beads of different diameters. Anomalous (i.e. non-Fickian) dispersion of tracers is studied in these systems under the continuous time random walk (CTRW) paradigm. Pore-length transition time distributions are measured, and it is found that in all cases, these distributions indicate the presence of long waiting times between transitions, confirming the central assumption of the CTRW model. All systems demonstrate non-Fickian spreading of tracers at early and intermediate times with a late time recovery of Fickian dispersion, but a clear link between transition time distributions and tracer spreading is not made. Velocity increment statistics are examined, and it is found that temporal velocity increments in the mean-flow direction show a universal scaling. Spatial velocity increments also appear to collapse to a similar form, but there is insufficient data to determine the presence of universal scaling.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment">This work describes the development of novel reconstruction method for positron emission particle tracking and demonstrates its use via an experiment with flows in porous media. Portions of this document have been previously detailed by the author and his colleagues in the journals Nuclear Instruments and Methods in Physics Research Section A and Chemical Engineering Science.</mods:note>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">Positron Emission Particle Tracking, Positron Emission Tomography, Fluid Dynamics, Porous Media, Particle Tracking</mods:note>
+  <mods:accessCondition type="local rights statement">Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+  <mods:note displayLabel="Copyright holder">author</mods:note>
+  <mods:physicalDescription>
+    <mods:note displayLabel="Publication Status">PUBLISHED</mods:note>
+  </mods:physicalDescription>
+</mods:mods>

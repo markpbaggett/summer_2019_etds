@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>The Development and Validation of the Emporium Model Motivation Scale (EMMS)</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal" authority="orcid" authorityURI="http://id.loc.gov/vocabulary/identifiers/orcid.html" valueURI="http://orcid.org/0000-0002-0478-8531">
+    <mods:namePart type="given">Terry O</mods:namePart>
+    <mods:namePart type="family">Gibson</mods:namePart>
+    <mods:namePart type="termsOfAddress">Jr.</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-05-28T16:30:18-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-05-28T16:30:18-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-05-28T16:30:18-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Doctoral (includes post-doctoral)</etd:level>
+      <etd:name>Doctor of Philosophy</etd:name>
+      <etd:discipline>Educational Psychology and Research</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Jennifer Ann</mods:namePart>
+    <mods:namePart type="family">Morrow</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Gary J.</mods:namePart>
+    <mods:namePart type="family">Skolits</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Louis M.</mods:namePart>
+    <mods:namePart type="family">Rocconi</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Lynn</mods:namePart>
+    <mods:namePart type="family">Hodge</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_db06">doctoral thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>The purpose of this research study was to begin the development and validation of a new survey instrument; the Emporium Model Motivation Scale (EMMS).  The instrument is designed to be used as part of a more holistic evaluation of non-traditional student-centered mathematics courses or programs redesigned using the Emporium Model (E-Model).  EdResearch suggested that the design of the E-Model environment was better suited to help students become more autonomy-natured (Williams, 2016).  The present research was rooted in Self-determination Theory (SDT), which asserted that all individuals had a natural desire to strive for autonomy, competence, and relatedness in their social environments (Ryan &amp; Deci, 2000; 2017).  The research study consisted of a random sample of n = 463 respondents from both a U.S. community college and 4-year public university.  Results of an Exploratory Factor Analysis (EFA) produced four parsimonious factor solutions that showed potential to be valid, highly reliable with  (ω ≥ .89) and replicable across other samples or populations.  The factors were analyzed using Polychoric correlations, with Unweighted Least Squares (ULS) extraction and Promax rotation.  Correlational analysis, MANOVA, ANOVA, and Standard Multiple Regression were performed with accurate and reliable standardized factor score estimates.  Overall results revealed statistically significant differences between the two institutions of higher learning across levels of the EMMS factors.  Further analyses revealed that age was a statistically significant predictor of the EMMS factors and that older respondents were more autonomous and receptive of the E-Model design for course instruction.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">Exploratory Factor Analysis, Self-Determination Theory (SDT), Autonomy, Competence, Relatedness, motivation</mods:note>
+  <mods:accessCondition type="local rights statement"> Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+<mods:note displayLabel="Copyright holder">author</mods:note><mods:physicalDescription><mods:note displayLabel="Publication Status">PUBLISHED</mods:note></mods:physicalDescription></mods:mods>

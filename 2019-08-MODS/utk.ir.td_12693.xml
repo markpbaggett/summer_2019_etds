@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Impact of nutritional management strategies on semen quality of developing bulls</mods:title>
+  </mods:titleInfo>
+  <mods:name valueURI="http://orcid.org/0000-0001-5463-6248" type="personal" authority="orcid" authorityURI="http://id.loc.gov/vocabulary/identifiers/orcid.html">
+    <mods:namePart type="given">Jarret</mods:namePart>
+    <mods:namePart type="family">Proctor</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-07-18T17:08:21-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-07-02T10:54:28-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-07-02T10:54:28-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-07-18T17:06:52-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-07-18T17:08:21-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Masters (pre-doctoral)</etd:level>
+      <etd:name>Master of Science</etd:name>
+      <etd:discipline>Animal Science</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Jason</mods:namePart>
+    <mods:namePart type="family">Smith</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Justin</mods:namePart>
+    <mods:namePart type="family">Rhinehart</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Lew</mods:namePart>
+    <mods:namePart type="family">Strickland</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_bdcc">masters thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Nutritional management and semen collection method are thought to influence semen quality parameters evaluated during a breeding soundness examination. Therefore, the objective of this experiment was to evaluate the effects of two feeding strategies on growth performance and semen quality of developing bulls. A secondary objective was to quantify the effects of two semen collection methods on semen quality. Angus bulls (n = 48; 332 ± 47 d of age) were stratified into one of sixteen drylot pens before random assignment to one of two iso-caloric diets: a total mixed ration (TMR; n = 8 pens) or a component-based ration (COMP; n = 8 pens). Bulls were assigned to either electroejaculation (EE; n = 24) or trans-rectal massage (RM; n = 24) and each collection method occurred twice throughout an 84-d feeding period. Rumen pH was continuously monitored via rumen boluses and dry matter intake (DMI) was measured daily. Backfat thickness and hoof conformation were measured on d 0 and 84, with body weight measured and semen collected at 21-d intervals. Semen was assessed for progressive motility, total sperm per ejaculate, and sperm cell morphology. Bulls fed the COMP ration had a greater DMI (P &lt; 0.01) and ADG (P &lt; 0.01), but similar feed efficiency (P = 0.19) when compared to TMR-fed bulls. Bulls fed COMP had a lower mean rumen pH (P &lt; 0.01). Additionally, COMP-fed bulls had greater backfat thickness (P &lt; 0.01) but similar hoof conformation scores (P ≥ 0.55) when compared to TMR-fed bulls on d 84. Bulls fed the COMP had greater semen volume (P &lt; 0.05) but feeding management did not affect progressive motility (P = 0.42), total sperm per ejaculate (P = 0.86), or percent morphologically-normal sperm (P = 0.59). However, bulls collected via RM had greater total sperm per ejaculate (P &lt; 0.05), and semen volume (P &lt; 0.01), but lower percent morphologically-normal sperm (P &lt; 0.05) and progressive motility (P &lt; 0.01). Neither diet nor semen collection method affected BSE passage rate (P ≥ 0.34), suggesting minimal influence on BSE outcomes in developing bulls.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">beef cattle, bull, hoof conformation, pH, rumen, semen</mods:note>
+  <mods:accessCondition type="local rights statement">Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+  <mods:note displayLabel="Copyright holder">author</mods:note>
+  <mods:physicalDescription>
+    <mods:note displayLabel="Publication Status">PUBLISHED</mods:note>
+  </mods:physicalDescription>
+</mods:mods>

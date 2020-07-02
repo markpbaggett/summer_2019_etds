@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>A Two-Part Study of Step Counter Accuracy and Ecological Momentary Assessment of Correlates to Total Physical Activity in Phase II Cardiac Rehabilitation Patients</mods:title>
+  </mods:titleInfo>
+  <mods:name valueURI="http://orcid.org/Lindsay P Toth" type="personal" authority="orcid" authorityURI="http://id.loc.gov/vocabulary/identifiers/orcid.html">
+    <mods:namePart type="given">Lindsay</mods:namePart>
+    <mods:namePart type="family">Toth</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-07-30T01:37:21-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-06-10T23:40:09-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-06-10T23:40:09-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-07-30T01:37:21-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Doctoral (includes post-doctoral)</etd:level>
+      <etd:name>Doctor of Philosophy</etd:name>
+      <etd:discipline>Kinesiology</etd:discipline>
+      <etd:grantor/>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">David</mods:namePart>
+    <mods:namePart type="family">Bassett</mods:namePart>
+    <mods:namePart type="termsOfAddress">Jr.</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths"/>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Kelley</mods:namePart>
+    <mods:namePart type="family">Strohacker</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths"/>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Scott</mods:namePart>
+    <mods:namePart type="family">Crouter</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text"/>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Eugene</mods:namePart>
+    <mods:namePart type="family">Fitzhugh</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text"/>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Samantha</mods:namePart>
+    <mods:namePart type="family">Ehrlich</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text"/>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource/>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039"/>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_db06">doctoral thesis</mods:genre>
+  <mods:language/>
+  <mods:abstract>Cardiac rehabilitation (CR) is an exercise and education program aimed to help individuals improve fitness levels to return to their careers and social lives. The dropout rate is high, between 25% to 50%, and is related to several factors with an early predictor being higher anxiety levels.  It is important to understand the patterns and consistency of this variable as it changes throughout the day and its association physical activity (PA) in order to influence interventions. Ecological momentary assessment (EMA) and actigraphy can capture momentary anxiety and PA, respectively, for temporal analysis. This dissertation includes two studies. Study I examined the error in daily steps of four wearable PA monitors (Fitbit Charge 2, Apple Watch Series 2, Fitbit Zip, ActiGraph GT9X) in phase II CR patients. Nineteen patients wore activity monitors on the ankle, non-dominant wrist, and waist on two days that they attended CR and two days when they did not. Steps from each monitor were compared to criterion steps from the StepWatch (SW). The Fitbit Charge and Apple Watch captured within 10% of SW steps and most other monitors underestimated steps. Study II examined the consistency and intra- and inter-individual patterns in state anxiety (SA) and PA and described the feasibility of mobile EMA for those in phase II CR. Nine adults received four mobile phone surveys each day, assessing momentary SA, for 14 consecutive days while concurrently wearing an ActiGraph GT3X+ across the day. In this study, participants demonstrated consistent, low levels of SA (ICC = 0.68, average = 9.1 on a scale of 6 to 24). The relationship between PA and SA varied between individuals, showing positive and negative slopes for individual participants. Survey compliance rate and ActiGraph wear time met a priori benchmarks for feasibility, but recruitment did not. Lack of smartphone ownership and limited smartphone access at work were the primary challenges to recruitment. This study was the first to describe the patterns of momentary SA for this population. Individual pattern analysis is necessary for classifying individuals, but further study is needed to direct development of interventions based on ecologically valid data.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment">This is the final version!</mods:note>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">Physical activity monitors, Ecological momentary assessment, Cardiac rehabilitation</mods:note>
+  <mods:accessCondition type="local rights statement"/>
+  <mods:note displayLabel="Copyright holder">author</mods:note>
+  <mods:physicalDescription>
+    <mods:note displayLabel="Publication Status">PUBLISHED</mods:note>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart type="given">David</mods:namePart>
+    <mods:namePart type="family">Bassett</mods:namePart>
+    <mods:namePart type="termsOfAddress">Jr.</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Kelley</mods:namePart>
+    <mods:namePart type="family">Strohacker</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Scott</mods:namePart>
+    <mods:namePart type="family">Crouter</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Eugene</mods:namePart>
+    <mods:namePart type="family">Fitzhugh</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Samantha</mods:namePart>
+    <mods:namePart type="family">Ehrlich</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+</mods:mods>

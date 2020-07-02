@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Holocene Precipitation Variability, Prehistoric Agriculture, and Natural and Human-Set Fires in Costa Rica</mods:title>
+  </mods:titleInfo>
+  <mods:name valueURI="http://orcid.org/0000-0002-9844-515X" type="personal" authority="orcid" authorityURI="http://id.loc.gov/vocabulary/identifiers/orcid.html">
+    <mods:namePart type="given">Matthew Timothy</mods:namePart>
+    <mods:namePart type="family">Kerr</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-06-28T15:24:35-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-06-04T17:46:17-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-06-04T17:46:17-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-06-28T15:24:35-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Doctoral (includes post-doctoral)</etd:level>
+      <etd:name>Doctor of Philosophy</etd:name>
+      <etd:discipline>Geography</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Sally P.</mods:namePart>
+    <mods:namePart type="family">Horn</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Chad S.</mods:namePart>
+    <mods:namePart type="family">Lane</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">David G.</mods:namePart>
+    <mods:namePart type="family">Anderson</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Yingkui</mods:namePart>
+    <mods:namePart type="family">Li</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_db06">doctoral thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>This dissertation presents the results of compound-specific stable hydrogen isotope analysis of n-alkanes from terrestrial leaf waxes preserved in sediment cores from three lakes in Costa Rica to reconstruct variations in paleohydrology during the Holocene. Results were compared with pollen and charcoal data from the same cores to examine relationships between paleohydrology, vegetation change, prehistoric agriculture, and fire, and with archaeological evidence in the watersheds of two lakes to better understand prehistoric human-environment interactions.&#13;
+	Lago de las Morrenas 1 (9.4925 °N, 83.4848 °W, 3480 m) is in the Chirripó páramo of Costa Rica, which was never permanently occupied by prehistoric people. The analyses demonstrate 10,000 years of millennial-scale variations in hydroclimate at Morrenas 1, which was dry during the Early Holocene, mesic during the Middle Holocene, and dry over the Late Holocene. The Morrenas sediments record local manifestations of the 8200 BP event, the 5200 BP event, the Terminal Classic Drought (TCD), and the Little Ice Age (LIA).&#13;
+	Laguna Bonillita (9.9921 °N, 83.6114 °W, 450 m), in the Caribbean lowlands of central Costa Rica, has a 2700-year history of continuous maize agriculture. The alkane data show variations in paleohydrology over the Late Holocene and local manifestations of the TCD and the LIA that match patterns throughout the circum-Caribbean. The Bonillita watershed was intensively farmed across the entire history of the lake. Changes in prehistoric culture and maize farming are temporally linked to climate change at Bonillita. The data indicate that maize agriculture benefitted from episodes of drier climate in this lowland rainforest environment.&#13;
+	Laguna Santa Elena (8.9290 °N, 82.9257 °W, 1055 m), in the Diquís archaeological subregion of southern Pacific Costa Rica, has a 2000-year history of maize agriculture. The analyses document variations in Late Holocene paleohydrology, including local manifestations of the TCD and the LIA, that had important consequences for prehistoric people. Santa Elena may have experienced a decrease in rainfall during the TCD, but unlike the Caribbean side of the Isthmus, the amplitude of this drought event does not appear abnormal on centennial to millennial timescales. Two population collapses inferred to take place during dry periods instead happened during wet intervals at Santa Elena.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author"/>
+  <mods:accessCondition type="local rights statement">Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+  <mods:note displayLabel="Copyright holder">author</mods:note>
+  <mods:physicalDescription>
+    <mods:note displayLabel="Publication Status">PUBLISHED</mods:note>
+  </mods:physicalDescription>
+</mods:mods>

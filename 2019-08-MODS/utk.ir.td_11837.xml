@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Investigating the genotype landscape of Toxoplasma gondii in North America: a quest for transmission intervention to reduce its environmental contamination</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal" authority="orcid" authorityURI="http://id.loc.gov/vocabulary/identifiers/orcid.html" valueURI="http://orcid.org/Tiantian Jiang">
+    <mods:namePart type="given">Tiantian</mods:namePart>
+    <mods:namePart type="family">Jiang</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-02-13T16:19:55-05:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-02-13T16:19:55-05:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-02-13T16:19:55-05:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Doctoral (includes post-doctoral)</etd:level>
+      <etd:name>Doctor of Philosophy</etd:name>
+      <etd:discipline>Microbiology</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Chunlei</mods:namePart>
+    <mods:namePart type="family">Su</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Sarah</mods:namePart>
+    <mods:namePart type="family">Lebeis</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Eric</mods:namePart>
+    <mods:namePart type="family">Zinser</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Elizabeth</mods:namePart>
+    <mods:namePart type="family">Fozo</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Richard</mods:namePart>
+    <mods:namePart type="family">Gerhold</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_db06">doctoral thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Toxoplasma gondii is an obligate intracellular parasite that can infect a broad range of hosts, including mammals and birds. Felines, including wild and domestic cats, are the sole definitive hosts that can discharge millions of parasites in the form of oocysts into the environment. Taking into account of the massive number of oocysts one cat can shed, and the highly infectious and resistant feature of oocyst, the environmental contamination of oocysts poses a public health concern. To tackle the problem of environmental contamination, a better understanding of T. gondii transmission in the environment is fundamental. We compiled and analyzed existing genotypic data from animals across a proximity gradient from human settlements to the wilderness in North America (Chapter 1). We demonstrated that, T. gondii genotype distribution was associated with the spatial habitat and host species, and that parasite diversity decreased towards the human environment, suggesting the human impact on parasite transmission. To better understand the environmental contamination by oocysts, a comprehensive protocol was developed to evaluate the contamination of T. gondii on a typical farm in Tennessee (Chapter 2). T. gondii oocyst contamination in both soil and animals were detected on the farm. It demonstrated that animals, especially medium-sized animals (such as raccoons and skunks), were good indicator of T. gondii prevalence in the environment. Thirdly, to reduce the environmental contamination, a method was developed to produce the cat vaccine in cell culture to bypass the in vivo procedures (Chapter 3). Lower temperature (31℃) was used to induce the conversion of tachyzoites to bradyzoites of T263 vaccine strain in cell culture. Thus far, laboratory tests have lent evidence of the successful conversion. Lastly, six cases of fetal toxoplasmosis were investigated in captive macropods (kangaroos and wallabies) occurred between 2014-2017 in the Busch Garden Zoo, Florida (Chapter 4). Parasites were isolated and characterized using molecular identification methods. From the data obtained, it was clear that for three years, three independent infection events occurred at the zoo, suggesting frequent contamination of T. gondii in the environment at the zoo.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">Toxoplasma gondii, epidemiology, population genetics, enviroemntal contamination</mods:note>
+  <mods:accessCondition type="local rights statement"> Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+<mods:note displayLabel="Copyright holder">author</mods:note><mods:physicalDescription><mods:note displayLabel="Publication Status">PUBLISHED</mods:note></mods:physicalDescription></mods:mods>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Classification of EMG signals and Motion data using learning algorithms with application to post-stroke impairment</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">Sri Ravali</mods:namePart>
+    <mods:namePart type="family">Sadhu</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-05-14T18:00:56-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-05-14T18:00:56-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-05-14T18:00:56-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Masters (pre-doctoral)</etd:level>
+      <etd:name>Master of Science</etd:name>
+      <etd:discipline>Electrical Engineering</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Donatello</mods:namePart>
+    <mods:namePart type="family">Materassi</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Eric</mods:namePart>
+    <mods:namePart type="family">Wade</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Hairong</mods:namePart>
+    <mods:namePart type="family">Qi</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_bdcc">masters thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Stroke is the 3rd leading cause of deaths in USA with an equally high number of survivors. Post-stroke rehabilitation is an important part of recovery after stroke as it helps to relearn skills lost due to the effect of stroke on a part of your brain. Stroke rehabilitation can help the subject regain independence and improve their quality of life. During their rehabilitation process, a subject is expected to perform a certain number of exercises and constantly try to use their affected limb. But due to social constraints and psychological stress, the subjects tend to perform the respective activities only in a closed environment and hence only in the presence of a physicist i.e. during their rehabilitation in an hospital, thereby dampening their process of rehabilitation. This thesis aims at laying the foundation to develop a wearable device to track the recovery of a stroke patient while their in-hospital and at home upper limb rehabilitation processes depending on the muscular activity retrieved by a non-invasive sensors placed on the skin of the upper limb of the patient. To achieve this goal multiple steps are involved, but his thesis concentrates on the step which involves identifying the exercise performed by the subject using their bio &amp; kinematic signals. To develop the ideal network for this goal, the thesis  initially compares various classic learning techniques used to classify hand gestures using surface-Electromyography(sEMG). From the results obtained from these networks, a CNN is designed specic to the activities and input signals used in this thesis. The CNN is able to classify these activities with an accuracy of around 91%.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">sEMG, Deep Learning, CNN, Machine learning, IMU, RNN, Artificial Intelligence</mods:note>
+  <mods:accessCondition type="local rights statement"> Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+</mods:mods>

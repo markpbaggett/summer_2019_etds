@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Identifying High Risk Spatial-Temporal Clusters and Predictors for La Crosse Virus Vectors: Aedes albopictus (Skuse), Ae. japonicus  (Theobald), and Ae. triseriatus (Say) in an Endemic Area (Knox County, TN)</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">Devin</mods:namePart>
+    <mods:namePart type="family">Rowe</mods:namePart>
+    <mods:namePart type="termsOfAddress">D.R.</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-05-16T12:46:12-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-04-03T16:57:32-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-04-03T16:57:32-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-05-16T12:46:12-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Masters (pre-doctoral)</etd:level>
+      <etd:name>Master of Science</etd:name>
+      <etd:discipline>Entomology and Plant Pathology</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Rebecca</mods:namePart>
+    <mods:namePart type="family">Trout Fryxell</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Agricola</mods:namePart>
+    <mods:namePart type="family">Odoi</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Karen</mods:namePart>
+    <mods:namePart type="family">Vail</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Graham</mods:namePart>
+    <mods:namePart type="family">Hickling</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_bdcc">masters thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Southern Appalachia has the highest incidence of La Crosse encephalitis (LACE), the leading pediatric related arbovirus in the United State Disease. The pathogen, &#13;
+La Crosse virus (LACV), is carried and transmitted by three Aedes species: Ae. albopictus, Ae. japonicus, and Ae. triseriatus. One way to control Aedes mosquito populations is to discover predictors and identifying spatial and temporal patterns, which leads to understanding and eventual prediction of Aedes occurrence. I hypothesized that discovery of local variations in Aedes data can be explained with predictors specific to each LACV vector (Ae. albopictus, Ae. japonicus, and Ae. triseriatus) and clustering can be identified with spatial-temporal models. &#13;
+Forty-four sites were identified in Knox County, Tennessee by land use/type; at each site immature and host-seeking mosquitoes were collected for ~20 weeks during summer 2018. Kulldorffâ€™s spatial scan statistic using a Bernoulli probability distribution identified high risk abundance clusters of Ae. albopictus and Ae. triseriatus in south Knox County through May-June as an area/time for increased risk of these two vectors. A combination of on-site identification and remote sensing data were used to collect predictors and were analyzed using generalized linear mixed modeling (GLMM) with a different mathematical distribution for each species. In the Aedes egg model a negative binomial GLMM was developed and found positive associations between eggs and meteorological variables. For Ae. albopictus, a negative binomial GLMM was created and resulted in positive associations with meteorological and abundance of Ae. triseriatus. For Ae. triseriatus a zero-inflated negative binomial GLMM was created and resulted in a potential positive association with vegetation greenness, although it is likely confounded. Abundance of Ae. albopictus was positively associated with presence of Ae. triseriatus. Due to low Ae. japonicus counts, a logistic regression was developed and results indicated increased canopy coverage as a predictor for Ae. japonicus presence. This thesis will aide in regional mosquito control efforts by identifying predictors relevant to LACV vectors. The scanning statistic could be used to identify areas within Knox County to incorporate mosquito control for LACV vectors. Together, the predictors and spatial clusters provides new information about LACV vectors in endemic areas.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment">Example for thesis formatting review</mods:note>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">Aedes, GLMMs, spatial analysis, SaTScan, La Crosse Virus , La Crosse Encephalitis</mods:note>
+  <mods:accessCondition type="local rights statement">Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+  <mods:note displayLabel="Copyright holder">author</mods:note>
+  <mods:physicalDescription>
+    <mods:note displayLabel="Publication Status">PUBLISHED</mods:note>
+  </mods:physicalDescription>
+</mods:mods>

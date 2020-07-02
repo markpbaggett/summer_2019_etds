@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Modeling the effects of cognition on cooperation</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">Logan</mods:namePart>
+    <mods:namePart type="family">Perry</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-07-09T02:40:53-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-06-10T16:18:12-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-06-10T16:18:12-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-07-09T02:40:53-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Doctoral (includes post-doctoral)</etd:level>
+      <etd:name>Doctor of Philosophy</etd:name>
+      <etd:discipline>Mathematics</etd:discipline>
+      <etd:grantor/>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Sergey</mods:namePart>
+    <mods:namePart type="family">Gavrilets</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths"/>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Yu-Ting</mods:namePart>
+    <mods:namePart type="family">Chen</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text"/>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Christopher</mods:namePart>
+    <mods:namePart type="family">Strickland</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text"/>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Alex</mods:namePart>
+    <mods:namePart type="family">Bentley</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text"/>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource/>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039"/>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_db06">doctoral thesis</mods:genre>
+  <mods:language/>
+  <mods:abstract>Game theory deals with the modeling of strategic interaction between agents. Central to the predictions produced by this framework are the assumption made on rationality and how choices are made. While crucial to the outcomes predicted there exists little to no work investigating the similarities and differences between different strategy protocol updates. In this work, I develop a new protocol for simulating how agents think that I term foresight and compare and contrast it with commonly used protocols. Foresight is a way of accounting for strategic choice that is based on two well established psychological traits of humans: delayed gratification and theory of mind. It is shown that foresight is capable of overcoming the notorious second-order free-rider effect, and thereby promotes cooperation. This is shown by looking at a n-person public goods game and a simpler two-person interaction - developed specifically to mimic the former game's properties.&#13;
+Another explanation for why agents cooperate with one another is that they do so because they are prone to making mistakes, i.e. they possess a bounded rationality. While this is a logical explanation and there exists machinery that accounts for error when predicting behavior (most notably quantal response models) there exists no mathematical framework to investigate why humans developed this bounded rationality. To address this gap in the literature I develop a model to inspect the evolution of bounded rationality. By accounting for evolutionary pressures, e.g. metabolic requirements of the brain, the possession of a bounded rationality in animals is explained.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment">Portions of this document were previously published.</mods:note>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author"/>
+  <mods:accessCondition type="local rights statement"/>
+  <mods:note displayLabel="Copyright holder">author</mods:note>
+  <mods:physicalDescription>
+    <mods:note displayLabel="Publication Status">PUBLISHED</mods:note>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart type="given">Sergey</mods:namePart>
+    <mods:namePart type="family">Gavrilets</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Christopher</mods:namePart>
+    <mods:namePart type="family">Strickland</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Yu-TIng</mods:namePart>
+    <mods:namePart type="family">Chen</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Alex</mods:namePart>
+    <mods:namePart type="family">Bentley</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+</mods:mods>

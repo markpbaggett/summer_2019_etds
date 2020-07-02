@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>A Study of Zn Electrode Operation in Alkaline Electrolytes: First Principles to Battery Electrode</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">Reed</mods:namePart>
+    <mods:namePart type="family">Wittman</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-05-13T23:48:44-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-05-13T23:48:44-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-05-13T23:48:44-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Doctoral (includes post-doctoral)</etd:level>
+      <etd:name>Doctor of Philosophy</etd:name>
+      <etd:discipline>Energy Science and Engineering</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Thomas</mods:namePart>
+    <mods:namePart type="family">Zawodzinski</mods:namePart>
+    <mods:namePart type="termsOfAddress">Jr</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Robert</mods:namePart>
+    <mods:namePart type="family">Sacci</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Jagjit</mods:namePart>
+    <mods:namePart type="family">Nanda</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Clause</mods:namePart>
+    <mods:namePart type="family">Daniel</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Robert</mods:namePart>
+    <mods:namePart type="family">Counce</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_db06">doctoral thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Recently there has been growing interest in alternatives to Li-ion battery systems.  Metal-air batteries are a considered a promising alternative.  Zn-air systems possess a number of advantages over Li systems but face a number of challenges particularly at the negative Zn electrode.  Dendrite growth, passivation and electrode shape change all lead to declining performance and ultimately failure of the cell. A study of Zn electrochemistry alkaline electrolytes was done using in situ electrochemical Scanning Transmission Microscopy (in situ ec-S/TEM) and Electrochemical Quartz Crystal Microbalance (EQCM) to study fundamental processes during Zn deposition, dissolution and electrode passivation.  Using in situ ec-S/TEM experiments to study Zn deposition a mechanism for Zn dendrite propagation during cycling via particle detachment during discharge steps was proposed.  This was also used to explain capacity fade during cells over long term cycling as detached particles are not able to contribute to the capacity of the cell.  EQCM was used to study dissolution and passivation of Zn in 1, 4 and 8 M Potassium Hydroxide solutions.  Native oxide layers were found to present in the solutions saturated with Zn(OH)42- ions while the 4 and 8M solutions half saturated with Zn(OH)42- were found not to form an oxide layer and only corrosion of the Zn electrode occurred.  Mechanisms of passivation was determined to shift with pH of the solution.  At low concentrations of OH- in the solution an adsorption mechanism where passivating ZnO is formed directly on the species occurs.  At high OH- concentrations the dissolution and precipitation mechanism of passivation occurs.  At intermediate concentrations both participate in the passivation of the electrode.  Indicating that researchers need to build their passivation management strategies based on the solution they are using.  Finally carbon felts were studied for their potential as negative electrodes in a Zn-air flow battery.  It was found that they exhibit high current densities at low overpotential, good cycling stability and lifetime.  It was observed that IR drop in the felt determines where deposition occurs and flow conditions need to be optimized.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">Zn-Air Battery, Zn Passivation, Electrochemical Quartz Crystal Microbalance, Flow Battery, COMSOL Modeling, In Situ ec-S/TEM</mods:note>
+  <mods:accessCondition type="local rights statement"> Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+<mods:note displayLabel="Copyright holder">author</mods:note><mods:physicalDescription><mods:note displayLabel="Publication Status">PUBLISHED</mods:note></mods:physicalDescription></mods:mods>

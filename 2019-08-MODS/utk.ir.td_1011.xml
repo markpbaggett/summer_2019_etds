@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Effects of Difficult-to-Read Materials on Learning</mods:title>
+  </mods:titleInfo>
+  <mods:name valueURI="http://orcid.org/0000-0002-3328-9838" type="personal" authority="orcid" authorityURI="http://id.loc.gov/vocabulary/identifiers/orcid.html">
+    <mods:namePart type="given">Kala Lane Hamilton</mods:namePart>
+    <mods:namePart type="family">Taylor</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2018-04-17T18:42:33-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2018-04-11T12:43:39-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2018-04-11T12:43:39-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2018-04-17T18:42:33-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Doctoral (includes post-doctoral)</etd:level>
+      <etd:name>Doctor of Philosophy</etd:name>
+      <etd:discipline>School Psychology</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Christopher H.</mods:namePart>
+    <mods:namePart type="family">Skinner</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Tara</mods:namePart>
+    <mods:namePart type="family">Moore</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Merilee</mods:namePart>
+    <mods:namePart type="family">McCurdy</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">David F.</mods:namePart>
+    <mods:namePart type="family">Cihak</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_db06">doctoral thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Some researchers have found difficult-to-read, disfluent materials can improve learning. Thus, this dissertation is comprised of three studies investigating the effects of difficult-to-read materials on learning. In Study I, we used an adapted alternating treatments design to compare sight-word learning in three students with intellectual disability when flashcards were presented in easy-to-read (i.e., fluent) and difficult-to-read (i.e., disfluent) fonts.  All students learned words presented in both fonts; however, two learned more words presented in fluent font, and the third experienced no differences between conditions.&#13;
+	Another area where difficult-to-read material could affect learning is multicultural reading curricula, which often include diverse names that differ phonetically from a student’s native language. Study II was designed to determine whether diverse names in grade-level reading passages impact early elementary students’ reading outcomes. We used a mixed-factors experimental design to evaluate and compare reading comprehension and comprehension rate on grade-level passages with simple, common names verses unfamiliar diverse names. Results indicated diverse names significantly reduced comprehension levels and rates. Effect sizes were moderate.  &#13;
+Considering the far-reaching benefits of multicultural education, we wanted to find a solution to the reading difficulties we found to be associated with unfamiliar diverse names. We designed Study III to evaluate the effectiveness of a simple pre-teaching intervention familiarizing students with diverse names before they read those names embedded in passages (i.e., constant time delay presented paired with a brief description and pictures). We used a between-subjects experimental design to compare the reading comprehension and comprehension rate of students who did and did not receive the intervention. Results indicated students who received the intervention comprehended significantly more of the passage than students who did not. The effect size was large, supporting practical significance. &#13;
+	Overall, our findings demonstrate difficult-to-read material can hinder learning, particularly in unskilled readers. There is a need for aptitude-treatment interaction research, in addition to studies designed to evaluate academic outcomes in relation to multicultural content. Most importantly, researchers should validate simple and efficient methods teachers can use to familiarize their students with phonetically unfamiliar words, allowing students to benefit from multicultural content without hindering reading.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment">The final, definitive version of Study I in this dissertation will be published in Remedial and Special Education, published by SAGE Publishing, all rights reserved, available at http://online.sagepub.com/ under the citation Taylor, K. L. H., Skinner, C. H., Cazzell, S., Gibbons, S., Ryan, K., Ruddy, J., Ciancio, D., Beeson, T., &amp; Cihak, D. (in press). Disfluent font can hider sight-word acquisition in students with intellectual disability. Remedial and Special Education.</mods:note>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">cognitive disfluency, diverse names, sight-words, disfluent text, reading comprehension, reading comprehension rate, cognitive load</mods:note>
+  <mods:accessCondition type="local rights statement">Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+  <mods:note displayLabel="Copyright holder">author</mods:note>
+  <mods:physicalDescription>
+    <mods:note displayLabel="Publication Status">PUBLISHED</mods:note>
+  </mods:physicalDescription>
+</mods:mods>

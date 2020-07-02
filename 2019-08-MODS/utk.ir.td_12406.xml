@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Insects Associated with Industrial Hemp, Cannabis sp. L., in Tennessee and Development of Helicoverpa zea (Boddie) on a Hemp-Based Diet</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">William</mods:namePart>
+    <mods:namePart type="family">Seals</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-05-16T21:49:57-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-05-16T21:49:57-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-05-16T21:49:57-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Masters (pre-doctoral)</etd:level>
+      <etd:name>Master of Science</etd:name>
+      <etd:discipline>Entomology and Plant Pathology</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Jerome</mods:namePart>
+    <mods:namePart type="family">Grant</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Frank</mods:namePart>
+    <mods:namePart type="family">Hale</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Darrell</mods:namePart>
+    <mods:namePart type="family">Hensley</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_bdcc">masters thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>ABSTRACT&#13;
+&#13;
+&#13;
+As production of industrial cannabis, or hemp, increases throughout the southern United States, knowledge on the insect interactions and insect guild communities associated with hemp will be essential to understanding beneficial and pest insects that affect this crop. Licensed farmers and hemp hectarage in Tennessee is at its highest since 2014, when hemp was once again legalized for planting. For the 2019 season approximately 2,800 farmers received a license, an increase of 1,100%+ from 2018. Placing insects into guild categories, such as predator, pollinator, and herbivore, will allow for distinctions to be made between the various insects identified during the two-year study. An insect study was performed in Tennessee during 2017 utilizing visual surveys, beat-sheet sampling techniques and pitfall traps. A similar study was performed again in 2018, but with the omission of pitfall traps.                                                  &#13;
+The goals of this research were to 1) determine guild composition and seasonality of insect species on hemp in Tennessee, 2) assess the influence of hemp variety on insect incidence, and 3) determine development and survival of Helicoverpa zea (corn earworm) on hemp plant material.  In 2017, three varieties were planted representing a grain variety, fiber variety, and dual-purpose. For 2018, three varieties bred for cannabinoid production were planted in Crossville, TN, and sampled weekly to assess insects and their pressure on the crop. Both crops were assessed to determine the most common insects associated each year both among and between crops. The most abundant guild found to interact with hemp was herbivores, with lepidopteran larvae being the most damaging pest observed. While insect incidence between varieties did not produce significant results, more research into different varieties may prove to show varietal resistance to certain pests. Because lepidopteran larvae were observed as the most damaging pest, larvae of the corn earworm, a commonly observed insect, were chosen for feeding trials involving hemp. Development of corn earworm on hemp was stunted when compared to the artificial diet, with larvae showing lower weights, as well as higher mortality on solely hemp-based diet.&#13;
+Insect interactions determined from this study can be used to better interpret how pest insects may affect this crop. Understanding the insect pests that need to be mitigated will lead to more robust management plans increasing the yield and quality of hemp crops.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">Hemp, Cannabis, Helicoverpa zea, Insect Diversity, IPM, Cannabis insect ecology</mods:note>
+  <mods:accessCondition type="local rights statement"> Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+<mods:note displayLabel="Copyright holder">author</mods:note><mods:physicalDescription><mods:note displayLabel="Publication Status">PUBLISHED</mods:note></mods:physicalDescription></mods:mods>

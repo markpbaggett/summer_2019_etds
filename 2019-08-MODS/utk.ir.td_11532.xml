@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>The Impact of Batch Size on Worker Stress Perception</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">EWERTON ESDRAS</mods:namePart>
+    <mods:namePart type="family">RODRIGUES DE ARAUJO</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-05-16T09:41:58-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2018-10-02T16:00:25-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2018-10-02T16:00:25-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-05-07T16:00:16-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-05-16T09:41:58-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Masters (pre-doctoral)</etd:level>
+      <etd:name>Master of Science</etd:name>
+      <etd:discipline>Industrial Engineering</etd:discipline>
+      <etd:grantor/>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">RUPY</mods:namePart>
+    <mods:namePart type="family">SAWHNEY</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths"/>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Lee</mods:namePart>
+    <mods:namePart type="family">Martin</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text"/>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Li</mods:namePart>
+    <mods:namePart type="family">Xueping</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text"/>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource/>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039"/>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_bdcc">masters thesis</mods:genre>
+  <mods:language/>
+  <mods:abstract>The current global competitiveness has led organizations to improve their processes, and Lean Production has been a responsive tool to cost reduction and efficiency improvement. Batch size  plays an important role in production control, encompassing the introduction of Lean Production in several organizations. However, the application and sustainability of Lean Production have had their effectiveness contested. Several authors explain that the continuous search for improvement has created pressure among the workforce impacting their stress levels and well-being, causing issues in focus control, authority, moral disengagement, and others. This study aims to check the impact that Batch size  has on the workforce stress perception.  Using the NIOSH Generic Job-Stress Questionnaire (GJBQ), a Pilot Study  was performed to check the reliability of the instrument. Subsequently, a Batch size  Simulation using Lego Blocks to simulate a factory environment was performed with 50 participants and three trials with different Batch size s of 10, 5, and 1 respectively. A set of different roles were played by the participants, and that wasdivided into two categories (i) operators and (ii) Production supervisors. The GJSQ was applied at the end of each trial. Six factors were analyzed: (i) mental demands, (ii) quantitative workload, (iii) variance in workload, (iv) role conflict,  (v) role ambiguity, and workload using Factors Analysis. Results indicate that the items are grouped differently from those proposed by NIOSH, indicating the existence of a new factor – Cognitive Demand. Results also indicated that the perception of stress increased while the Batch size decreased.&#13;
+Furthermore, males tend to have higher stress scores than females. The operational staff tends to present higher levels of stress whereas when moving from a Batch size of 10 to 1, the Production supervisors staff stress levels reduced. Responsibility for People increased in all trials, and within the roles, Variance in Workload increased only for the operators, and Quantitative Workload only for administrative roles. On the other hand, Cognitive Demands,  and Mental Demand was reduced.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">Batch size, Lean Production, Stress, NIOSH</mods:note>
+  <mods:accessCondition type="local rights statement"/>
+  <mods:note displayLabel="Copyright holder">author</mods:note>
+  <mods:physicalDescription>
+    <mods:note displayLabel="Publication Status">PUBLISHED</mods:note>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart type="given">Rapinder</mods:namePart>
+    <mods:namePart type="family">Sawhney</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Lee</mods:namePart>
+    <mods:namePart type="family">Martin</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Xueping</mods:namePart>
+    <mods:namePart type="family">Li</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+</mods:mods>

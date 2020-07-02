@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Index-Based Algorithms for Local Query Process in Large-scale Graphs</mods:title>
+  </mods:titleInfo>
+  <mods:name valueURI="http://orcid.org/0000-0002-7203-220X" type="personal" authority="orcid" authorityURI="http://id.loc.gov/vocabulary/identifiers/orcid.html">
+    <mods:namePart type="given">Zheng</mods:namePart>
+    <mods:namePart type="family">Lu</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-05-30T16:53:51-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2018-06-15T10:45:33-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2018-06-15T10:45:33-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-05-30T16:53:26-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-05-30T16:53:51-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Doctoral (includes post-doctoral)</etd:level>
+      <etd:name>Doctor of Philosophy</etd:name>
+      <etd:discipline>Computer Engineering</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Qing</mods:namePart>
+    <mods:namePart type="family">Cao</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Wenjun</mods:namePart>
+    <mods:namePart type="family">Zhou</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Michael</mods:namePart>
+    <mods:namePart type="family">Langston</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Hairong</mods:namePart>
+    <mods:namePart type="family">Qi</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_db06">doctoral thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Graphs are naturally used to model real-world networks. Among various types of graph, complex networks, which are a type of graphs (networks) that exhibits unique topology properties, e.g., power-law degree distribution and small diameters, are commonly found in real-world networks and has exposed new challenges for graph analysis. Due to the ever-increasing difficulty in running classic graph algorithms on large-scale graphs, a new type of graph problem, called query-dependent variants of graph problems have drawn raising attention. In this dissertation, we explore how to leverage index structures to design highly efficient algorithms for query-dependent graph problems. &#13;
+&#13;
+We first study point-to-point shortest paths problems in large-scale complex networks. We propose a decentralized search algorithm running on a landmark-based index structure constructed with a new concept called path degree. Due to the light weight of our online search algorithm, we build a distributed system that supports parallel processing of online queries to achieve high throughput. &#13;
+We demonstrate that our system can process hundreds of thousand queries per second on these graphs with higher accuracy and reduced overhead than the state-of-the-art works.&#13;
+&#13;
+We then study the local k-truss community query problem in large-scale complex networks. We generalize the community search problems by supporting both the community-level and the edge-level query with arbitrary cohesiveness criteria. We design a two-level index structure that processes both types of queries for a single or multiple vertices in optimal time. Our method outperforms the state-of-the-art works in both the community search problem and community-level problems by a large margin. &#13;
+&#13;
+Finally, we introduce a new data filter based on graph model and apply it for a real-world problem, which is inferring user mobility from coarse-grained location trace. We use the Voronoi Diagram to model cellular tower's coverage. We introduce a graph-based data filter with estimations of lower bounds of users' travelled distance. We apply the graph-based filter to our dataset to acquire clean user mobility data for further data analysis task.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">Graph Algorithm, Shortest Path, K-truss Community, User Mobility Inference</mods:note>
+  <mods:accessCondition type="local rights statement">Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+  <mods:note displayLabel="Copyright holder">author</mods:note>
+  <mods:physicalDescription>
+    <mods:note displayLabel="Publication Status">PUBLISHED</mods:note>
+  </mods:physicalDescription>
+</mods:mods>

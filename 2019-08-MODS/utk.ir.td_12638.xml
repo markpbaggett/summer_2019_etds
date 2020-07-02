@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Supplementing White Light with Narrow-Band Light Wavelengths Impacts Cilantro Yield</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">Colin</mods:namePart>
+    <mods:namePart type="family">Brice</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2020-01-07T14:37:36-05:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-06-11T12:59:41-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-06-11T12:59:41-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2020-01-07T14:37:36-05:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Masters (pre-doctoral)</etd:level>
+      <etd:name>Master of Science</etd:name>
+      <etd:discipline>Biosystems Engineering Technology</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">John</mods:namePart>
+    <mods:namePart type="family">Wilkerson</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">William</mods:namePart>
+    <mods:namePart type="family">Hart</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Neal</mods:namePart>
+    <mods:namePart type="family">Eash</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Forbes</mods:namePart>
+    <mods:namePart type="family">Walker</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_bdcc">masters thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Interest in the use of light-emitting diodes (LEDs) for multilayered, vertical leafy crop production is growing, spurred from increasing demand for energy and resource-efficient food production methods. Researchers built and evaluated a multilayered hydroponic chamber to grow microgreens, a nutrient-dense salad crop. Cilantro (Coriandrum sativum L., ‘Santo’) microgreens were grown in the hydroponic chamber using natural and artificial substrates to determine the impact of substrate on germination rates and fresh yields before conducting LED narrow-band wavelength experiments. The use of artificial foam growth media resulted in higher germination rates than natural fiber substrates (hemp, burlap, coconut) and produced similar fresh yields to burlap (jute fiber). &#13;
+&#13;
+Light spectra were varied using different narrow-band wavelengths (400 nm, 450 nm, 660 nm, 740 nm) to supplement broad-spectrum white light (3000 K 90 CRI). Fresh shoots were harvested and weighed after 21 days of growth to measure the impact of light wavelength on microgreen yield. Narrow-band red (660 nm) light increased fresh mass (g) per unit energy (kW·h) by 45% over the broad-spectrum white control (3000K 90CRI). Narrow-band blue (450 nm) light increased oven-dried mass by 15% over the experimental control but was not statistically significant (α = 0.05). &#13;
+&#13;
+As seeding rate increased by 40% from 28.5- to 40 g/ 1.7 m² on burlap, fresh mass increased by 80% on average. Broad-spectrum white light supplemented with red light improved fresh yields by 30% and reduced electrical energy usage by 10% compared to the experimental control. An isolated spectrum containing only the four narrow-band wavelengths (400, 450, 660, 740 nm) increased dry mass percentage by 11% compared to the broad-spectrum white control in oven-dried samples. The isolated spectrum increased dry mass content from 8-11% without diminishing yields by a statistically significant amount. Red (660 nm) light supplementation offers a novel tool to increase fresh yields and decrease energy costs simultaneously. The application of blue (450 nm) light and isolated narrow-band light spectra may increase the yields of microgreens dried for production of spices or dietary supplements with longer shelf life.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">LEDs, Cilantro, Hydroponics, Vertical-farming, Yields, Light spectra</mods:note>
+  <mods:accessCondition type="local rights statement">Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+  <mods:note displayLabel="Copyright holder">author</mods:note>
+  <mods:physicalDescription>
+    <mods:note displayLabel="Publication Status">PUBLISHED</mods:note>
+  </mods:physicalDescription>
+</mods:mods>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Attention Mechanism for Recognitionin Computer Vision</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal" authority="orcid" authorityURI="http://id.loc.gov/vocabulary/identifiers/orcid.html" valueURI="http://orcid.org/0000-0003-3716-1900">
+    <mods:namePart type="given">Alireza</mods:namePart>
+    <mods:namePart type="family">Rahimpour</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-05-05T21:13:33-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-05-05T21:13:33-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-05-05T21:13:33-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Doctoral (includes post-doctoral)</etd:level>
+      <etd:name>Doctor of Philosophy</etd:name>
+      <etd:discipline>Electrical Engineering</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Hairong</mods:namePart>
+    <mods:namePart type="family">Qi</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Jens</mods:namePart>
+    <mods:namePart type="family">Gregor</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Russell</mods:namePart>
+    <mods:namePart type="family">Zaretzki</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Seddik</mods:namePart>
+    <mods:namePart type="family">M. Djouadi</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_db06">doctoral thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>It has been proven that humans do not focus their attention on an entire scene at once when they perform a recognition task. Instead, they pay attention to the most important parts of the scene to extract the most discriminative information. Inspired by this observation, in this dissertation, the importance of attention mechanism in recognition tasks in computer vision is studied by designing novel attention-based models. In specific, four scenarios are investigated that represent the most important aspects of attention mechanism.&#13;
+&#13;
+First, an attention-based model is designed to reduce the visual features' dimensionality by selectively processing only a small subset of the data. We study this aspect of the attention mechanism in a framework based on object recognition in distributed camera networks. &#13;
+Second, an attention-based image retrieval system (i.e., person re-identification) is proposed which learns to focus on the most discriminative regions of the person's image and process those regions with higher computation power using a deep convolutional neural network. Furthermore, we show how visualizing the attention maps can make deep neural networks more interpretable. In other words, by visualizing the attention maps we can observe the regions of the input image where the neural network relies on, in order to make a decision. &#13;
+Third, a model for estimating the importance of the objects in a scene based on a given task is proposed. More specifically, the proposed model estimates the importance of the road users that a driver (or an autonomous vehicle) should pay attention to in a driving scenario in order to have safe navigation. In this scenario, the attention estimation is the final output of the model. &#13;
+Fourth, an attention-based module and a new loss function in a meta-learning based few-shot learning system is proposed in order to incorporate the context of the task into the feature representations of the samples and increasing the few-shot recognition accuracy.&#13;
+&#13;
+In this dissertation, we showed that attention can be multi-facet and studied the attention mechanism from the perspectives of feature selection, reducing the computational cost, interpretable deep learning models, task-driven importance estimation, and context incorporation. Through the study of four scenarios, we further advanced the field of where ''attention is all you need''.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">Attention mechanism, Machine learning, Deep Learning, Computer Vision, Meta-learning, Image retrieval and matching, Person Re-identification, Object detection, Feature selection.</mods:note>
+  <mods:accessCondition type="local rights statement"> Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+<mods:note displayLabel="Copyright holder">author</mods:note><mods:physicalDescription><mods:note displayLabel="Publication Status">PUBLISHED</mods:note></mods:physicalDescription></mods:mods>

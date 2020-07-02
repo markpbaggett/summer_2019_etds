@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Two Applications of Mathematical Modeling: Control Mechanisms of Heart Rate Variability and Contribution of Environmental Pathways in Disease Transmission</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">Lindsey</mods:namePart>
+    <mods:namePart type="family">Fox</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-07-26T15:12:00-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-06-06T15:24:52-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-06-06T15:24:52-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-07-21T16:00:47-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-07-26T15:12:00-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Doctoral (includes post-doctoral)</etd:level>
+      <etd:name>Doctor of Philosophy</etd:name>
+      <etd:discipline>Mathematics</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Judy</mods:namePart>
+    <mods:namePart type="family">Day</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Suzanne</mods:namePart>
+    <mods:namePart type="family">Lenhart</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Abner</mods:namePart>
+    <mods:namePart type="family">Salgado</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Stephanie</mods:namePart>
+    <mods:namePart type="family">TerMaath</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_db06">doctoral thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Mathematical modeling has been proven to be an extremely useful tool in describing natural phenomena. It allows one to address questions and test hypotheses that may be unfeasible or unethical to study in reality. This work seeks to use mathematical models to describe and study two phenomena, one relating to physiology and the other to the spread of infectious diseases. &#13;
+&#13;
+The first modeling study explores the physiological control mechanisms governing heart rate variability. Correlation between loss of heart rate variability and physiological states of stress has been well documented in clinical practice and experimental studies, however, this correlation has not been fully linked to underlying physiological mechanisms. This study combines two previous mathematical models of neuroendocrine control of heart rate and circulation to explain the source of heart rate variability in a resting, healthy state. Respiration is also incorporated into the system of ordinary differential equations as a disturbance to the system to characterize the role of respiration in heart rate variability.&#13;
+&#13;
+The second modeling study investigates the contribution of environmental pathways to Clostridioides difficile transmission in a healthcare setting. C. difficile is the leading cause of nosocomial, infectious diarrhea in United States hospitals and is contracted after antibiotic use. Colonized patients shed spores that survive for long periods of time on surfaces outside the host. This study adds environmental reservoirs to a previous mathematical model and focuses on the contribution of high-touch and low-touch frequency fomites to the transmission dynamics of the bacteria within a hospital. Due to a small hospital size, patient and pathogen populations are simulated stochastically and compared with the average population behavior described by a system of ordinary differential equations.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">heart rate variability, baroreflex mechanism, respiration&#13;
+Clostridioides difficile, environmental transmission pathways, asymptomatically colonized</mods:note>
+  <mods:accessCondition type="local rights statement">Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+  <mods:note displayLabel="Copyright holder">author</mods:note>
+  <mods:physicalDescription>
+    <mods:note displayLabel="Publication Status">PUBLISHED</mods:note>
+  </mods:physicalDescription>
+</mods:mods>

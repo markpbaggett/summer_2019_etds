@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Soils for Heat Storage and Conversion to Electrical Energy</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">Tommy</mods:namePart>
+    <mods:namePart type="family">Carpenter</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-06-06T20:43:30-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-06-06T20:43:30-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-06-06T20:43:30-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Masters (pre-doctoral)</etd:level>
+      <etd:name>Master of Science</etd:name>
+      <etd:discipline>Civil Engineering</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Angel</mods:namePart>
+    <mods:namePart type="family">Palomino</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Jaehoon</mods:namePart>
+    <mods:namePart type="family">Lee</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Khalid</mods:namePart>
+    <mods:namePart type="family">Alshibli</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_bdcc">masters thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Alternative forms of energy have become an important topic due to the emission of greenhouse gasses when using fossil fuels. Renewable energy is a form of energy that can be renewed or replaced in a short amount of time. One potential source of renewable energy is to utilize heat stored in soil and convert to electrical energy. The purpose of this study is to investigate the potential for soil to be utilized as an energy source converting stored heat into electrical energy. This study focuses on key soil properties that influence two thermal properties, thermal conductivity and specific heat capacity, and the resulting electrical energy production using a heat-to-electrical energy converter, a Peltier tile. The thermoelectric effect is the process of transforming heat energy into electrical energy. A Peltier tile was used to turn the heat stored in the soil into electrical outputs (voltage, current, and power). In this study, the two soil types used were a course-grained soil, Ottawa sand, and a fine-grained soil, kaolin clay. For the course-grained soils, the relative density, water content, temperature, and temperature gradient across the Peltier tile were varied to identify the impact on thermophysical properties and electrical outputs (voltage, current, and power). Additives with higher thermal conductivities were also mixed with the sand to investigate the affect on the mixture thermophysical properties and electrical outputs. For the fine-grained soil, the compaction effort and water content (19%, 24%, and 29%) were varied to investigate the affects of these properties on the thermophysical properties and electrical outputs. Based on the findings from this work, the property that had the greatest effect on the voltage, current, and power outputs was the water content. The high-specific heat capacity additives when mixed with the sand increased the initial voltage, current, and power outputs.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author"/>
+  <mods:accessCondition type="local rights statement"> Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+<mods:note displayLabel="Copyright holder">author</mods:note><mods:physicalDescription><mods:note displayLabel="Publication Status">PUBLISHED</mods:note></mods:physicalDescription></mods:mods>

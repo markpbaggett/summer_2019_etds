@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Detection and Management of Pregnancy Outcomes in Cattle</mods:title>
+  </mods:titleInfo>
+  <mods:name valueURI="http://orcid.org/0000-0003-2162-9898" type="personal" authority="orcid" authorityURI="http://id.loc.gov/vocabulary/identifiers/orcid.html">
+    <mods:namePart type="given">Savannah L.</mods:namePart>
+    <mods:namePart type="family">Speckhart</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-07-27T22:17:22-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-02-18T13:35:51-05:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-02-18T13:35:51-05:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-07-27T22:17:22-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Masters (pre-doctoral)</etd:level>
+      <etd:name>Master of Science</etd:name>
+      <etd:discipline>Animal Science</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Ky G.</mods:namePart>
+    <mods:namePart type="family">Pohler</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">F. Neal</mods:namePart>
+    <mods:namePart type="family">Schrick</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">J. Lannett</mods:namePart>
+    <mods:namePart type="family">Edwards</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Justin</mods:namePart>
+    <mods:namePart type="family">Rhinehart</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_bdcc">masters thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Pregnancy success is a key factor in order for any beef producer to have a profitable operation. Subsequently, the ability to detect compromised pregnancies is of upmost importance. Currently, pregnancy-associated glycoproteins [PAG], which are secreted by the ruminant placenta, remain as the only chemical-based, pregnancy-specific detection method available on a commercial scale for cattle pregnancy diagnosis. Furthermore, PAG cannot be used for diagnosis until day 28 of gestation. Small noncoding RNAs, microRNAs [miRNAs], have been successfully used as biomarkers for certain human diseases and disorders. It is possible that pregnancy-associated miRNAs located in bovine serum and uterine flush fluid can be detectable prior to PAG. Additionally, management efforts, such as evaluating reproductive tracts and estrus expression, can be performed prior to breeding to potentially identify and select females with optimal fertility. The aim of the two studies is to determine if pregnancy-related miRNAs can be identified in bovine serum and uterine flush fluid on day 18 of gestation, and to determine if reproductive tract size and position scores [SPS] and estrus are useful predictors of fertility in Bos indicus and Bos taurus cows. The first study was able to identify two novel extracellular vesicle-miRNAs as being more abundant in pregnant heifers compared with non-pregnant heifers on day 18 of gestation in both serum and uterine flush fluid. The second study identified that pregnancy rate, but not pregnancy loss, is interactively influenced by reproductive tract SPS and estrus activity.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">cow, estrus, fertility, microRNA, reproductive tract size and position</mods:note>
+  <mods:accessCondition type="local rights statement">Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+  <mods:note displayLabel="Copyright holder">author</mods:note>
+  <mods:physicalDescription>
+    <mods:note displayLabel="Publication Status">PUBLISHED</mods:note>
+  </mods:physicalDescription>
+</mods:mods>

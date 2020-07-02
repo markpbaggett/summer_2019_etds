@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Patterns of Skeletal DNA Preservation and the Influence of Post-mortem Microbial Communities</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">Alexandra</mods:namePart>
+    <mods:namePart type="family">Emmons</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-05-14T21:26:11-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-02-19T17:04:37-05:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-02-19T17:04:37-05:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-05-14T21:26:11-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Doctoral (includes post-doctoral)</etd:level>
+      <etd:name>Doctor of Philosophy</etd:name>
+      <etd:discipline>Anthropology</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Amy</mods:namePart>
+    <mods:namePart type="family">Mundorff</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Dawnie</mods:namePart>
+    <mods:namePart type="family">Steadman</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">David</mods:namePart>
+    <mods:namePart type="family">Carter</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Jennifer</mods:namePart>
+    <mods:namePart type="family">DeBruyn</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Alex</mods:namePart>
+    <mods:namePart type="family">Bentley</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_db06">doctoral thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>DNA analysis plays an important role in forensic identification, particularly when remains are heavily decomposed. In such instances, extracting DNA from skeletal/dental remains may be necessary to obtain an identification, yet there is no consensus regarding which skeletal elements should be sampled for DNA testing. Previous research examining intra/inter-individual skeletal preservation in surface deposited remains found that small cancellous bones outperformed dense, cortical bones in human DNA quantity and quality, a pattern that held true in individuals with PMIs up to 21 years. In this dissertation, I expanded on this research by examining whether the same pattern would result in buried remains, with the goal of relating observed patterns to changes in soil geochemistry and microbial ecology. &#13;
+Chapter II presented a characterization of the microbes capable of colonizing bone from surface deposited remains using next generation sequencing methodologies, thereby addressing the gap in what is known about microbial skeletal degradation. Chapter III focused on patterns of intra/inter-individual skeletal DNA preservation in a multi-individual burial and the impact of the burial environment, including moisture and microbial loading. Chapter IV directly compared microbial communities in buried remains to those from the surface, and further related changes in microbial community composition and structure to changes in bone organic content (i.e., human DNA), soil microbiology and geochemistry, and the in vivo gut ecosystem. &#13;
+Bones of the foot showed similarly high human DNA typing success from buried and surface environments. The cuneiforms showed consistently high human DNA yields from all three interred individuals. Bone microbial loading was not a reliable predictor of human DNA concentration. Rather, specific bacteria including Clostridium spp., which includes known collagenase-producers, and a suite of other taxa from the phyla Bacteroidetes, Proteobacteria, Planctomycetes, Firmicutes, and Actinobacteria, have demonstrated inverse relationships with human DNA concentration. The deposition environment (e.g., site hydrology) had a noticeable impact on patterns of skeletal DNA preservation. This research complements previous work by Mundorff and Davoren [5] and Hines et al. [9], while redressing gaps in the existing body of knowledge regarding skeletal DNA degradation, the microbial ecology of bone, and the effects of the burial environment.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author"/>
+  <mods:accessCondition type="local rights statement">Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+  <mods:note displayLabel="Copyright holder">author</mods:note>
+  <mods:physicalDescription>
+    <mods:note displayLabel="Publication Status">PUBLISHED</mods:note>
+  </mods:physicalDescription>
+</mods:mods>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Does Self-Weighing with Feedback Assist with the Self-Regulation of Energy Balance Behaviors?</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">Genevieve</mods:namePart>
+    <mods:namePart type="family">Prushinski</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-07-09T19:58:02-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-07-09T19:58:02-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-07-09T19:58:02-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Masters (pre-doctoral)</etd:level>
+      <etd:name>Master of Science</etd:name>
+      <etd:discipline>Nutrition</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Hollie</mods:namePart>
+    <mods:namePart type="family">Raynor</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Elizabeth</mods:namePart>
+    <mods:namePart type="family">Anderson Steeves</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Sarah</mods:namePart>
+    <mods:namePart type="family">Colby</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_bdcc">masters thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Self-monitoring of diet, physical activity, and/or weight is an important component of the behavioral treatment of obesity. Self-weighing with feedback, in which the feedback is aligned with action of self-weighing, appears to enhance weight management. However, the frequency of self-monitoring with feedback has yet to be examined thoroughly in experimental settings, and it is unclear what diet and/or physical activity behaviors occur following self-weighing with feedback. This study randomly assigned 22 young adults seeking to maintain their weight to one of three conditions: daily weighing with feedback, weekly weighing with feedback, or no weighing control. Participants in the daily and weekly weighing groups were provided with Bluetooth scales and instructed to weigh themselves one time per day or one time per week, respectively, for four weeks. Participants received feedback either daily (daily weighing group) or weekly (weekly weighing group) on their change in weight and a suggestion of how to increase or decrease their energy balance by 150 calories in order to maintain their current weight. Diet, physical activity, weight, self-esteem, mood, eating attitudes, and unhealthy weight control behaviors were measured at baseline and follow-up. Participants in the weighing groups gained significantly less weight (-1.4 lbs ± 3.0) than the no weighing control group (2.8 lbs ± 3.3). Weight changes were -0.4 lbs ± 1.1 for the daily weighing group, -2.4 lbs ± 4.0 for the weekly weighing group, and 2.8 lbs ± 3.3 for the no weighing group, and post-hoc comparisons showed that the weight change in the weekly weighing group was significantly less than the no weighing control. Analyses of covariance showed no significant differences in energy intake or physical activity behaviors between groups at follow-up. No harmful effects of self-weighing with feedback were detected. Results suggest that self-weighing with feedback has no harmful effects and may be useful for weight control, especially weekly weighing with feedback, among adults of a healthy weight seeking to maintain their weight.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author"/>
+  <mods:accessCondition type="local rights statement"> Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+<mods:note displayLabel="Copyright holder">author</mods:note><mods:physicalDescription><mods:note displayLabel="Publication Status">PUBLISHED</mods:note></mods:physicalDescription></mods:mods>

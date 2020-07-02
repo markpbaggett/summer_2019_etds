@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Evaluating Biotic Functional Lift Provided by Physical Habitat Rehabilitation in Urban Streams of the Ridge and Valley Physiographic Province of Tennessee</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">Grant</mods:namePart>
+    <mods:namePart type="family">Fisher</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-06-05T19:49:57-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-06-05T19:49:57-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-06-05T19:49:57-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Masters (pre-doctoral)</etd:level>
+      <etd:name>Master of Science</etd:name>
+      <etd:discipline>Wildlife and Fisheries Science</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Brian</mods:namePart>
+    <mods:namePart type="family">Alford</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">John</mods:namePart>
+    <mods:namePart type="family">Schwartz</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Becky</mods:namePart>
+    <mods:namePart type="family">Nichols</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_bdcc">masters thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>The business of stream restoration is a billion dollar industry today. Funds are  put forward in an attempt to correct any damage that has been done by man and to allow natural processes to take over. Unfortunately, ecological improvement from stream restoration projects particularly in urban watersheds havehad mixed results. Several reasons exist for the limited improvements including1) inadequate ecological design criteria based on re-colonization potential and habitatrequirements determined by functional traits expression 2) pre- and post-monitoringassessment methods, 3) the biological assemblage chosen for the bioassessment, and 4) lack ofa watershed-scale stressor analysis and adequate project scoping and prioritization. In addition, a critical need exists for a better understanding of ecological responses to restoration in order to improve on design strategies, and to assignmitigation credits. Two research study goals are proposed. First, biological data will be collectedfor urban restored, unrestored and reference streams. The streams' functional lift must also be analyzed andcomparedusing the quantification tool to better understand ecological impairment processes in urban streams.The second goal is to conduct a functional traits analysis methodology with theTIAWH Report to improve ecological design criteria for stream restoration, particularly in urban watersheds. In order to assess the biological aspects of each stream, benthic macro invertebrates and fish specimens were collected. A total of six insect samples and two fish IBI samples were conducted at each site. Restored sites showed marginal improvement in fish populations, but did show improved aquatic insect numbers. While stream restorations may not return the streams to the level of reference streams, they do give the ecosystem a fighting chance for aquatic life to return.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author"/>
+  <mods:accessCondition type="local rights statement"> Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+<mods:note displayLabel="Copyright holder">author</mods:note><mods:physicalDescription><mods:note displayLabel="Publication Status">PUBLISHED</mods:note></mods:physicalDescription></mods:mods>

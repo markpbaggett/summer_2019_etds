@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>A RELIABILITY-BASED MODEL TO MANAGE HUMAN CAPITAL ASSET-RELATED MISSION RISK</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">Christopher</mods:namePart>
+    <mods:namePart type="family">Mears</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-05-15T23:17:58-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2018-12-21T09:26:21-05:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2018-12-21T09:26:21-05:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-04-09T20:58:28-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-05-15T23:17:58-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Doctoral (includes post-doctoral)</etd:level>
+      <etd:name>Doctor of Philosophy</etd:name>
+      <etd:discipline>Industrial Engineering</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Xeuping</mods:namePart>
+    <mods:namePart type="family">Li</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Andrew</mods:namePart>
+    <mods:namePart type="family">Yu</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">James</mods:namePart>
+    <mods:namePart type="family">Simonton</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Timothy</mods:namePart>
+    <mods:namePart type="family">Munyon</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_db06">doctoral thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>A convergence of two problems creates a challenge for many organizations that will need to be addressed in the near future. &#13;
+The first problem is the increasing demand for a workforce (primarily knowledge-based), not just in the United States but across the majority of the developed and developing world.  The significant shift from the traditional agricultural and industrial economies of yesterday to an economy today which depends largely upon production using the knowledge within the organization more so than its physical equipment, facilities, and other resources.  This increasing demand for knowledge workers will require organizations to seek all categories of the world’s workforce to meet this demand, to which many regions, nations, governments, and societies have not yet reacted in a substantial manner. &#13;
+The second problem is the pending difficulty with maintaining organizational knowledge.  The traditional approach of spending years investing in its knowledge workers to enable the next organizational generation may be impractical going forward.  The retirement of the baby boomer generation, with some sectors forecasting a shortage of 50-60% of their workforce impacted by the year 2020, may not have enough time to invest in their entire workforce.  This problem is compounded by the additional challenge of the upcoming generation of workers, which may be almost twice as likely to change jobs as previous generations.   &#13;
+Not addressing the convergence of these two problems in a systematic manner will directly increase the risks for organizations to successfully accomplish their respective missions.  Although many organizations will make statements along the lines of “our people are our greatest assets”, this part of the organization is oftentimes ignored when considering current and future mission risks.  By ignoring this component of mission risk, the organization’s strategic and tactical planning will be incomplete, especially for knowledge worker-intensive organizations. &#13;
+The primary purpose of this research is to develop a model to assess the risks posed to an organization’s mission from their human capital assets (the knowledge, education, experience, skills, and abilities of individuals in the organization) using subjective qualitative, objective qualitative, and quantitative approaches, including an application of reliability modeling.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">Knowledge Management, Human Capital, Strategic Management, Asset Management, Risk Management, Reliability Modeling</mods:note>
+  <mods:accessCondition type="local rights statement">Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+  <mods:note displayLabel="Copyright holder">author</mods:note>
+  <mods:physicalDescription>
+    <mods:note displayLabel="Publication Status">PUBLISHED</mods:note>
+  </mods:physicalDescription>
+</mods:mods>

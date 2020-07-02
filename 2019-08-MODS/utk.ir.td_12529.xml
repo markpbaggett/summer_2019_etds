@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Vibrational properties of molecule-based multiferroics and quantum magnets across quantum phase transitions</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">Kendall</mods:namePart>
+    <mods:namePart type="family">Hughey</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-09-19T14:30:54-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-06-10T08:42:03-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-06-10T08:42:03-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-09-19T14:30:54-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Doctoral (includes post-doctoral)</etd:level>
+      <etd:name>Doctor of Philosophy</etd:name>
+      <etd:discipline>Chemistry</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Janice</mods:namePart>
+    <mods:namePart type="family">Musfeldt</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Alexei</mods:namePart>
+    <mods:namePart type="family">Sokolov</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">David</mods:namePart>
+    <mods:namePart type="family">Mandrus</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Ziling</mods:namePart>
+    <mods:namePart type="family">Xue</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_db06">doctoral thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Molecule-based materials offer unique opportunities to explore the interplay between charge, spin, and lattice across quantum phase transitions. With their flexible architectures and overall low energy scales, quantum phases can be induced at experimentally realizable conditions. In this dissertation, I present a spectroscopic study of three important families of multiferroics and quantum magnets with a variety of tuning parameters to unravel the mechanisms required to reach distinct non-equilibrium phases. The exploration of spin-lattice coupling and local lattice distortions across magnetic quantum phase transitions is the unifying theme of this work. &#13;
+&#13;
+As our first platform for investigation, we explore the coupling between ferroic orders in the metal-organic framework [(CH3)2NH2]M(HCOO)3 (M=Mn,Co,Ni) family. The formate bend links the ferroelectric and magnetic quantum phase transition in the Mn analog. Strikingly, B-site substitution drastically alters this mechanism. The Ni material behaves similarly to the Mn analog but at much higher energy scales, whereas the Co system utilizes formate stretches. B-site substitution is thus a powerful tool for developing structure-property relations within chemically analogous materials, providing control of electronic and magnetic properties as well as energy scales.&#13;
+&#13;
+Copper coordination polymers provide a second platform with which to extend our work. Magneto-infrared spectra of [Cu(pyz)2(2-HOpy)2](PF6)2 and [Cu(pyz)1.5(4-HOpy)2](ClO4)2, combined with prior work of other copper complexes, allow for the investigation of spin-lattice coupling across magnetic quantum phase transitions as a function of structural and magnetic dimensionality. Spin-phonon coupling strength versus magnetic dimensionality reveals that coupling is maximized in the ladder complex. These findings are applicable to other materials with field-induced transitions from the antiferromagnetic to fully saturated state.&#13;
+&#13;
+Multiferroic (NH4)2[FeCl5(H2O)] is our final test case, sporting a complex network of hydrogen and halogen bonds. The high-field polarization change is quenched at the quasicollinear- to collinear-sinusoidal magnetic reorientation, collapsing before magnetic saturation. Remarkably, nearly all low-frequency modes distort to facilitate the development of the magnetic quantum phase, entirely different than most other molecule-based magnets. Signatures of electron-phonon coupling emerge through magneto-infrared measurements.&#13;
+&#13;
+Together, these findings elucidate quantum phase transitions, spin-lattice coupling, and structure-property relations in molecular multiferroics and quantum magnets, motivating further exploration of non-equilibrium phases in these materials.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">Quantum phase transitions, multiferroics, magnetoinfrared, molecule-based magnetic materials, external stimuli</mods:note>
+  <mods:accessCondition type="local rights statement">Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+  <mods:note displayLabel="Copyright holder">author</mods:note>
+  <mods:physicalDescription>
+    <mods:note displayLabel="Publication Status">PUBLISHED</mods:note>
+  </mods:physicalDescription>
+</mods:mods>

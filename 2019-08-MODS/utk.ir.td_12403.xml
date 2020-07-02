@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>National Collegiate Athletic Association Division I Athletic Administrators' Perceptions of and Experiences with Mental Performance Consultants</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">Morgan</mods:namePart>
+    <mods:namePart type="family">Eckenrod</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-05-16T15:19:54-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-05-16T15:19:54-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-05-16T15:19:54-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Doctoral (includes post-doctoral)</etd:level>
+      <etd:name>Doctor of Philosophy</etd:name>
+      <etd:discipline>Kinesiology and Sport Studies</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Rebecca</mods:namePart>
+    <mods:namePart type="family">Zakrajsek</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Leslee</mods:namePart>
+    <mods:namePart type="family">Fisher</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Jedediah</mods:namePart>
+    <mods:namePart type="family">Blanton</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Lauren</mods:namePart>
+    <mods:namePart type="family">Moret</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_db06">doctoral thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>The National Collegiate Athletic Association (NCAA) advocates for the hiring of a variety of support staff personnel in attempt to achieve its mission to ensure student-athlete well-being and success (NCAA, n.d.). These support staff personnel are often referred to as an interprofessional team, which involves the cooperation and collaboration between professionals from different backgrounds in order to blend their competencies and skills (Hammick, Ocklers, &amp; Campion-Smith, 2009). The interprofessional team can include but is not limited to: athletic trainers, strength and conditioning coaches, physicians, nutritionists, mental health counselors and mental performance consultants (MPCs). Not all NCAA Division I (DI) athletic departments employ MPCs full-time as they do other interprofessional team members, such as athletic trainers and strength and conditioning coaches (Bemiller &amp; Wrisberg, 2011). One of the professionals who can provide meaningful insight into the possible value of MPCs on staff are Athletic Administrators (AAs), who control athletic department budgets and make decisions on hiring interprofessional team members. Therefore, eleven NCAA DI AAs who have an MPC employed full-time in the athletic department were interviewed about their perceptions of and experiences with MPCs at this level. Thematic analysis (Braun &amp; Clarke, 2006; Clarke &amp; Braun, 2013) procedures resulted in the construction of four themes: (a) AAs’ knowledge about and experiences with MPCs; (b) factors that influence AAs’ hiring of MPCs; (c) factors that influence coaches’ and athletes’ use of MPCs; and (d) AAs’ considerations for employing full-time MPCs. While budgetary constraints were perceived as the primary barrier to hiring MPCs, participants also provided insight into the ways MPCs might gain full-time employment within NCAA DI athletic departments.  </mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">Mental Performance Consultants, Athletic Administrators</mods:note>
+  <mods:accessCondition type="local rights statement"> Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+<mods:note displayLabel="Copyright holder">author</mods:note><mods:physicalDescription><mods:note displayLabel="Publication Status">PUBLISHED</mods:note></mods:physicalDescription></mods:mods>

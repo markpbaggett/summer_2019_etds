@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Fabrication and Electrical Characterization of Uranyl-based Semiconductors</mods:title>
+  </mods:titleInfo>
+  <mods:name valueURI="http://orcid.org/0000-0001-6356-7205" type="personal" authority="orcid" authorityURI="http://id.loc.gov/vocabulary/identifiers/orcid.html">
+    <mods:namePart type="given">Seth</mods:namePart>
+    <mods:namePart type="family">Lawson</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-06-24T14:57:04-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-06-10T11:37:39-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-06-10T11:37:39-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-06-24T14:57:04-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Doctoral (includes post-doctoral)</etd:level>
+      <etd:name>Doctor of Philosophy</etd:name>
+      <etd:discipline>Material Science and Engineering</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Thomas T.</mods:namePart>
+    <mods:namePart type="family">Meek</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Claudia</mods:namePart>
+    <mods:namePart type="family">Rawn</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Roberto</mods:namePart>
+    <mods:namePart type="family">Benson</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Howard</mods:namePart>
+    <mods:namePart type="family">Hall</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_db06">doctoral thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Highly dense pellets of U3O8 [uranyl urinate] and UO3 [uranyl oxide] were fabricated to evaluate their possible use as solid state, direct conversion, semiconductor neutron detectors. By utilizing uranium oxide semiconductors, devices would not require a neutron moderating layer to first interact with neutrons, reducing the probability of reaction products failing to produce a signal in the semiconductor. In addition, fissile isotopes of uranium, such as 235U [uranium-235] have a high probability of undergoing fission when absorbing thermal neutrons, with resulting reaction products from neutron induced fission producing quantities of electron-hole pairs orders of magnitude more than produced by lighter high neutron cross-section isotopes such as 10B [boron-10] or 6Li [lithium-6].&#13;
+This dissertation investigates the modification of electrical properties, such as electrical resistivity, by changing conditions of fabrication to include uniaxial pressing and heating to increase sintering as well as changes to composition by varying available oxygen. By use uniaxial hot pressing, electrical resistivity of uranyl oxide pellets was measured in the 109-1011 Ω-cm [ohm centimeter] range, orders-of-magnitude higher than previously reported values. </mods:abstract>
+  <mods:note displayLabel="Submitted Comment">This work was supported by the Defense Threat Reduction Agency, Basic Research Award # HDTRA1-15-1-0072, to the University of Tennessee institution. The contents do not necessarily reflect the position or the policy of the federal government, and no official endorsement should be inferred.</mods:note>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">Uranium trioxide, uranyl oxide, direct conversion neutron detector, uranium oxide semiconductor</mods:note>
+  <mods:accessCondition type="local rights statement">Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+  <mods:note displayLabel="Copyright holder">author</mods:note>
+  <mods:physicalDescription>
+    <mods:note displayLabel="Publication Status">PUBLISHED</mods:note>
+  </mods:physicalDescription>
+</mods:mods>

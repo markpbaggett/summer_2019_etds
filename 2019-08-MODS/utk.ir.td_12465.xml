@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Design of a CMOS-Memristive Mixed-Signal Neuromorphic System with Energy and Area Efficiency in System Level Applications</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">Gangotree</mods:namePart>
+    <mods:namePart type="family">Chakma</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-07-02T15:32:28-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-06-06T10:23:45-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-06-06T10:23:45-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-07-02T15:32:28-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Doctoral (includes post-doctoral)</etd:level>
+      <etd:name>Doctor of Philosophy</etd:name>
+      <etd:discipline>Electrical Engineering</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Garrett S.</mods:namePart>
+    <mods:namePart type="family">Rose</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Mark E.</mods:namePart>
+    <mods:namePart type="family">Dean</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">James S.</mods:namePart>
+    <mods:namePart type="family">Plank</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Hugh</mods:namePart>
+    <mods:namePart type="family">Medal</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_db06">doctoral thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>The von Neumann architecture has been the backbone of modern computers for several years. This computational framework is popular because it defines an easy, simple and cheap design for the processing unit and memory. Unfortunately, this architecture faces a huge bottleneck going forward since complexity in computations now demands increased parallelism and this architecture is not efficient at parallel processing. Moreover, the post-Moore's law era brings a constant demand for energy-efficient computing with fewer resources and less area. Hence, researchers are interested in establishing alternatives to the von Neumann architecture and neuromorphic computing is one of the few aspiring computing architectures that contributes to this research effectively. Initially, neuromorphic computing attracted attention because of the parallelism found in the bio-inspired networks and they were interested in leveraging this advantage on a single chip. Moreover, the need for speed in real time performance also escalated the popularity of neuromorphic computing and different research groups started working on hardware implementations of neural networks. Also, neuroscience is consistently building a better understanding of biological networks that provides opportunities for bridging the gap between biological neuronal activities and artificial neural networks. As a consequence, the idea behind neuromorphic computing has continued to gain in popularity. In this research, a memristive neuromorphic system for improved power and area efficiency has been presented. This particular implementation introduces a mixed-signal platform to implement neural networks in a synchronous way. In addition to mixed-signal design, a nano-scale memristive device has been introduced that provides power and area efficiency for the overall system. The system design also includes synchronous digital long term plasticity (DLTP), an online learning methodology that helps train the neural networks during the operation phase, improving the efficiency in learning when considering power consumption and area overhead. This research also proposes a stochastic neuron design with a sigmoidal firing rate. The design introduces variability in the membrane capacitance to reach different membrane potential leading to a variable stochastic firing rate.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment">Portions of this document were previously published in journal and conference papers.</mods:note>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author"/>
+  <mods:accessCondition type="local rights statement">Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+  <mods:note displayLabel="Copyright holder">author</mods:note>
+  <mods:physicalDescription>
+    <mods:note displayLabel="Publication Status">PUBLISHED</mods:note>
+  </mods:physicalDescription>
+</mods:mods>

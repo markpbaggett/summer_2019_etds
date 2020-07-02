@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Cross-resistance to Phage Infection in Listeria monocytogenes Serotype 1/2a Mutants and Preliminary Analysis of their Wall Teichoic Acids</mods:title>
+  </mods:titleInfo>
+  <mods:name valueURI="http://orcid.org/0000-0003-4265-1533" type="personal" authority="orcid" authorityURI="http://id.loc.gov/vocabulary/identifiers/orcid.html">
+    <mods:namePart type="given">Danielle Marie</mods:namePart>
+    <mods:namePart type="family">Trudelle</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-06-24T11:33:24-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-05-31T19:34:37-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-05-31T19:34:37-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-06-13T18:49:59-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-06-24T11:33:24-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Masters (pre-doctoral)</etd:level>
+      <etd:name>Master of Science</etd:name>
+      <etd:discipline>Food Science</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Thomas G.</mods:namePart>
+    <mods:namePart type="family">Denes</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">John  Peter</mods:namePart>
+    <mods:namePart type="family">Munafo</mods:namePart>
+    <mods:namePart type="termsOfAddress">Jr.</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Doris</mods:namePart>
+    <mods:namePart type="family">D'Souza</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_bdcc">masters thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Listeriosis, a foodborne illness that may lead to serious illness and/or death in immunocompromised individuals, is caused by the Gram-positive bacterial pathogen Listeria monocytogenes. Gram-positive bacteria contain in their cell walls a thick layer of peptidoglycan, which attaches surface glycopolymers known as wall teichoic acids (WTA). WTA are vital for many functions in the cell, but the primary interest within these studies concerns their role as bacteriophage receptors. Bacteriophages, viruses that exclusively infect bacteria, have been used for over a decade as antimicrobial agents to control L. monocytogenes in ready-to-eat foods and food processing facilities. However, an ever present concern is the possibility of bacterial resistance developing after use of such products. Mutations that predominantly lead to phage resistance are those that affect biosynthesis or glycosylation of WTA. The objectives of these studies include analysis of the WTA monomers of three phage-resistant mutant strains of L. monocytogenes 10403S (FSL D4-0014, FSL D4-0119, and UTK P1-0001), their cross-resistance to a diverse collection of bacteriophages, and to determine if the methodology analyzing WTA monomer units could be streamlined for their rapid assessment. It was found that the mutant strain which lacked rhamnose on its WTA (FSL D4-0119) was the most resistant to phages, with only one phage able to successfully infect it. These findings can be utilized in the formulation of new bacteriophage products that are better able to prevent bacterial resistance from occurring. Using gas chromatography with flame ionization detection, it was observed that the previously uncharacterized mutant strain, UTK P1-0001, does appear to contain a small amount of the full WTA monomer found in its parent strain, which could help to explain its unique pattern of phage resistance. It was also found that this process can be streamlined as far back as using cells that have only been autoclaved to see chromatographic peaks of the WTA monomer unit. Additionally, the methods used here can be employed to develop a library of known WTA monomers for a rapid determination of their presence or absence, saving significant time and materials.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment">Chapter II of this document has been accepted for publication in the journal "Food Microbiology".</mods:note>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">bacteriophages; phages; Listeria monocytogenes; resistance; food safety; wall teichoic acids</mods:note>
+  <mods:accessCondition type="local rights statement">Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+  <mods:note displayLabel="Copyright holder">author</mods:note>
+  <mods:physicalDescription>
+    <mods:note displayLabel="Publication Status">PUBLISHED</mods:note>
+  </mods:physicalDescription>
+</mods:mods>

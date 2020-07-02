@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Solvent Extraction of Yttrium:  Modeling the Rate Coefficient, Loading Ratio and Stoichiometric Ratio</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">David</mods:namePart>
+    <mods:namePart type="family">DeSimone</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-07-17T14:04:29-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-05-24T11:55:38-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-05-24T11:55:38-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-06-23T21:51:39-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-06-30T02:00:27-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-07-17T14:04:29-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Doctoral (includes post-doctoral)</etd:level>
+      <etd:name>Doctor of Philosophy</etd:name>
+      <etd:discipline>Chemical Engineering</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Robert</mods:namePart>
+    <mods:namePart type="family">Counce</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Jack</mods:namePart>
+    <mods:namePart type="family">Watson</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Paul</mods:namePart>
+    <mods:namePart type="family">Dalhaimer</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Sankar</mods:namePart>
+    <mods:namePart type="family">Raghavan</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Wei</mods:namePart>
+    <mods:namePart type="family">Zheng</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_db06">doctoral thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Yttrium was extracted from acidic solutions using di(2-ethylhexyl) phosphate (DEHPA) for three studies.  In doing so, three process parameters were analyzed: extraction rate coefficient, loading ratio, and stoichiometric ratio.&#13;
+&#13;
+The first parameter, extraction rate coefficient, was modeled for a mixer-settler where the organic phase was recycled and the extractant concentration varied.  The extraction rate coefficient increased as the recycle ratio increased because recycling the organic phase increased the organic-to-aqueous volume ratio in the mixer and thus increased the interfacial area between phases.  The extraction rate coefficient increased as the extractant concentration increased when the extractant concentration was low.  However, at high extractant concentrations, the organic phase viscosity had increased due to high metal loading.  The high viscosity lowered the organic-phase molecular diffusion and thus decreased the extraction rate coefficient.&#13;
+&#13;
+Based on process economics, it may be beneficial to conduct a process such that the second parameter, loading ratio, is maximized.  This is most likely true for processes using costly extractants.  A procedure to determine the maximum loading ratio and corresponding optimum extractant concentration for any solvent extraction process was presented.  The previous study's results were used for validation.  To increase the loading ratio, operating nearer to the optimum extractant concentration was more effective than increasing the efficiency.  An example was presented where although all processes operated at 90% efficiency, the only profitable process was the scenario operating at the optimum extractant concentration.&#13;
+&#13;
+The third parameter, stoichiometric ratio, was modeled for the equilibrium extraction of yttrium from hydrochloric acid.  Although some authors have observed stoichiometric ratios less than the theoretical value of three, few have suggested a mechanism for the deviation from ideality.  This study confirmed that the decrease was attributed to chloride ions complexing with yttrium ions to extract together into the organic phase.  The overall equilibrium equation is described as a weighted average of two simultaneous equilibrium extractions.  Increasing either the hydrochloric acid concentration or the yttrium feed concentration decreased the stoichiometric ratio, but the former had a more significant effect.  The aqueous-phase activity coefficients provided only slight improvements in predicting the equilibrium conditions.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">Rate Coefficient, Recycle, Viscosity, Loading Ratio, Stoichiometric Ratio, Yttrium</mods:note>
+  <mods:accessCondition type="local rights statement">Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+  <mods:note displayLabel="Copyright holder">author</mods:note>
+  <mods:physicalDescription>
+    <mods:note displayLabel="Publication Status">PUBLISHED</mods:note>
+  </mods:physicalDescription>
+</mods:mods>

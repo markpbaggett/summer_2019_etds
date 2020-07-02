@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Biomechanical Evaluations of Bilateral and Unilateral TKR Patients During Level Walking and Stair Negotiation</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">Derek</mods:namePart>
+    <mods:namePart type="family">Yocum</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-06-10T16:12:05-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-06-10T16:12:05-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-06-10T16:12:05-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Doctoral (includes post-doctoral)</etd:level>
+      <etd:name>Doctor of Philosophy</etd:name>
+      <etd:discipline>Kinesiology</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Songning</mods:namePart>
+    <mods:namePart type="family">Zhang</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Joshua</mods:namePart>
+    <mods:namePart type="family">Weinhandl</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Jeffrey</mods:namePart>
+    <mods:namePart type="family">Reinbolt</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Eugene</mods:namePart>
+    <mods:namePart type="family">Fitzhugh</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_db06">doctoral thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Many total knee replacement (TKR) patients will need to have a contralateral knee replacement. Biomechanical differences between 1st and 2nd replaced limbs of bilateral TKR have not been examined during level walking or stair negotiation. Further, it is unknown if hip and ankle biomechanics of bilateral patients are altered, compared to the replaced and non-replaced limbs of unilateral patients during level walking and stair negotiation. Study one and two compared hip, knee, and ankle biomechanics of the 1st and 2nd replaced limbs of bilateral patients and both replaced and non-replaced limbs of unilateral patients during level walking and stair negotiation, respectively. Study three compared knee joint waveforms of the 1st replaced limbs of bilateral patients, replaced limbs of unilateral patients, and randomly selected limbs of asymptomatic controls during level walking.&#13;
+	Study one found that 2nd replaced limbs exhibited lower peak loading-response knee extension moments than the first replaced limbs. Bilateral patients exhibited lower loading-response knee extension moments, knee abduction moments, and dorsiflexion moments, compared to unilateral patients. Bilateral patients also exhibited lower push-off peak hip flexion moments and vertical GRF. &#13;
+	Study two found during ascent, bilateral patients exhibited decreased peak loading-response knee extension (KEM) and push-off plantarflexion moments. Unilateral replaced limbs KEM was lower than non-replaced. During descent, bilateral patients descended significantly slower, had lower peak loading-response vertical GRF and KEM, and push-off KEM. Bilateral patients had higher peak loading-response hip extension and push-off plantarflexion moments, and increased knee adduction ROM.&#13;
+	Study three found TKR patients exhibited more flexed and abducted knees throughout stance, decreased sagittal knee ROM, increased early-stance adduction ROM, decreased LR knee extension and PO knee flexion moments, decreased LR and PO KAbM, increased KAbM at midstance, increased midstance vertical GRF, as well as decreased LR and PO vertical GRF. Additionally, bilateral patients exhibited reduced sagittal knee ROM, increased adduction ROM, decreased sagittal knee moments throughout stance, decreased KAbM throughout stance, an earlier LR peak vertical GRF, and a decreased PO vertical GRF, compared to unilateral patients.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">arthroplasty, gait, knee, hip, ankle</mods:note>
+  <mods:accessCondition type="local rights statement"> Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+<mods:note displayLabel="Copyright holder">author</mods:note><mods:physicalDescription><mods:note displayLabel="Publication Status">PUBLISHED</mods:note></mods:physicalDescription></mods:mods>

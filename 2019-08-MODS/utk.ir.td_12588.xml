@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>DERIVING LIFETIMES OF LUNAR EJECTA CONSTITUENTS: A MODEL FOR LUNAR EROSION AND REGOLITH OVERTURN</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">Cole</mods:namePart>
+    <mods:namePart type="family">Nypaver</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-06-10T15:31:39-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-06-10T15:31:39-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-06-10T15:31:39-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Masters (pre-doctoral)</etd:level>
+      <etd:name>Master of Science</etd:name>
+      <etd:discipline>Geology</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Bradley</mods:namePart>
+    <mods:namePart type="family">Thomson</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Devon</mods:namePart>
+    <mods:namePart type="family">Burr</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Joshua</mods:namePart>
+    <mods:namePart type="family">Emery</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_bdcc">masters thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Recently formed ejecta deposits on the Moon are visible in radar and thermal infrared images as visually bright rings around the associated impact crater. Over time, the rocks and boulders associated with ejecta deposits break down into fine-grained regolith due to space weathering processes and corresponding remote sensing signatures fade to background noise. In this thesis, I measure the radar-derived circular polarization ratio (CPR) and thermal infrared-derived rock abundance (RA) of small (~1.5-2.0 km) impact craters on the lunar mare, and I compare these data with modelled age values to assess the long-term evolution of ejecta constituents. The goal of this work was to produce rates at which the surface and subsurface constituents of lunar ejecta deposits break down, and my working hypothesis was that ejecta surface rocks erode more quickly than subsurface rocks. Ejecta deposits were characterized in CPR and RA data by extracting radial medians of CPR and RA data associated with each crater. A curve was then fit to each radial median and the parameters of that curve were extracted and compared to the modelled crater age to assess changes with time. In these results, decreasing trends with time were observed for ejecta in CPR and RA data indicating that ejecta constituents erode over time, but the remote sensing signatures of the observed ejecta deposits vary considerably over time. Because of this scatter in the observed data, rates of erosion could not confidently be derived and support, or a lack thereof, for the hypothesis could not be shown. A series of tests aimed at constraining the observed variation suggest that regolith thickness plays a role in the variation in ejecta remote sensing characteristics. A decoupled analysis of lunar ejecta deposits in these data reveals that impact crater rims remain rocky for ~3.5-3.7 Ga while surface rocks on proximal ejecta deposits are destroyed on timescales of ~1.5-1.7 Ga. I interpret this result to represent continuous uncovering of boulders at crater rims due to regolith downslope creep and splashing. This result indicates that a single rate of erosion may be insufficient to describe the evolution of lunar ejecta deposits.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">Moon, Impact craters, Space weathering</mods:note>
+  <mods:accessCondition type="local rights statement"> Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+<mods:note displayLabel="Copyright holder">author</mods:note><mods:physicalDescription><mods:note displayLabel="Publication Status">PUBLISHED</mods:note></mods:physicalDescription></mods:mods>

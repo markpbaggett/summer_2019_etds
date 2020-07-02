@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Understanding Cathode Electrolyte Interfaces of Nickel-Rich LiNixMnyCozO2 Electrodes</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">Nathan</mods:namePart>
+    <mods:namePart type="family">Phillip</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-08-16T10:10:57-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-06-09T10:22:31-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-06-09T10:22:31-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-08-16T10:10:57-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Doctoral (includes post-doctoral)</etd:level>
+      <etd:name>Doctor of Philosophy</etd:name>
+      <etd:discipline>Energy Science and Engineering</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Claus</mods:namePart>
+    <mods:namePart type="family">Daniel</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Gabriel</mods:namePart>
+    <mods:namePart type="family">Veith</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Thomas</mods:namePart>
+    <mods:namePart type="family">Zawodzinski</mods:namePart>
+    <mods:namePart type="termsOfAddress">Jr.</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Claudia</mods:namePart>
+    <mods:namePart type="family">Rawn</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_db06">doctoral thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>The rapid growth of the energy storage market has fueled demand for battery materials with higher energy densities, longer cycle lives, and better safety features.  This necessitates pushing the limits of known structures such as Ni-rich LiNixMnyCozO2 (x + y + z = 1) cathodes which offer high energy densities (&gt;200 mAh/g) at high cutoff voltages (≥ 4.5 V vs. Li/Li+). Pushing into this high voltage regime introduces challenges of structural rearrangement, electrolyte decomposition, and the formation of an unstable cathode/electrolyte interphase layer (CEI) comprised of decomposition products. The CEI is poorly understood at high voltages but considered critical for passivating these materials against continuous degradation.&#13;
+This thesis addresses that knowledge gap through the development of thin film cathodes which were applied as a model system for studying interfacial modifications. Polymeric binders were deposited in various morphologies and found to reduce interfacial resistance by an order of magnitude compared to uncoated samples. The formation of a thin, LiF-rich passivation layer informs the selection of future binding agents as well as processing conditions for thin uniform coatings in commercial cells. Modification of the initial surface chemistry of the cathode by thin metal oxide coatings of varying isoelectric points demonstrated that an acidic surface is more effective for capacity retention and a stable CEI than more neutral or basic surfaces. This answered the question of how surface treatment of cathode materials influences electrolyte degradation at the surface and indicated that future efforts should focus on coatings which preferentially react with Li salts to form a fluorinated interphase. &#13;
+The degradation mechanism of NMC622 was deconvoluted from challenges of liquid electrolytes which are unstable at high voltages through the construction of the first Ni-rich NMC/Lipon/Li solid state battery. It was determined that using a solid electrolyte which is proven at high voltages did not stabilize the NMC material with cycling, indicating that despite interest of the field, Ni-rich NMC cathodes are not viable for solid state batteries without structural modification. This also demonstrated that accessing additional Li inventory with high voltage operation of Ni-rich NMC is not enabled by a stable CEI alone.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author"/>
+  <mods:accessCondition type="local rights statement">Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+  <mods:note displayLabel="Copyright holder">author</mods:note>
+  <mods:physicalDescription>
+    <mods:note displayLabel="Publication Status">PUBLISHED</mods:note>
+  </mods:physicalDescription>
+</mods:mods>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Patterns, Prevalence, and Determinants of Chronic Disease Disparities in Sexual Minority Women and Men</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal" authority="orcid" authorityURI="http://id.loc.gov/vocabulary/identifiers/orcid.html" valueURI="http://orcid.org/0000-0002-3125-2839">
+    <mods:namePart type="given">Joanne Gayle</mods:namePart>
+    <mods:namePart type="family">Patterson</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-06-08T16:16:10-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-06-08T16:16:10-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-06-08T16:16:10-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Doctoral (includes post-doctoral)</etd:level>
+      <etd:name>Doctor of Philosophy</etd:name>
+      <etd:discipline>Education</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Jennifer</mods:namePart>
+    <mods:namePart type="family">Jabson Tree</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Clea</mods:namePart>
+    <mods:namePart type="family">McNeely</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Samantha</mods:namePart>
+    <mods:namePart type="family">Ehrlich</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Sadie</mods:namePart>
+    <mods:namePart type="family">Hutson</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">John</mods:namePart>
+    <mods:namePart type="family">Orme</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_db06">doctoral thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Sexual minority women (i.e., women identifying as lesbian or bisexual, or report same-sex behavior; SMW) and sexual minority men (i.e., men identifying as gay or bisexual, or report same-sex behavior; SMM) exhibit disproportionate risk for developing chronic diseases. Yet, the breadth of chronic disease disparities and unique factors that give rise to these disparities in SMW and SMM are unknown. Patterns of chronic disease and determinants may also differ by how sexual orientation is measured; however, few studies address this concern. This dissertation identified patterns, prevalence, and determinants of chronic disease in SMW and SMM. &#13;
+ &#13;
+Chapter 2 systematically reviewed publicly available health surveillance programs that included sexual orientation measures. While 50% of data sources measured sexual orientation, most did not follow best practices set forth by the Williams Institute. Chapter 3 used National Health and Nutrition Examination Survey (NHANES) data to investigate chronic disease disparities SMW and SMM defined by sexual identity, sexual behavior, and in terms of identity and behavior. SMW and SMM evidenced disparities in asthma and chronic bronchitis, arthritis (SMW only), and hypertension (SMM only). Importantly, we identified disparities in “hidden” subgroups of heterosexual men reporting same-sex behavior (MSM). Chapter 4 investigated food insecurity as a determinant of smoking in SMW and SMM using NHANES. Food insecurity was associated with current smoking and smoking intensity in SMW defined by sexual identity and behavior. In SMM defined by sexual identity and lifetime sexual behavior, severe food insecurity was associated with current smoking. SMW—including heterosexual women reporting same-sex behavior (WSW)—and gay men evidenced food insecurity disparities.&#13;
+&#13;
+This dissertation provides evidence of patterns and determinants of chronic disease disparities in SMW/SMM. Chapter 2 reviews publicly available data sources researchers can leverage to investigate sexual minority health. Chapters 3 advises researchers, medical and public health providers about inflammatory chronic disease disparities experienced by SMW/SMM. Chapter 4 evidence informs tailored cessation interventions to decrease smoking in food insecure sexual minorities. Notably, this dissertation provides population-level evidence for health-related disparities in heterosexual WSW/MSM. This underscores the importance of using multiple sexual orientation measures to identify disparities in sexual minority subgroups.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment">Portions of this document were previously published in LGBT Health (http://dx.doi.org/10.1089/lgbt.2016.0026) and Annals of Epidemiology (https://doi.org/10.1016/j.annepidem.2017.12.001).</mods:note>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">lesbian, gay, bisexual, sexual minority, LGB health disparities, LGB chronic disease disparities</mods:note>
+  <mods:accessCondition type="local rights statement"> Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+<mods:note displayLabel="Copyright holder">author</mods:note><mods:physicalDescription><mods:note displayLabel="Publication Status">PUBLISHED</mods:note></mods:physicalDescription></mods:mods>

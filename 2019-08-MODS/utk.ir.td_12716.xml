@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Role of Polymer and Nanoparticle Properties on the Dynamics and Local Structure of Polymer Nanocomposites</mods:title>
+  </mods:titleInfo>
+  <mods:name valueURI="http://orcid.org/Robert J Carroll" type="personal" authority="orcid" authorityURI="http://id.loc.gov/vocabulary/identifiers/orcid.html">
+    <mods:namePart type="given">Robert</mods:namePart>
+    <mods:namePart type="family">Carroll</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-07-17T23:35:20-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-07-10T09:48:27-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-07-10T09:48:27-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-07-17T23:35:20-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Doctoral (includes post-doctoral)</etd:level>
+      <etd:name>Doctor of Philosophy</etd:name>
+      <etd:discipline>Physics</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Alexei</mods:namePart>
+    <mods:namePart type="family">Sokolov</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Mark</mods:namePart>
+    <mods:namePart type="family">Dadmun</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Steve</mods:namePart>
+    <mods:namePart type="family">Johnston</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Adriana</mods:namePart>
+    <mods:namePart type="family">Moreo</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_db06">doctoral thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Polymer nanocomposite (PNC) research is a burgeoning field of study in material science owing to the interesting material properties afforded to nanoscale interaction between polymer and nanoparticle. Despite the wealth of different applications being pursued for study, the fundamental parameters that control these emergent properties are not well understood. These knowledge gaps include what controls the interfacial polymer layer 1-5 nm away from the nanoparticle surface as well as what role nanoparticle characteristics play in affecting the macroscopic properties of PNCs. This dissertation combines different static and dynamic experimental techniques to probe both polymer- and nanoparticle-specific parameters with the goal of understanding how they control dynamics and local structure in PNCs. For the polymer perspective, a conceptually more accurate heterogeneous model analysis of the dielectric spectra of PNCs is shown to reveal two important features: that the interfacial polymer layer grows significantly with cooling and that the chains in the interface have less freedom of motion because of chain stretching. This analysis is further used to demonstrate that polymer chain rigidity increases the extent of the interfacial layer above a critical rigidity. The conformational state of polymers is further explored with dielectric spectroscopy where stretched or flattened chains are shown to have a reduced dielectric amplitude from the neat polymer. From the nanoparticle perspective, unique macroscopic properties are shown to be achievable with small, attractive 2 nm nanoparticles (NPs) that are on the order of a polymer segment size. These PNCs with 2 nm NPs differ from PNCs with conventionally sized NPs studied previously by having large changes in mechanical properties while simultaneously having small changes in viscoelastic properties at high temperatures. These effects are attributed to enhanced NP mobility, which is controlled by the temperature-sensitive polymer-NP desorption time. The diffusion of nanoparticles in a polymer melt is studied systematically with polymer molecular weight. The diffusion results are explained with a simple model which argues that NPs transition from a NP-dominant core-shell mechanism to a polymer-dominant vehicle mechanism as the chain length increases, a transition which depends on NP size and the polymer-NP desorption time.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">Polymer nanocomposite, dielectric spectroscopy, dynamic light scattering, interfacial layer, nanoparticle diffusion, polymer dynamics</mods:note>
+  <mods:accessCondition type="local rights statement">Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+  <mods:note displayLabel="Copyright holder">author</mods:note>
+  <mods:physicalDescription>
+    <mods:note displayLabel="Publication Status">PUBLISHED</mods:note>
+  </mods:physicalDescription>
+</mods:mods>

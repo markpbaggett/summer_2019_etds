@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Living life on the edge: The role of invasion processes in shaping personalities in a non-native spider species</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">Angela</mods:namePart>
+    <mods:namePart type="family">Chuang</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-07-23T15:05:44-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-07-23T15:05:44-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-07-23T15:05:44-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Doctoral (includes post-doctoral)</etd:level>
+      <etd:name>Doctor of Philosophy</etd:name>
+      <etd:discipline>Ecology and Evolutionary Biology</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Susan</mods:namePart>
+    <mods:namePart type="family">Riechert</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Daniel</mods:namePart>
+    <mods:namePart type="family">Simberloff</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">James</mods:namePart>
+    <mods:namePart type="family">Fordyce</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Todd</mods:namePart>
+    <mods:namePart type="family">Freeberg</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_db06">doctoral thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Animal personalities describe the behavioral phenotypes of individuals that often remain relatively stable over time and contexts. Since they can account for differential dispersal tendencies, understanding how personality types are distributed across the range can lead to important characterization of expanding invasive populations. Cyrtophora citricola is a colonial tentweb orbweaver spider with an Old World native range that is invasive in Florida. In my dissertation, I asked whether the behavioral traits of C. citricola are correlated with dispersal tendencies, and whether personality types are spatially assorted across its range. I found that this spider species does indeed exhibit personality through repeatability in various behavioral traits, and that activity and exploration behaviors were correlated with the latency to engage in ballooning long distance dispersal. I also showed that individuals at the core of the established population behaviorally differ from those at the two expanding range fronts, although these two populations seem to have diverged in traits. Individuals at the leading edge of their invasive front are faster to attack a prey stimulus and more active. Those in the western population are shyer and less exploratory. These differences suggest that any landscape level range expansion processes such as spatial sorting do not always result in similar patterns of phenotypic divergence from the core population. I also compared behavioral types of native populations of C. citricola in their native range with those in their invasive Florida range, to better determine whether invasive populations are subject to different pressures and processes than those in the native range. Overall, personality composition at the core of the non-native range resembled that of the native population. This dissertation suggests that personality shifts across the non-native range may be more of a product of range expansion processes, rather than selective pressures from the introduction and establishment process.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">animal personality, behavioral syndrome, invasion, range expansion, spatial sorting, spider</mods:note>
+  <mods:accessCondition type="local rights statement"> Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+<mods:note displayLabel="Copyright holder">author</mods:note><mods:physicalDescription><mods:note displayLabel="Publication Status">PUBLISHED</mods:note></mods:physicalDescription></mods:mods>

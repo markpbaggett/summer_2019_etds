@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Assessing the Economic Impact of a Devastating Natural Disaster</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">Ming-Jou</mods:namePart>
+    <mods:namePart type="family">Tsai</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-07-11T11:15:24-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-07-11T11:15:24-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-07-11T11:15:24-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Masters (pre-doctoral)</etd:level>
+      <etd:name>Master of Science</etd:name>
+      <etd:discipline>Agricultural and Resource Economics</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">T. Edward</mods:namePart>
+    <mods:namePart type="family">Yu</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Christopher</mods:namePart>
+    <mods:namePart type="family">Boyer</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Rachel J.C.</mods:namePart>
+    <mods:namePart type="family">Chen</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_bdcc">masters thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Natural disasters can result in serious damage and losses on people, infrastructure, and economic activities in the affected region. According to Loayza et al. (2012), among all kinds of natural disasters, earthquake has the largest average economic damage on a per-event base and per- affected person. The 2008 Wenchuan earthquake was the most devastating earthquake in China since 1980’s, and was the top one earthquake by displaced population and the top seven one by the number of people killed in history (Daniell, 2013). Given its massive damage to human life and regional economic activities, it is important to better understand the impact of the 2008 Wenchuan earthquake on the economy in the affected area.&#13;
+Existing studies related to the economic impact of the Wenchuan earthquake primarily focused on the immediate damage to the economy with only few exceptions related to the long-term impact or a particular sector or service. This study thus includes two specific objectives. First, we determine the long-term impact of the 2008 Wenchuan earthquake on the aggregate economy, the output of various industries, and different income-level groups in the severely damaged area. Second, we further identify the earthquake’s impact on the agriculture sector in the affected counties of Sichuan province.&#13;
+Results of the first study show that the Gross Domestic Product (GDP) in the severely damaged area could not recover even eight years after the earthquake. Also, the earthquake lowered the value-added of three categories of industry, with the secondary industry encountering the most losses followed by the tertiary and primary industries. Moreover, the counties with high-income level experienced more disruptions from the earthquake compared to low-income and medium-income counties, likely due to the different industrial structures among three income groups. In terms of the agricultural sector, results in the second study suggest that agricultural outputs in the extremely seriously-affected area and seriously-affected area were 26% and 11% lower than the remaining counties as a result of the earthquake. The results also imply that the change of marginal productivity of agricultural inputs after the earthquake reduce agricultural outputs in both affected areas.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">2008 Wenchuan earthquake, synthetic control method, panel data, economic impact, agricultural output, marginal productivity</mods:note>
+  <mods:accessCondition type="local rights statement"> Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+<mods:note displayLabel="Copyright holder">author</mods:note><mods:physicalDescription><mods:note displayLabel="Publication Status">PUBLISHED</mods:note></mods:physicalDescription></mods:mods>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Data Driven Quickest Detection in Networks and Its Applications in Spectrum Sensing</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal" authority="orcid" authorityURI="http://id.loc.gov/vocabulary/identifiers/orcid.html" valueURI="http://orcid.org/0000-0002-2170-714X">
+    <mods:namePart type="given">Yifan</mods:namePart>
+    <mods:namePart type="family">Wang</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-06-06T01:22:27-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-06-06T01:22:27-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-06-06T01:22:27-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Doctoral (includes post-doctoral)</etd:level>
+      <etd:name>Doctor of Philosophy</etd:name>
+      <etd:discipline>Electrical Engineering</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Husheng</mods:namePart>
+    <mods:namePart type="family">Li</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Seddik M.</mods:namePart>
+    <mods:namePart type="family">Djouadi</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Arun</mods:namePart>
+    <mods:namePart type="family">Padakandla</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Xueping</mods:namePart>
+    <mods:namePart type="family">Li</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_db06">doctoral thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Cognitive radio is one of the enabling technologies considered for the next generation communication systems for many mission-critical applications. In modern cognitive ratio systems, the spectrum is becoming increasingly crowded and expensive; thus spectrum sensing becomes more important than ever before. &#13;
+&#13;
+In this dissertation, the study is focused on data driven quickest detection applied to energy detection based spectrum sensing. Firstly, a framework that integrates quickest detection and belief propagation is applied to the cooperative spectrum sensing where the primary user (PU) activities are heterogeneous in the space and dynamic in the time. The performance of the proposed scheme is analyzed mathematically. Using numerical simulations, detection performance measured by false alarm rate and average detection delay is obtained for different setups. Numerical simulations have demonstrated the validity of the proposed technique.&#13;
+&#13;
+Secondly, we propose a universal quickest change detection scheme based on density ratio estimation for spectrum sensing by detecting the sudden change of spectrum (e.g., the emergence of PU), where neither the pre-change nor post-change distribution (even the distribution forms) is known to secondary users (SUs), thus achieving robustness to complex spectrum environment, where SUs have no prior information about the measurement distributions. The validity of the proposed schemes has been shown by numerical simulations.&#13;
+&#13;
+Finally, we extend the detection of change in spectrum to millimeter-wave environment.  As millimeter-wave is becoming part of the physical layer standard in the next-generation cellular network, it also brings about many questions and challenges. Not all the existing theories and methods for traditional wireless communication can apply directly to millimeter-wave communication because of the adoption of directional antenna and the high frequency band used. We propose a data-driven spectrum change sensing technique based on mean recurrence time to efficiently detect the PU activities which is tolerant of small fluctuations. The proposed spectrum sensing works well without a priori knowledge of the sensed signal, and doesn't take assumption of independent and identically distributed random variables. It can also serve as a general framework for detection in other areas. The experimental results validate the proposed detection framework.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment">Portions of this document were previously published in journal and conferences.</mods:note>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">Quickest Detection, Spectrum Sensing, Cognitive Radio, mmWave, Belief Propagation, Universal Change Detection</mods:note>
+  <mods:accessCondition type="local rights statement"> Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+<mods:note displayLabel="Copyright holder">author</mods:note><mods:physicalDescription><mods:note displayLabel="Publication Status">PUBLISHED</mods:note></mods:physicalDescription></mods:mods>

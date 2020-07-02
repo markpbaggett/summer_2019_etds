@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Evaluation of Lignin-containing Photopolymers for use in Additive Manufacturing</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">Jordan</mods:namePart>
+    <mods:namePart type="family">Sutton</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-05-13T17:04:09-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-04-02T17:25:35-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-04-02T17:25:35-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-05-13T17:04:09-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Masters (pre-doctoral)</etd:level>
+      <etd:name>Master of Science</etd:name>
+      <etd:discipline>Material Science and Engineering</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Stephen</mods:namePart>
+    <mods:namePart type="family">Chmely</mods:namePart>
+    <mods:namePart type="termsOfAddress">Dr.</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">David</mods:namePart>
+    <mods:namePart type="family">Harper</mods:namePart>
+    <mods:namePart type="termsOfAddress">Dr.</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">David</mods:namePart>
+    <mods:namePart type="family">Keffer</mods:namePart>
+    <mods:namePart type="termsOfAddress">Dr.</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_bdcc">masters thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Generating high value products from lignin has been the goal of decades of research attempting to use the abundant byproduct of paper and biofuel production. Lignin’s complex aromatic structure means that it can potentially act as a feedstock for chemicals, fuels, and polymers. Bio-based polymers are a focus of discussion given the increasing concerns over polymer waste and renewability. For these reasons, efforts have been made to develop polymer products using lignin as an additive or a functionalized part of the polymer network. Photopolymerizable materials have been largely excluded from these works due to perceived difficulties understanding lignin’s photoactive structure. In this study, we show that lignin can be used in commercial photopolymer products with an emphasis on resins for stereolithography and can be modified to tune photoactive properties. The first section of this work features the generation and characterization of lignin photo-active stereolithography resins. With methacrylic modification, it was possible to print with resins loaded with up to 15% lignin by weight on a commercial desktop 3D printer. However, thermal and cure properties were degraded by the addition of lignin. In the second section, different modification techniques were studied to improve cure properties in lignin photopolymers. A combination of reduction and acylation modifications greatly increased UV transparency and reduced critical cure dosage. Mechanical stiffness and strength were also improved due to lignin increasing cross-link density. These findings provide a basis for lignin’s application in photopolymers for additive manufacturing.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">lignin, 3D printing, stereolithography, additive manufacturing, resin</mods:note>
+  <mods:accessCondition type="local rights statement">Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+  <mods:note displayLabel="Copyright holder">author</mods:note>
+  <mods:physicalDescription>
+    <mods:note displayLabel="Publication Status">PUBLISHED</mods:note>
+  </mods:physicalDescription>
+</mods:mods>

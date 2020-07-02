@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>PUBLIC RELATIONS AND SOCIAL MOVEMENT ENGAGEMENT: FACILITATING MOTIVATIONS AND BUILDING NETWORKED SOCIAL MOVEMENTS</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">Ying</mods:namePart>
+    <mods:namePart type="family">Xiong</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-07-30T15:37:28-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-07-30T15:37:28-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-07-30T15:37:28-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Doctoral (includes post-doctoral)</etd:level>
+      <etd:name>Doctor of Philosophy</etd:name>
+      <etd:discipline>Communication and Information</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Maureen</mods:namePart>
+    <mods:namePart type="family">Taylor</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Elizabeth</mods:namePart>
+    <mods:namePart type="family">Foster</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Moonhee</mods:namePart>
+    <mods:namePart type="family">Cho</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Adam</mods:namePart>
+    <mods:namePart type="family">Saffer</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_db06">doctoral thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>The public relations literature has generally focused on functional organization-centered perspectives, applying theories to research how to manage the relationships between publics and organizations. As an alternative perspective, the co-creational perspective treats the organization and public as equal partners in the meaning-making process. This dissertation applied the co-creational approach to the social movement context and discussed how publics and social movement organizations co-create meanings, establish relationships, and contribute to society. &#13;
+A mixed method design was applied to the dissertation. The whole network analysis examined the three movements from a holistic view. The in-depth interviews provided in-depth understandings of the meaning co-creation, motivations, and the outcomes of social movement engagement. The survey method was used to test the measures of three levels of social movement engagement measurements and the social movement engagement model. The ego network analysis was to examine the how interpersonal relationships were formed in a local social movement group. &#13;
+The research found that for both Women’s March (WM) and the Knox Blue Dots (KBD), the outcomes of social movement engagement included three aspects: facilitating personal development and expressing emotions at the individual level, finding a like-mined community at the community level, and creating changes at the national level. KBD’s social movement engagement had an extra network level outcome: cultivating long-lasting relationships. &#13;
+The whole network analysis results found that WM and BLM had loose online networks, while KBD had more closely connected networks. For the two national movements (WM and BLM), it appears difficult for social media users in each network to reach out to others than the local movement network (KBD).&#13;
+The all movements’ survey results indicated that two dimensions of societal engagement, relational engagement, and offline informational engagement positively influence the in-group bonding social capital. Relational engagement positively influences the two dimension of societal engagement. Online informational engagement positively influences offline informational engagement, relational engagement, and the awareness dimension of societal engagement. &#13;
+This dissertation suggests a path forward in conceptualizing, measuring, and applying engagement in social movements for public relations scholars and social movement communication practitioners.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">Social movement, network analysis, public relations, engagement, social movement engagement</mods:note>
+  <mods:accessCondition type="local rights statement"> Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+<mods:note displayLabel="Copyright holder">author</mods:note><mods:physicalDescription><mods:note displayLabel="Publication Status">PUBLISHED</mods:note></mods:physicalDescription></mods:mods>

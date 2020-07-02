@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>CORRELATES OF A RAINFOREST MAMMALIAN CARNIVORE COMMUNITY IN THE CHIQUIBUL FOREST RESERVE</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">Lauren</mods:namePart>
+    <mods:namePart type="family">Watine</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-06-18T13:30:12-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-06-18T13:30:12-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-06-18T13:30:12-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Doctoral (includes post-doctoral)</etd:level>
+      <etd:name>Doctor of Philosophy</etd:name>
+      <etd:discipline>Wildlife and Fisheries Science</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Emma</mods:namePart>
+    <mods:namePart type="family">Willcox</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Joseph</mods:namePart>
+    <mods:namePart type="family">Clark</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Craig</mods:namePart>
+    <mods:namePart type="family">Harper</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Mona</mods:namePart>
+    <mods:namePart type="family">Papes</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_db06">doctoral thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Naturally rare and cryptic, Neotropical mammalian carnivores are difficult to study, leading to gaps in our knowledge of their ecology.  Although technological advances have enhanced our knowledge of large carnivore ecology in the tropics (i.e., jaguar [Panthera onca] and puma [Puma concolor]), we have a limited understanding of factors affecting their coexistence with each other and other carnivores, particularly in areas subject to resource extraction (i.e., selective logging).  My goal was to determine the factors affecting individual species site-use and carnivore coexistence in a managed forest reserve in Belize, Central America.  From January–August 2016, I sampled the carnivore community in the Chiquibul Forest Reserve (CFR) via a network of trail cameras on a 2.25 x 2.25 km grid, and characterized the surrounding sites at both site-specific (e.g., vegetation structure, prey availability and cover) and landscape (e.g., distance to water sources, distance to forest reserve boundaries) levels.  I used information-theoretic models in an occupancy-modeling framework to understand the 1) seasonal effects of factors on carnivore distribution throughout the CFR, 2) importance of pathway (i.e., trail, road, logging tract) characteristics in determining carnivore site-use intensity in the CFR, and 3) coexistence among carnivores.  The importance of site-specific categories in determining carnivore distributions changed between seasons for all species except jaguar.  Top models for carnivores at both site-specific and landscape levels confirmed that pathway characteristics impact carnivore site-use intensity, but not site-use.  Except for ocelot and grey fox, all analyses provide evidence that carnivores use sites independently from other species.  Variables generally failed to predict carnivore site-use, but percent vertical visual obstruction was an important predictor of species site-use intensity.  The non-homogeneous, but well-structured, vegetation mosaic created by both logging activities and natural (e.g., hurricanes) disturbance appears to provide resources that facilitate carnivore presence in the CFR.  However, increasing protection around key features (i.e., riparian areas) could help mitigate added pressure on carnivores from human disturbance during limiting periods.  Carnivores are generally tolerant of pathways and may concentrate their activities on structures left fallow after logging.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">Carnivores, logging, occupancy modeling, pathways, seasons, vegetation structure.</mods:note>
+  <mods:accessCondition type="local rights statement"> Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+<mods:note displayLabel="Copyright holder">author</mods:note><mods:physicalDescription><mods:note displayLabel="Publication Status">PUBLISHED</mods:note></mods:physicalDescription></mods:mods>

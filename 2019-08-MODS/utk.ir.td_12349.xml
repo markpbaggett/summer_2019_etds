@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Exploring Students’ Experiences with Expressive Writing</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">Jeffrey</mods:namePart>
+    <mods:namePart type="family">Russell</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-05-01T19:42:00-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-05-01T19:42:00-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-05-01T19:42:00-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Doctoral (includes post-doctoral)</etd:level>
+      <etd:name>Doctor of Philosophy</etd:name>
+      <etd:discipline>Educational Psychology</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Ralph</mods:namePart>
+    <mods:namePart type="family">Brockett</mods:namePart>
+    <mods:namePart type="termsOfAddress">PhD</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Lisa</mods:namePart>
+    <mods:namePart type="family">Yamagata-Lynch</mods:namePart>
+    <mods:namePart type="termsOfAddress">PhD</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Jennifer</mods:namePart>
+    <mods:namePart type="family">Morrow</mods:namePart>
+    <mods:namePart type="termsOfAddress">PhD</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Stergios</mods:namePart>
+    <mods:namePart type="family">Botzakis</mods:namePart>
+    <mods:namePart type="termsOfAddress">PhD</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_db06">doctoral thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Expressive writing is defined as a therapeutic writing technique that individuals can use to engage in the process of expressing one’s emotions through writing about a past traumatic experience (Bryan &amp; Lu, 2016; Pennebaker &amp; Beall, 1986). Although there has been considerable empirical evidence showing that expressive writing can have a strong, positive effect on physical health as well as some evidence that there are benefits for mental health (Baikie &amp; Wilhelm, 2005; Baikie, Geerligs, &amp; Wilhelm, 2012; Hirai, Skidmore, Clum, &amp; Dora, 2012; Pennebaker &amp; Beall, 1986), there is a lack of knowledge about the experiences that individuals have when participating in the expressive writing process. Furthermore, the expressive writing literature lacks exploration of the process in a community college setting. The purpose of this study was to examine how students make meaning of their experience with the expressive writing process. Using an exploratory, qualitative approach, seven participants from a community college completed two expressive writing exercises about an obstacle they had faced while attending college. The seven participants were interviewed after the process, and each interview was transcribed and analyzed. Six themes emerged from the analysis of the interview data: “Affirmation of Accomplishments,” “Relief and Relaxation,” “Awareness of Future,” “Writing Concerns,” “Organization and Chronological Order of the Writing Process,” and “Reflection.” Each theme provided multiple perspectives of the experience to give a clearer picture of the mechanisms involved in the process of expressive writing, an in-depth view of the expressive writing process, and a stronger understanding of the meaning behind the experience of expressive writing. The implications for practice include how expressive writing could help community college students learn from stressful events in their academic career, process their thoughts and emotions, reduce anxiety, and gain a new perspective on their goals through the process of reflection. Finally, recommendations for future research are addressed, such as exploring emotion words, comparing different social, race, and gender characteristics in different community college populations, and exploring how grammar and punctuation skills can affect the expressive writing process.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">expressive writing, community college, qualitative study, reflective writing, journaling, writing therapy</mods:note>
+  <mods:accessCondition type="local rights statement"> Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+<mods:note displayLabel="Copyright holder">author</mods:note><mods:physicalDescription><mods:note displayLabel="Publication Status">PUBLISHED</mods:note></mods:physicalDescription></mods:mods>

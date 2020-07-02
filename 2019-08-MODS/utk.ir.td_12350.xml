@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Numerical Methods for Radiative Transport Equations</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal" authority="orcid" authorityURI="http://id.loc.gov/vocabulary/identifiers/orcid.html" valueURI="http://orcid.org/0000-0001-5444-2582">
+    <mods:namePart type="given">Vincent</mods:namePart>
+    <mods:namePart type="family">Heningburg</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-05-02T11:10:17-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-05-02T11:10:17-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-05-02T11:10:17-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Doctoral (includes post-doctoral)</etd:level>
+      <etd:name>Doctor of Philosophy</etd:name>
+      <etd:discipline>Mathematics</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Cory</mods:namePart>
+    <mods:namePart type="family">Hauck</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Xiaobing</mods:namePart>
+    <mods:namePart type="family">Feng</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Ohannes</mods:namePart>
+    <mods:namePart type="family">Karakashian</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Anthony</mods:namePart>
+    <mods:namePart type="family">Mezzacappa</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_db06">doctoral thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>In this dissertation, we present and analyze a discrete ordinates ($\nsol{S}_N$) discretization of a filtered radiative transport equation (RTE).  Under certain conditions, $\nsol{S}_N$ discretizations of the standard RTE create numeric artifacts, known as ``ray-effects"; the goal of using a filter is to remove such artifacts.  We analyze convergence of the filtered discrete ordinates solution to the solution of the non-filtered RTE, taking into account the effect of the filter as well as the usual quadrature and truncation errors that arise in discrete ordinates methods.&#13;
+&#13;
+We also present a hybrid spatial discretization for the radiative transport equation that combines  a second-order discontinuous Galerkin (DG) method and a second-order finite volume (FV) method.  The strategy relies on a simple operator splitting that has been used previously to combine different angular discretizations.  Unlike standard FV methods with upwind fluxes, the hybrid approach is able to accurately simulate problems in scattering dominated regimes.   However, it requires less memory and yields a faster time to solution than a standard DG approach.   In addition, the underlying splitting allows naturally for hybridization in both space and angle.&#13;
+&#13;
+We demonstrate, via the simulation of two benchmark problems, the effectiveness of the filtering approach in reducing ray effects.  In addition, we also examine efficiency of both methods, in particular the balance between improved accuracy and additional cost of including the filter, and the ability of the spatial hybrid to leverage its efficiency to produce more accurate results.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">Radiation transport equation, discrete ordinates, filtering, hybrid method, discontinuous Galerkin, finite volume</mods:note>
+  <mods:accessCondition type="local rights statement"> Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+<mods:note displayLabel="Copyright holder">author</mods:note><mods:physicalDescription><mods:note displayLabel="Publication Status">PUBLISHED</mods:note></mods:physicalDescription></mods:mods>

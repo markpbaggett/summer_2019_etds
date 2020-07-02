@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>INTRINSIC STRENGTH, PRECIPITATION HARDENING AND TRIBOLOGICAL BEHAVIOR OF HIGH-ENTROPY ALLOYS</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">Yangyang</mods:namePart>
+    <mods:namePart type="family">Zhao</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-08-16T22:09:37-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-02-20T23:26:19-05:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-02-20T23:26:19-05:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-08-16T22:09:37-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Doctoral (includes post-doctoral)</etd:level>
+      <etd:name>Doctor of Philosophy</etd:name>
+      <etd:discipline>Material Science and Engineering</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">T.G.</mods:namePart>
+    <mods:namePart type="family">Nieh</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Yanfei</mods:namePart>
+    <mods:namePart type="family">Gao</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Hahn</mods:namePart>
+    <mods:namePart type="family">Choo</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Guoxun</mods:namePart>
+    <mods:namePart type="family">Chen</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_db06">doctoral thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Recently, concentrated multicomponent alloys, or high-entropy alloys (HEAs) consisting of several principal components in approximately equiatomic proportions, have increasingly attracted research interest because of their unusual intrinsic characteristics, such as severe lattice distortion and sluggish diffusion. These features confer HEAs promising mechanical properties, making HEAs potential for structural applications. However, limited knowledge on intrinsic strength, precipitate stability and tribological behavior of HEAs is available.&#13;
+In Chapters 2 and 3, we systematically analyzed yield strengths of a series of fcc Ni-based and bcc Nb-based equiatomic alloys. By subtracting all possible strengthening contributions, the intrinsic strength (or lattice friction stress) of each alloy was extracted. It was found that lattice friction stress scaled linearly with the lattice distortion in these equiatomic alloys. A simplified model was developed to interpret this result. It was demonstrated that the enhanced strength in HEAs was mainly attributed to the lattice distortion. &#13;
+In Chapter 4, I reported the study of the coarsening of L12 precipitates in an fcc (NiCoFeCr)94Ti2Al4 HEA. Temporal evolutions of the morphology, size, and volume fraction of these coherent precipitates were examined and evaluated using electron microscopes. Treating the fcc-(NiCoFeCr)94Ti2Al4 alloy as a pseudo ternary Ni-Ti-Al alloy, I analyzed the coarsening kinetics of the precipitates. One of the major findings was that, owing to the relatively slow atomic diffusion in HEAs, coarsening of L12 precipitates in the current HEA was found to be slower than that in the conventional Ni-based alloys. This result demonstrated good thermal stability of the L12 precipitates. &#13;
+In Chapter 5, I investigated the tribological behavior of an amorphous Zr20Ti20Cu20Ni20Be20 HEA (a-HEA). Nanoscratch tests were carried out to measure the coefficient of friction (COF) and wear resistance of the amorphous alloy. The morphology of scratched surface and subsurface was further examined using electron microscopes. Due to high hardness and large elastic recovery, the current a-HEA exhibited good wear resistance and low COF, suggesting that a-HEAs are probably good candidate materials for tribological applications.&#13;
+Finally, a conclusion of all my studies was given. In addition, a future perspective based on my research results were presented in Chapter 6.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">High-entropy alloy, lattice distortion, lattice friction stress, coarsening kinetics, precipitation strengthening, tribology</mods:note>
+  <mods:accessCondition type="local rights statement">Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+  <mods:note displayLabel="Copyright holder">author</mods:note>
+  <mods:physicalDescription>
+    <mods:note displayLabel="Publication Status">PUBLISHED</mods:note>
+  </mods:physicalDescription>
+</mods:mods>

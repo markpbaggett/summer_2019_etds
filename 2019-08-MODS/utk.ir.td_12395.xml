@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Improving Identification Methods for Tabanus Flies (Diptera: Tabanidae) from the Southeastern United States using &#13;
+DNA Barcoding &amp; Environmental Niche Modeling</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">Travis</mods:namePart>
+    <mods:namePart type="family">Davis</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-05-16T10:36:22-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-05-16T10:36:22-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-05-16T10:36:22-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Masters (pre-doctoral)</etd:level>
+      <etd:name>Master of Science</etd:name>
+      <etd:discipline>Entomology and Plant Pathology</etd:discipline>
+      <etd:grantor/>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Rebecca</mods:namePart>
+    <mods:namePart type="family">Trout Fryxell</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths"/>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">John</mods:namePart>
+    <mods:namePart type="family">Moulton</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text"/>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Monica</mods:namePart>
+    <mods:namePart type="family">Papes</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text"/>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource/>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039"/>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_bdcc">masters thesis</mods:genre>
+  <mods:language/>
+  <mods:abstract>Blood-feeding female horse flies (Diptera: Tabanidae: Tabanus) are pests of livestock and man worldwide. Direct damage from Tabanus blood-feeding results in blood loss and physical damage to the skin. Indirect outcomes are the potential transmission of pathogens, economic losses in livestock production, and disruption of outdoor recreation.  Horse flies are an understudied group and Tabanus classification remains incompletely resolved due to variable morphological characters, high diversity, and limited research within the group.  Therefore, the first step to evaluating horse flies as pests is improving identification methods. Our overarching goal was to improve methods of Tabanus identification by building a DNA barcoding database of Tabanus flies and producing distribution models using environmental niche modeling (ENM) in the Southeastern U.S. To complete this objective, horse flies were collected with fly traps and opportunistically by researchers and collaborators throughout the study range. Cytochrome oxidase subunit I (COI) barcodes were sequenced for 40 horse fly species collected in 6 states in the Southeastern U.S. (Tennessee, Arkansas, Mississippi, Alabama, Florida, and North Carolina). Nine major clades were recovered with varying levels of posterior probability support that effectively help to identify Tabanus species. COI is proven to be an effective tool for identification and vector incrimination of most of the 40 Tabanus species represented. Environmental niche models (ENMs) were produced for the most pervasive horse flies collected in this study in the Southeastern U.S. (T. fulvulus Wiedemann, T. lineola Fabricius, T. subsimilis Bellardi, T. quinquevittatus Wiedemann, T. sparus milleri Whitney, and T. sulcifrons Macquart). The resulting distributions of these flies included locations with high relative humidity and temperature range (continentality) based on model analysis in 18 states throughout the Eastern U.S. Together, this work provides a reference point at the species level to further investigate biological differences among horse flies such as feeding behavior, host specificity, seasonality, and range to be evaluated in the determination of economic management options.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">Tabanus, Morphology, Bayesian, Environmental Niche Modeling, Ecology, Maxent</mods:note>
+  <mods:accessCondition type="local rights statement"/>
+<mods:note displayLabel="Copyright holder">author</mods:note><mods:physicalDescription><mods:note displayLabel="Publication Status">PUBLISHED</mods:note></mods:physicalDescription></mods:mods>

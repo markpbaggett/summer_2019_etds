@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Thermo-Mechanical Loading and Multi-Axial Response of Aluminum and Titanium Structural Alloys Using Neutrons and X-Rays</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">Stephen Buete</mods:namePart>
+    <mods:namePart type="family">Puplampu</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-08-02T15:09:08-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-06-10T14:30:17-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-06-10T14:30:17-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-08-02T15:09:08-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Doctoral (includes post-doctoral)</etd:level>
+      <etd:name>Doctor of Philosophy</etd:name>
+      <etd:discipline>Civil Engineering</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Dayakar</mods:namePart>
+    <mods:namePart type="family">Penumadu</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Timothy J.</mods:namePart>
+    <mods:namePart type="family">Truster</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Claudia J.</mods:namePart>
+    <mods:namePart type="family">Rawn</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Justin</mods:namePart>
+    <mods:namePart type="family">Baba</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_db06">doctoral thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Structural alloys find use in a wide variety of areas; depending on the area of application these alloys can be subjected to considerably harsh environments. In this study the mechanical behavior of structural alloys of interest and the effect of fire damage on material properties was investigated. Face centered cubic aluminum alloys AA6061 and AA5083, and hexagonal closed packed titanium alloy Ti-6Al-4V find applications in marine environments and in the aerospace industry. These alloys perform in circumstance where fire outbreaks commonly occur. Understanding of residual mechanical properties of structural materials and characterization of changes induced by fire damage are needed to accurately estimate life of structural components. Mechanical properties of undamaged materials were characterized using non-invasive diffraction tools (neutrons and x-rays); additional techniques such as digital imaging correlation and microscopy were employed to complement diffraction data. Samples were subjected to fire damage and material strength reduction was quantified. Mechanical testing involved tensile, torsional and combined tension/torsion loading measurements. Due to the source aluminum material, samples had a rectangular cross section; this introduced non-uniform stress/strain distributions during torsion and combined loading tests. Results show significant strength reduction in aluminum alloys due to recrystallization, grain re-orientation and loss of strengthening mechanisms. Neutron diffraction was found to be a useful tool in understanding deformation and yielding mechanisms. For structures in the field such as naval structures, a non-reactor based neutron diffractometer for stress measurements could be critical to rapidly assess state of damaged components. One of the main steps towards achieving a compact, portable diffraction instrument for bulk stress measurements is the development and integration of an appropriate detector. The detector of choice was an ANGER logic, scintillator-based detector capable of pulse shape discrimination to reduce effects of high background environments. Development is similar to what is required for a conventional neutron diffraction instrument. Components such as shielding, and slits have to be designed and detector operation has to be calibrated to accurately quantify acquired data. Instrument design and operation was successful. Data analysis showed high two-dimensional resolution; future work will aim at recording and quantifying strain induced diffraction peak shifts.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment">Some portions of this document were previously published in journals; other portions will be submitted for publication in journals.</mods:note>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">aluminum alloy, titanium alloy, microscopy, mechanical testing, imaging, x-ray tomography, neutron diffraction</mods:note>
+  <mods:accessCondition type="local rights statement">Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+  <mods:note displayLabel="Copyright holder">author</mods:note>
+  <mods:physicalDescription>
+    <mods:note displayLabel="Publication Status">PUBLISHED</mods:note>
+  </mods:physicalDescription>
+</mods:mods>

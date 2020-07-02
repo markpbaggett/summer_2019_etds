@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Urban and Industrial Contaminants in Floodplain Sediments in Knoxville, Tennessee</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">Leah Helena</mods:namePart>
+    <mods:namePart type="family">Wenhold</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-07-18T20:36:09-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-06-05T09:14:59-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-06-05T09:14:59-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-06-19T12:26:28-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-07-16T13:36:24-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-07-18T20:36:09-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Masters (pre-doctoral)</etd:level>
+      <etd:name>Master of Science</etd:name>
+      <etd:discipline>Geology</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Larry</mods:namePart>
+    <mods:namePart type="family">McKay</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Edmund</mods:namePart>
+    <mods:namePart type="family">Perfect</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Terry</mods:namePart>
+    <mods:namePart type="family">Hazen</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_bdcc">masters thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Industrial and mining related contaminants are frequently found in streams and may exhibit the potential for transport into adjacent floodplain deposits. Contaminants can sorb onto fine-grained sediments or organic matter and be transported from the streambed into the floodplain during seasonal and extreme precipitation events. This transport mechanism was responsible for floodplain contamination in various areas impacted by mining activities in Germany and in at least one heavily industrialized setting in Chattanooga, Tennessee. The goal of this investigation is to determine if typical urban watershed sediments in Knoxville, Tennessee, where light industries are the primary expected contaminant sources, have elevated levels of industrial contaminants. The first stage of this study was to carry out a survey of areas in Knoxville that are prone to frequent flooding and have a history of industrial activity. The second stage was an in-depth characterization of field sites along Third Creek to determine the degree of anthropogenic modification, grain size distribution, organic matter content, and sediment depositional rates. The final stage of this investigation was the measurement of the concentration of typical industrial contaminants in Third Creek floodplain sediments. A variety of industrial contaminants including polycyclic aromatic hydrocarbons (PAHs), lead, cadmium, chromium, copper, mercury, and zinc were found to exist at elevated levels in near surface sediments, typically the upper 12 to 40 cm. This zone corresponds to sediments that were deposited after the Civil War based on deposition rates estimated using lead and cesium isotopes. Contaminant concentration profiles showed a statistically significant decline with depth at most sites. The results support the hypothesis that contaminants in post-Civil War (industrial age) floodplain sediments are a result of deposition during flood events. These results suggest that profiles of industrial or urban contaminants in floodplains could be used as preliminary indicators of sedimentation rates. The data generally support the hypothesis that elevated contaminant values are associated with organic matter and fine-grained sediment.  The results suggest that floodplain soils in other cities may also have the potential to be impacted by industrial contaminants.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">industrial contaminants, floodplain deposits, floodplain contamination, contaminant transport, urban watershed, polycyclic aromatic hydrocarbons (PAHs)</mods:note>
+  <mods:accessCondition type="local rights statement">Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+  <mods:note displayLabel="Copyright holder">author</mods:note>
+  <mods:physicalDescription>
+    <mods:note displayLabel="Publication Status">PUBLISHED</mods:note>
+  </mods:physicalDescription>
+</mods:mods>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>“IF YOU COULD BALL YOU WERE ON THE COURT”: RACE, TEAM, AND CULTURE IN HIGH SCHOOL BOYS’ BASKETBALL</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">Alexander</mods:namePart>
+    <mods:namePart type="family">Deeb</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-07-24T12:58:29-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-06-10T10:58:23-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-06-10T10:58:23-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-07-24T12:58:29-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Doctoral (includes post-doctoral)</etd:level>
+      <etd:name>Doctor of Philosophy</etd:name>
+      <etd:discipline>Kinesiology and Sport Studies</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Adam</mods:namePart>
+    <mods:namePart type="family">Love</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Steven</mods:namePart>
+    <mods:namePart type="family">Waller</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Lars</mods:namePart>
+    <mods:namePart type="family">Dzikus</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Lauren</mods:namePart>
+    <mods:namePart type="family">Moret</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_db06">doctoral thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>There is a substantial body of research examining the experiences of Black collegiate student athletes at primarily White universities. Many studies, however, have privileged exploring the experiences of college athletes over high school athletes. The purpose of the current study was to explore the role of race in the context of high school boys’ basketball by investigating whether and how race manifests as part of team dynamics and culture. An additional purpose of the current study was to examine high school boys’ basketball players’ understandings of and experiences with race, particularly within the context of sport. Interpretive phenomenological interviews were conducted with 14 current and former Black/African American high school boys’ basketball players. Data was analyzed using thematic analysis (Braun &amp; Clarke, 2006), which produced seven primary themes. With respect to team, themes included (a) key elements of a team and (b) team as family/brotherhood. With respect to culture, themes included (a) key elements of culture and (b) avoiding, ignoring, and minimizing race. With respect to the role of race on the team, themes included (a) choosing basketball, (b) basketball (and other sports) stereotypes, and (c) comparing Black and White players in basketball. These themes were interpreted using a theoretical framework consisting of critical race theory (Delgado &amp; Stefancic, 2012), color-blind racism (Bonilla-Silva, 2018), and the White colonial frame (Carrington, 2010). Findings suggest a discrepancy between the definitions of team and culture found in previous literature and those produced by the participants, indicating a need to develop a singular concept—team culture—that more accurately describes their intersections in a sport context. Findings of the current study also provided support that color-blind racism remains the dominant racial ideology in American society that influences people of all races (Bonilla-Silva, 2018). Despite notions that sport remains color-blind, race continues to shape the experiences of athletes of color. The intersection of race and sport, therefore, remains an important topic of inquiry that requires further exploration to better understand the experiences of athletes of color.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">race, team, culture, color-blind racism, White colonial frame, critical race theory</mods:note>
+  <mods:accessCondition type="local rights statement">Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+  <mods:note displayLabel="Copyright holder">author</mods:note>
+  <mods:physicalDescription>
+    <mods:note displayLabel="Publication Status">PUBLISHED</mods:note>
+  </mods:physicalDescription>
+</mods:mods>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>“Our Bodies and Our Lands Are Not for Sale:” A Comparative Analysis of Law, Transnational Allyship, and Development-Related Violence</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">Elizabeth</mods:namePart>
+    <mods:namePart type="family">Echeverry</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-04-25T20:23:59-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-04-25T20:23:59-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-04-25T20:23:59-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Doctoral (includes post-doctoral)</etd:level>
+      <etd:name>Doctor of Philosophy</etd:name>
+      <etd:discipline>Anthropology</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Tricia</mods:namePart>
+    <mods:namePart type="family">Hepner</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Raja</mods:namePart>
+    <mods:namePart type="family">Swamy</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Rebecca</mods:namePart>
+    <mods:namePart type="family">Klenk</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Michelle</mods:namePart>
+    <mods:namePart type="family">Brown</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_db06">doctoral thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>While Canadian mining projects are routinely linked to acts of violence around the world including sexual violence, community displacement, environmental harms, use of forced labor, intimidation, and murder, the Canadian government has repeatedly failed to pass legislation holding Canadian-based corporations accountable for human rights abuses committed outside Canada’s national borders. Defying global precedent, Canadian civil courts have begun asserting their jurisdiction over cases of development-related violence committed abroad. Through comparative analysis of two of these ongoing lawsuits, Caal v. Hudbay, addressing sexual violence in Guatemala, and Araya v. Nevsun, concerning the use of forced labor in Eritrea, “Our Bodies and Our Lands” explores the ways civil law is being used to address incidents of corporate capitalist development-related violence and how engagement in the legal process affects stakeholder perceptions of law, justice, human rights, and trauma.&#13;
+            Composed of three stand-alone articles woven together to explore the lived experience of development-related violence and the legal process, this dissertation is grounded in three overarching themes: 1) defining  “violent landscapes” and its applications for studying transnational development-related human rights violations; 2) comparative analysis of transnational allyship in Canada’s new sphere of jurisprudence with an eye towards developing best practices; and 3) understanding cycles/legacies of violence by situating the experiences of the plaintiffs in Caal v. Hudbayand Araya v. Nevsun within their broader historical and structural contexts. Using data collected through interviews, participant observation, and ethnographic analysis of case-related documents, the articles range from examination of the underlying bureaucratic mechanisms that enable corporate capitalist development-related violence to occur, to analysis of the ways in which the legal process affects how case stakeholders conceive of and engage with human rights rhetoric, justice, and experiences of violence, to an assessment of how civil law has become an effective tool for plaintiffs to challenge legal and political marginalization in their own countries. Ultimately, my research positions law as both a space of creativity and constraint, of hope and frustration for stakeholders in Caal v. Hudbay and Araya v. Nevsun and presents transnational law as an exciting new field of study for legal scholars and social scientists alike.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">Human rights, law, development-related violence, corporate capitalist development, transnational allyship, justice</mods:note>
+  <mods:accessCondition type="local rights statement"> Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+<mods:note displayLabel="Copyright holder">author</mods:note><mods:physicalDescription><mods:note displayLabel="Publication Status">PUBLISHED</mods:note></mods:physicalDescription></mods:mods>

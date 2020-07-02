@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Rational Design of Non-noble-metal Heterogeneous Catalysts for the Production of Renewable Fuels and Valuable Chemicals via a Combined Experimental and Theoretical Approach</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">Yang</mods:namePart>
+    <mods:namePart type="family">He</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-06-13T12:01:03-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-06-13T12:01:03-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-06-13T12:01:03-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Doctoral (includes post-doctoral)</etd:level>
+      <etd:name>Doctor of Philosophy</etd:name>
+      <etd:discipline>Chemical Engineering</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Siris</mods:namePart>
+    <mods:namePart type="family">Laursen</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Art</mods:namePart>
+    <mods:namePart type="family">Ragauskas</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Paul</mods:namePart>
+    <mods:namePart type="family">Frymier</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_db06">doctoral thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>The focus of this study was placed on understanding the surface and catalytic chemistry of transition metal (TM) intermetallic compounds (IMCs) and ceramics as a function of constituent element, bulk stoichiometry, and surface composition. These efforts have driven the discovery of catalysts that exhibit appropriate reactivity to enable selectively activating C–C, C–O, and C–H bonds within linear and aromatic unsaturated hydrocarbons.&#13;
+The work presented here provides two unique platforms to show how to rationally design inexpensive non-noble metal catalysts. In the first platform, theoretical studies were performed to investigate the fundamental bonding and surface chemistry factors of TM ceramics and how the factors connect to reaction mechanisms of biomass transformation towards benzene production. Our studies show that the general surface reactivity towards carbon, oxygen, and hydrogen can be systematically manipulated as a function of composition change within TM ceramics and can dictate catalytic activity and selectivity. For selective biomass deoxygenation catalysts, an enhanced surface oxygen affinity and a balanced reactivity towards carbon and hydrogen are needed. Our calculations demonstrated that several 1st row transition metal (TM) nitrides and phosphides with relatively appropriate surface reactivity exhibited more reasonable energetics in the deoxygenation of biomass- model compounds, guaiacol and phenol.&#13;
+In the second platform, we utilized a combination of DFT calculations and surface composition controlled synthesis approach to design highly selective (95+%) supported transition metal intermetallic compound catalysts for the direct dehydrogenation of light alkane towards olefin production. Our studies demonstrated that the surface composition of supported Ni+Ga IMCs can be manipulated as a function of support selection, actual loading of Ni and Ga, chemical potential of reduction gas, and annealing condition. These aspects allowed us to investigate how the surface composition change affects catalytic activity and selectivity experimentally as well as to model the surface in the theoretical study to understand the effect of surface composition change on local electronic structure and on the general surface chemistry towards carbon that can affect the energetics of reaction mechanisms.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment">Portions (chapters 3, 4, 5, and 6) of this document were previously published in ACS Catalysis, Catalysis Science &amp; Technology, Journal of the American Chemical Society, and Surface Science, respectively.</mods:note>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">Rational catalyst design, surface science, reaction mechanisms, heterogeneous catalysis, alkane dehydrogenation, biomass deoxygenation</mods:note>
+  <mods:accessCondition type="local rights statement"> Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+<mods:note displayLabel="Copyright holder">author</mods:note><mods:physicalDescription><mods:note displayLabel="Publication Status">PUBLISHED</mods:note></mods:physicalDescription></mods:mods>

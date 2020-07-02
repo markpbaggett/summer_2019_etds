@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>NUTRITIONAL STRATEGIES TO IMPROVE UTILIZATION OF NUTRIENTS IN LACTATING DAIRY COWS EXPOSED TO HEAT STRESS</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal" authority="orcid" authorityURI="http://id.loc.gov/vocabulary/identifiers/orcid.html" valueURI="http://orcid.org/0000-0002-0794-0121">
+    <mods:namePart type="given">Jeffrey</mods:namePart>
+    <mods:namePart type="family">Kaufman</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-05-30T18:53:17-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-05-30T18:53:17-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-05-30T18:53:17-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Doctoral (includes post-doctoral)</etd:level>
+      <etd:name>Doctor of Philosophy</etd:name>
+      <etd:discipline>Animal Science</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Agustin</mods:namePart>
+    <mods:namePart type="family">Rius</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Gina</mods:namePart>
+    <mods:namePart type="family">Pighetti</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Brynn</mods:namePart>
+    <mods:namePart type="family">Voy</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Phillip</mods:namePart>
+    <mods:namePart type="family">Myer</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">John</mods:namePart>
+    <mods:namePart type="family">Zobel</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_db06">doctoral thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Two experiments were conducted to evaluate levels of dietary crude protein (CP) and a new postbiotic prototype from fungal fermentation on nutrient utilization in heat-stressed cows. Experiment 1 consisted of feeding a medium (16.1%) and low (12.5%) CP level to mid-lactating cows in heat stress with or without cooling to assess the interaction. Cooling decreased afternoon body temperature and respiration rates and increased yields of milk, lactose, and protein. Cooling tended to decrease the acute phase reaction in plasma. Compared with low CP, medium CP increased milk fat yield and tended to increased energy-corrected milk yield in cooled cows but not in heat-stressed cows. The medium CP diet increased milk yield but increased morning udder surface temperatures. Medium CP increased glucose and insulin and decreased free fatty acid concentrations in plasma compared with low CP. Compared with low CP, medium CP increased ammonia concentrations in rumen content of heat-stressed cows greater than cooled cows. Experiment 2 consisted of supplementing a new postbiotic prototype developed from Aspergillus oryzae fermentation at 3, 6, and 18 g/d compared with a control at 0 g/d on a basal diet given to heat-stressed cows in 2 periods (mild heat stress with cooling and more intense heat stress with no cooling). An ex vivo lipopolysaccharide challenge was conducted to evaluate treatment effects. In the first period, 6 g/d of the postbiotic decreased body temperature the greatest while tending to increase yields of milk, energy-corrected milk, and lactose. In the second period, 6 g/d of the postbiotic increased energy-corrected milk, protein, fat, and lactose. In addition, overall supply of the postbiotic decreased morning body temperature of the second period. The 6 g/d supply of postbiotic decreased the acute phase reaction and cytokine production from the lipopolysaccharide challenge. In conclusion, cooled cows require greater dietary CP compared with when not cooled, but lower CP improves nutrient utilization of heat-stressed cows. Whereas, a new postbiotic additive improved nutrient utilization for milk production and reduced the inflammatory response in heat-stressed cows. Overall, low dietary CP and fungal feed additives can be beneficial nutritional strategies for heat-stressed, lactating cows.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">dairy cow, crude protein, postbiotic additive, heat stress, milk production, metabolism</mods:note>
+  <mods:accessCondition type="local rights statement"> Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+<mods:note displayLabel="Copyright holder">author</mods:note><mods:physicalDescription><mods:note displayLabel="Publication Status">PUBLISHED</mods:note></mods:physicalDescription></mods:mods>

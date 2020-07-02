@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Revitalizing Brownfields and Greyfields at Oak Ridge National Laboratory to Promote Urban Forestry Management</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">Sally</mods:namePart>
+    <mods:namePart type="family">Ross</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-07-31T11:38:34-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-03-29T11:24:19-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-03-29T11:24:19-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-07-31T11:38:34-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Masters (pre-doctoral)</etd:level>
+      <etd:name>Master of Science</etd:name>
+      <etd:discipline>Forestry</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Sharon</mods:namePart>
+    <mods:namePart type="family">Jean-Philippe</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Michael</mods:namePart>
+    <mods:namePart type="family">Essington</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Wayne</mods:namePart>
+    <mods:namePart type="family">Clatterbuck</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">John</mods:namePart>
+    <mods:namePart type="family">Zobel</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_bdcc">masters thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract> The Oak Ridge National Laboratory (ORNL), formally known as X-10 or Clinton Laboratory, was established during the early 1940s to house the world’s first nuclear reactor. The site was originally used for the production and separation of plutonium during World War II. Today, the ORNL site is used for multiple purposes including research facilities and utility infrastructure, to meet the national goals and objectives of the Department of Energy. Activities associated with its historical and contemporary use has led to severe land disturbance along with excessive inputs of toxic chemical waste. Many issues that impact the ORNL campus and the surrounding forest land-use change and development, land erosion, soil contamination, and compaction, altered vegetation, forest pest, and invasive plants. A study was conducted to (1) investigate trees species diversity, determine diameter at breast height (DBH) distribution, evaluate tree health, and to quantify ecosystem services and values associated with landscape trees. (2) chemical soil composition within managed vegetation sites on the ORNL campus. There were a total of 1160 trees, composed of 62 species, and 30 genera. The species with a high relative abundance are Acer rubrum (10.7%) and Cercis canadensis (9.6%). The most important species in terms of percent population, leaf area size, and structural value are Acer rubrum (19.3), Quercus palustris (17.4), Juniperus virginiana (15.0), Pinus strobus (11.2), and Quercus phellos (7.1). Basic soil properties, such as pH and total element content were characterized. The concentrations of twenty-one elements were determined: Al, As, Ba, Ca, Co, Cd, Cr, Cu, Fe, K, Li, Mg, Mn, Mo, Na, Ni, P, Pb, Sr, and Zn. The elemental concentrations in soils from the ORNL campus were compared to those of native soil profiles of the eastern Tennessee region and median levels for uncontaminated world soils. There were significant correlations between elements Al, Cr, Fe, K, Li, Ni, Pb, and Sr. Results show that elemental concentrations in soil samples from the ORNL site are within the ranges tabulated for soil profiles of the eastern Tennessee region, suggesting that metal contamination has not occurred.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">Urban trees, urban forest, ecosystem services, urban soils, geochemical association, trace metals</mods:note>
+  <mods:accessCondition type="local rights statement">Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+  <mods:note displayLabel="Copyright holder">author</mods:note>
+  <mods:physicalDescription>
+    <mods:note displayLabel="Publication Status">PUBLISHED</mods:note>
+  </mods:physicalDescription>
+</mods:mods>

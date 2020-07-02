@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>The Social Media Decision: Why Some Terrorist Organizations Choose to Build and Utilize a Social Media Presence and Others Do Not</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">Justin Robert</mods:namePart>
+    <mods:namePart type="family">Kinney</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-05-16T02:05:49-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-02-19T15:34:35-05:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-02-19T15:34:35-05:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-05-16T02:05:49-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Doctoral (includes post-doctoral)</etd:level>
+      <etd:name>Doctor of Philosophy</etd:name>
+      <etd:discipline>Political Science</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Brandon C.</mods:namePart>
+    <mods:namePart type="family">Prins</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Krista E.</mods:namePart>
+    <mods:namePart type="family">Wiegand</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Gary</mods:namePart>
+    <mods:namePart type="family">Uzonyi</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Nicholas W.</mods:namePart>
+    <mods:namePart type="family">Geidner</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_db06">doctoral thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Traditionally, radicalization was accomplished through isolation from society, in a small, personal, hands-on setting. But today, some groups have embraced social media platforms to reach and radicalize new supporters and recruits. This modern tool is an opportunity to reach more individuals in a manner that is less costly, easier, and less time-consuming. This has opened the process, allowing for both “direct recruiting”, targeting selected individuals, and “indirect recruiting”, loading material online and allowing it to spread to cause a form of self-radicalization in those who encounter it. This would seem beneficial for all rebel groups. If you successfully recruit even a few fighters or supporters through a low-cost process, it would be worthwhile to take advantage of that. Yet, we don’t see this occurring at the rate one would expect from such a low-cost, high-benefit approach. Certain groups—such as the Islamic State—have built an online presence and embraced social media, but others choose not to, or maintain a low presence. This presents a puzzle: which group actors choose to create and use social media as a radicalization and recruitment tool and which do not? What factors or characteristics determine this decision?&#13;
+This research project investigates the usage of social media as a strategic tactic by terrorist groups. We see certain groups embrace the tactic, to varying degrees, and others do not. So what types of groups choose to utilize this tool? Is there some component or trait of groups that can explain and/or predict the choice to create a social media presence? And if they have a presence, is there some component(s) that explains and predicts their level of social media activity? I propose several factors play important roles in this decision: ideological identity, recruitment opportunities through alliance networks, and competition or outbidding behavior spurred by the existence of rival groups.&#13;
+Testable hypotheses are derived from these factors and are tested on a dataset of 25 organizations from 2006 to 2016, then through three case studies on individual groups. The analysis reveals statistically significant support for all three variables and their relationship to social media engagement.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">terrorism, social media, extremism, radicalization, recruitment, technology adoption</mods:note>
+  <mods:accessCondition type="local rights statement">Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+  <mods:note displayLabel="Copyright holder">author</mods:note>
+  <mods:physicalDescription>
+    <mods:note displayLabel="Publication Status">PUBLISHED</mods:note>
+  </mods:physicalDescription>
+</mods:mods>

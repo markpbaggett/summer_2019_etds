@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Bleach-Based Decontamination Treatment and Cytosine Deamination in Contaminant DNA</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">Anne</mods:namePart>
+    <mods:namePart type="family">Riley</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-05-16T10:32:12-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-05-16T10:32:12-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-05-16T10:32:12-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Masters (pre-doctoral)</etd:level>
+      <etd:name>Master of Arts</etd:name>
+      <etd:discipline>Anthropology</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Graciela</mods:namePart>
+    <mods:namePart type="family">Cabana</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Benjamin</mods:namePart>
+    <mods:namePart type="family">Auerbach</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Margaret</mods:namePart>
+    <mods:namePart type="family">Staton</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_bdcc">masters thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Ancient DNA (aDNA), or DNA derived from organisms typically deceased for 50+ years, has typically undergone degradative processes that make its recovery vulnerable to contaminating DNA. Specialists developed several decontamination protocols, but one has become standard laboratory procedure: the soaking of ancient specimens in household bleach solutions.&#13;
+Research from the last decade on the efficacy of bleach decontamination has shown that bleach does not fully eliminate modern contamination, and worse, may degrade it to the point of mimicking common aDNA damage patterns that researchers rely on to distinguish aDNA sequences. Specifically, bleach has been shown to reduce contaminant DNA to low copy numbers and small fragment lengths, two distinguishing criteria of aDNA. A third criterion is cytosine deamination, a phenomenon characterized by increased cytosine to thymine substitutions. The effect of bleach solutions on cytosine deamination is as yet an open question.&#13;
+This study investigates whether bleach treatment induces an excess of cytosine deamination in contaminant human mitochondrial DNA (mtDNA) from museum-curated zooarchaeological specimens. Bone and tooth samples were evenly divided into treatment groups (5- and 15- minute bleach submersion groups) and a control group. MtDNA sequence data were obtained by capture-based enrichment of genomic libraries.  Frequencies and sequence read distributions of deaminated DNA bases as inferred by the program mapDamage 2.0 were statistically evaluated between treatment and control groups using a mixed effect three-way ANOVA.&#13;
+Results show a tendency toward higher levels of cytosine deamination in bleach-treated samples relative to untreated samples, primarily at the 3’ sequence read ends. Between the bleach-treated groups, a negative correlation is observed with submersion time and cytosine to thymine substitution frequencies. The general increase in cytosine deamination with treatment suggests that bleach may have a role in inducing this damage pattern in modern contaminants. The negative correlation with submersion time suggests that bleach treatment is extremely effective in eliminating recently deposited, superficial contaminant DNA, but appears to be less effective on contaminants with some degree of antiquity. This study provides a glimpse into the appearance of bleach-induced cytosine deamination in modern contaminants under a targeted capture of mtDNA paired with Next Generation Sequencing techniques.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">Ancient DNA, cytosine deamination, sodium hypochlorite</mods:note>
+  <mods:accessCondition type="local rights statement"> Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+<mods:note displayLabel="Copyright holder">author</mods:note><mods:physicalDescription><mods:note displayLabel="Publication Status">PUBLISHED</mods:note></mods:physicalDescription></mods:mods>

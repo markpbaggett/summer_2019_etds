@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>The Influence of Shared Attention on Product Evaluation</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">Theresa</mods:namePart>
+    <mods:namePart type="family">Kwon</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-07-26T16:08:34-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-05-27T18:36:20-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-05-27T18:36:20-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-07-17T17:19:16-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-07-17T17:19:56-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-07-17T17:28:49-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-07-17T17:29:36-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-07-26T16:08:34-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Doctoral (includes post-doctoral)</etd:level>
+      <etd:name>Doctor of Philosophy</etd:name>
+      <etd:discipline>Retail, Hospitality, and Tourism Management</etd:discipline>
+      <etd:grantor/>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Youn-Kyung</mods:namePart>
+    <mods:namePart type="family">Kim</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths"/>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Garriy</mods:namePart>
+    <mods:namePart type="family">Shteynberg</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text"/>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Lowell</mods:namePart>
+    <mods:namePart type="family">Gaertner</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text"/>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Sejin</mods:namePart>
+    <mods:namePart type="family">Ha</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text"/>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">James</mods:namePart>
+    <mods:namePart type="family">Williams</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text"/>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource/>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039"/>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_db06">doctoral thesis</mods:genre>
+  <mods:language/>
+  <mods:abstract>Shared attention is pervasive in our daily lives. In social media platforms, broadcasting services, and online stores, consumers today attend to objects or information with others to an unprecedented degree. Recent scholarship on shared attention enlightens our understanding of how such synchronous co-attention shapes individuals’ cognitive, affective, and behavioral responses. Whereas previous work has explored the effect of shared attention on a wide range of stimuli (i.e., evocative images or videos, political speech), the effect of shared attention on objects that are essentially scarce, such as products, remains elusive. In three studies, this dissertation examines how shared attention influences evaluations of products. The results indicate that shared attention leads to more positive attitudes toward and higher purchase intention of desirable products compared to other social contexts that do not involve shared attention (i.e., attending alone and attending asynchronously with others). Intriguingly, the effect of shared attention is reversed when products are perceived to be scarce. That is, shared attention leads to less positive product attitudes and lower purchase intention when perceptions of scarcity are high, whereas it leads to more positive product attitudes and higher purchase intention when perceptions of scarcity are low. Furthermore, the findings from this dissertation suggest that increased or decreased perceptions of similarity to the co-viewers may serve as a mechanism by which shared attention affects evaluations of desirable products. In all, this dissertation adds to existing knowledge by documenting the novel relationship between shared attention and scarcity and provides practical suggestions for marketers in devising communication materials by underscoring the importance of the social contexts in which consumers view products.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">shared attention, scarcity, social influence, product attitudes, purchase intention</mods:note>
+  <mods:accessCondition type="local rights statement"/>
+  <mods:note displayLabel="Copyright holder">author</mods:note>
+  <mods:physicalDescription>
+    <mods:note displayLabel="Publication Status">PUBLISHED</mods:note>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart type="given">Youn-Kyung</mods:namePart>
+    <mods:namePart type="family">Kim</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Sejin</mods:namePart>
+    <mods:namePart type="family">Ha</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">James</mods:namePart>
+    <mods:namePart type="family">Williams</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Lowell</mods:namePart>
+    <mods:namePart type="family">Gaertner</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Garriy</mods:namePart>
+    <mods:namePart type="family">Shteynberg</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+</mods:mods>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Improving Manufacturing Data Quality with Data Fusion and Advanced Algorithms for Improved Total Data Quality Management</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">David</mods:namePart>
+    <mods:namePart type="family">Juriga</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-07-26T13:13:53-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-06-10T16:23:45-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-06-10T16:23:45-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-07-26T13:13:53-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Masters (pre-doctoral)</etd:level>
+      <etd:name>Master of Science</etd:name>
+      <etd:discipline>Forestry</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Timothy</mods:namePart>
+    <mods:namePart type="family">Young</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Alexander</mods:namePart>
+    <mods:namePart type="family">Petutschnig</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Bogdan</mods:namePart>
+    <mods:namePart type="family">Bichescu</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Terry</mods:namePart>
+    <mods:namePart type="family">Liles</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_bdcc">masters thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Data mining and predictive analytics in the sustainable-biomaterials industries is currently not feasible given the lack of organization and management of the database structures. The advent of artificial intelligence, data mining, robotics, etc., has become a standard for successful business endeavors and is known as the ‘Fourth Industrial Revolution’ or ‘Industry 4.0’ in Europe. Data quality improvement through real-time multi-layer data fusion across interconnected networks and statistical quality assessment may improve the usefulness of databases maintained by these industries. Relational databases with a high degree of quality may be the gateway for predictive modeling and enhanced business analytics.&#13;
+	Data quality is a key issue in the sustainable bio-materials industry. Untreated data from multiple databases (e.g., sensor data and destructive test data) are generally not in the right structure to perform advanced analytics. Some inherent problems of data from sensors that are stored in data warehouses at millisecond intervals include missing values, duplicate records, sensor failure data (data out of feasible range), outliers, etc. These inherent problems of the untreated data represent information loss and mute predictive analytics. The goal of this data science focused research was to create a continuous real-time software algorithm for data cleaning that automatically aligns, fuses, and assesses data quality for missing fields and potential outliers. The program automatically reduces the variable size, imputes missing values, and predicts the destructive test data for every record in a database. Improved data quality was assessed using 10-fold cross-validation and the normalized root mean square error of prediction (NRMSEP) statistic. &#13;
+	The impact of outliers and missing data were tested on a simulated dataset with 201 variations of outlier percentages ranging from 0-90% and missing data percentages ranging from 0-90%.  The software program was also validated on a real dataset from the wood composites industry. One result of the research was that the number of sensors needed for accurate predictions are highly dependent on the correlation between independent variables and dependent variables. Overall, the data cleaning software program significantly decreased the NRMSEP ranging from 64% to 12% of quality control variables for key destructive test values (e.g., internal bond, water absorption and modulus of rupture).</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">Big data, Industry 4.0, machine learning, quality control, data quality improvement, data fusion</mods:note>
+  <mods:accessCondition type="local rights statement">Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+  <mods:note displayLabel="Copyright holder">author</mods:note>
+  <mods:physicalDescription>
+    <mods:note displayLabel="Publication Status">PUBLISHED</mods:note>
+  </mods:physicalDescription>
+</mods:mods>

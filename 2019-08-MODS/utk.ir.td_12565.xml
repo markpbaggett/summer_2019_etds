@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Molecular and Functional Characterization of Key Staphylococcus pseudintermedius Virulence Proteins: Paving the Way for Vaccine Development</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal" authority="orcid" authorityURI="http://id.loc.gov/vocabulary/identifiers/orcid.html" valueURI="http://orcid.org/https://orcid.org/0000-0003-0109-6000">
+    <mods:namePart type="given">Mohamed</mods:namePart>
+    <mods:namePart type="family">Abouelkhair</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-06-10T12:54:25-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-06-10T12:54:25-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-06-10T12:54:25-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Doctoral (includes post-doctoral)</etd:level>
+      <etd:name>Doctor of Philosophy</etd:name>
+      <etd:discipline>Comparative and Experimental Medicine</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Stephen</mods:namePart>
+    <mods:namePart type="family">Kania</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">David</mods:namePart>
+    <mods:namePart type="family">Bemis</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Melissa</mods:namePart>
+    <mods:namePart type="family">Kennedy</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Richard</mods:namePart>
+    <mods:namePart type="family">Giannone</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_db06">doctoral thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Staphylococcus pseudintermedius is the primary cause of canine pyoderma (skin infection). The vast majority of S. pseudintermedius are resistant to all antimicrobials available to veterinarians. Accordingly, there is a need for alternative approaches to control staphylococcal infections, such as vaccines. Development of vaccines to control staphylococcal infections is a high priority, however there are no licensed S. pseudintermedius vaccines. This is likely due to a lack of information about S. pseudintermedius protein functions, surface accessibility and epitope conservation. Effective staphylococcal defenses are rooted in the ability of the bacteria to neutralize and/or destroy important components of their host’s defenses. The objective of this project was to identify and direct the immune response against the most important antigen targets. This was achieved using three strategies &#13;
+(a) Identification and understanding the roles of 5’ nucleotidase, Protein A, Leuxotoxin-I and SpEX [Staphylococcus pseudintermedius Exotoxin] in S. pseudintermedius pathogenesis and host immune response evasion.&#13;
+(b) Attenuation of these proteins to make them safe without eliminating epitopes that induce a protective immune response. &#13;
+(c) Evaluation the neutralizing effect of specific antibodies developed in clinically health dogs against these proteins.&#13;
+&#13;
+           In this study, a conserved S. pseudintermedius 5’ nucleotidase, Protein A, Leuxotoxin-I and SpEX [Staphylococcus pseudintermedius Exotoxin] in vitro were characterized and identified as a critical virulence factors for immune suppression. S. pseudintermedius 5’ nucleotidase converts host adenosine tri and mono phosphate to adenosine which inhibits phagocytosis and bacterial destruction and clearance by neutrophils. Protein A binds antibody on bacterial surface preventing destruction of bacteria and serves as superantigen that destroys B cells and blocks host antibody response. Leukotoxin I kill host leukocytes preventing innate and adaptive immune response. Staphylococcus pseudintermedius Exotoxin kills host leukocytes preventing innate and adaptive immune response and neutralizes complement. &#13;
+Attenuated immunogenic recombinant proteins expressed from synthetic genes altered to produce the attenuated proteins. Clinically healthy dogs were used to develop neutralizing antibodies against the injected attenuated proteins and their native homolog. &#13;
+&#13;
+           By neutralizing surface-bound and extracellular toxins responsible for host tissue destruction and immunosuppression, these mutant proteins may serve as important components of a multivalent vaccine for prophylaxis of S. pseudintermedius infections.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">Staphylococcus pseudintermedius, Vaccine, Immune response, Antibiotic resistance, MRSA, MRSP, Leukotoxins, protein A, 5' nucleotidase, SpEX</mods:note>
+  <mods:accessCondition type="local rights statement"> Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+<mods:note displayLabel="Copyright holder">author</mods:note><mods:physicalDescription><mods:note displayLabel="Publication Status">PUBLISHED</mods:note></mods:physicalDescription></mods:mods>

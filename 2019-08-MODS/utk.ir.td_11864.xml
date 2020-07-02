@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Learning in Organizations: Examining the Relationships between Self-Directed Learning and the Learning Organization</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">Ellen Marie</mods:namePart>
+    <mods:namePart type="family">Haight</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-02-16T08:42:46-05:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-02-16T08:42:46-05:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-02-16T08:42:46-05:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Doctoral (includes post-doctoral)</etd:level>
+      <etd:name>Doctor of Philosophy</etd:name>
+      <etd:discipline>Educational Psychology and Research</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Ralph G.</mods:namePart>
+    <mods:namePart type="family">Brockett</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Lila L.</mods:namePart>
+    <mods:namePart type="family">Holt</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">M. Lane</mods:namePart>
+    <mods:namePart type="family">Morris</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Gary J.</mods:namePart>
+    <mods:namePart type="family">Skolits</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_db06">doctoral thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Change is ubiquitous and affects organizations of all kinds. To continue to operate and perhaps compete in their environments, organizations need to be able to learn and adapt. Learning organizations, compared to those that are not, are better able to add to their stocks of knowledge and increase their organizational capabilities (Cyert &amp; March 1963; Daft &amp; Weick, 1984; Senge, 1990; Watkins &amp; Marsick, 2003), which contributes to better performance (Argote &amp; Ingram, 2000; Conner &amp; Prahalad, 1996), and growth (Penrose, 2009). Fostering self-directed learners within the structure and culture of a LO could have a positive synergistic effect on both individual and organizational learning and performance. Accordingly, this study will explore the connections between SDL in individuals and how those individuals perceive the organizations where they work as LOs. This study adds to the literature on both self-directed learning (SDL) and the learning organization (LO). It makes connections between disciplines: education in the form of adult learning, human resource development, and management. It also links micro- and macro-level concepts in the form of individual SDL within the over-arching LO. As well, it responds to calls for additional research on SDL in the workplace (Cho, 2002; Confessore &amp; Kops; A. D. Ellinger, 2004) and for empirical research that investigates relationships between SDL and the LO in different contexts (Rana et al., 2016). The results of this study could potentially inform the decisions and actions of executives, HRD practitioners, and employees at individual and strategic levels, and inform research, teaching, and learning for scholars in the respective disciplines.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">self-directed learning, learning organization, workplace learning, organization strategy</mods:note>
+  <mods:accessCondition type="local rights statement"> Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+<mods:note displayLabel="Copyright holder">author</mods:note><mods:physicalDescription><mods:note displayLabel="Publication Status">PUBLISHED</mods:note></mods:physicalDescription></mods:mods>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>"The Jacksonian Reformation: Political Patronage and Republican Identity"</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">Max</mods:namePart>
+    <mods:namePart type="family">Matherne</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-07-15T11:53:59-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-07-15T11:53:59-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-07-15T11:53:59-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Doctoral (includes post-doctoral)</etd:level>
+      <etd:name>Doctor of Philosophy</etd:name>
+      <etd:discipline>History</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Daniel</mods:namePart>
+    <mods:namePart type="family">Feller</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Luke</mods:namePart>
+    <mods:namePart type="family">Harlow</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Ernest</mods:namePart>
+    <mods:namePart type="family">Freeberg</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Reeve</mods:namePart>
+    <mods:namePart type="family">Huston</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_db06">doctoral thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Historians have often dismissed the Jacksonian Democrats’ “spoils system” as a program without serious ideological underpinnings. The most prevalent argument holds that Jacksonians were political realists who disavowed older notions of public virtue and disinterestedness so that they could claim the “spoils” of office. Such interpretations overlook the ways in which Jacksonians strived to reconcile their patronage policies to a preexisting ideological landscape. This elision is significant. For in the process of rationalizing the so-called “spoils system,” Jacksonians completed the development of a lasting antiestablishment, “Manichean” political idiom.&#13;
+	This dissertation looks at how Jacksonian Democrats drew upon an older political language of corruption to explain the ideological rationale behind their “reformation” of 1829. Drawing upon newspapers, published writings, correspondence, and letters of application for office, it traces the development of Americans’ ideas about political patronage and officeseeking from seventeenth-century England through Andrew Jackson’s first year in office. Seventeenth-century Anglophone political actors feared that a chief executive could use patronage to create a potentially dangerous separate interest of unprincipled, officeholding hirelings. This fear informed Americans’ attempts to shape their own republic throughout the revolutionary and early national periods. By the 1820s, it had become commonplace to dismiss one’s political enemies as unprincipled officeseekers hiring out their services to the highest bidders. Jacksonians exploited this political idiom, pitching themselves as those who sincerely defended the will of the people, while dismissing John Quincy Adams’s supporters as an unprincipled faction held together only by “corrupt bargains.” To protect themselves from similar accusations, Jacksonians in 1829 attempted to prove that their political engagement had been motivated by sincere principles rather than officeseeking opportunism. They demonstrated their sincerity with performances of defiance and antagonism in the face of officeholding adversaries, and simultaneously advanced a radical Jeffersonian idea that democratically elected presidents could prove their devotion to the people by punishing their enemies. In developing these lines of thought, Jacksonians did not abandon the older notion of disinterested virtue, but rather modified it to make one’s penchant for antagonism the basis of moral authority – a development with fateful implications for the development of American democratic thought.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">Jacksonian Democracy; American political history; early American republic; political patronage; American intellectual history</mods:note>
+  <mods:accessCondition type="local rights statement"> Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+<mods:note displayLabel="Copyright holder">author</mods:note><mods:physicalDescription><mods:note displayLabel="Publication Status">PUBLISHED</mods:note></mods:physicalDescription></mods:mods>

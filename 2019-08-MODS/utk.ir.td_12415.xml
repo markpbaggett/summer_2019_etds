@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>The study of polymeric binders and their role in concomitant solid-electrolyte interphase formation on silicon anodes</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">Katie</mods:namePart>
+    <mods:namePart type="family">Browning</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-06-26T21:46:05-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-05-22T10:19:51-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-05-22T10:19:51-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-06-26T21:46:05-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Masters (pre-doctoral)</etd:level>
+      <etd:name>Master of Science</etd:name>
+      <etd:discipline>Material Science and Engineering</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Claudia</mods:namePart>
+    <mods:namePart type="family">Rawn</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">David</mods:namePart>
+    <mods:namePart type="family">Keffer</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Gabriel</mods:namePart>
+    <mods:namePart type="family">Veith</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_bdcc">masters thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract/>
+  <mods:note displayLabel="Submitted Comment">Silicon is a promising material for next generation anodes because of its order of magnitude higher specific capacity then the currently used graphite; however, as a result of the electrochemical alloying mechanism by which it stores Li, it undergoes large volume changes.  This leads to stresses within the Si resulting in capacity fade and poor cell performance.  One solution is the use of a polymeric binder to promote particle-to-particle cohesion, mitigation of volume expansion, and adhesion to the current collector.  The presence of a binder may affect the formation of the solid-electrolyte interphase (SEI), an interfacial layer on the surface of an anode, that acts as a passivating layer.  The SEI is crucial to cell performance, if it does not form properly excess electrolyte decomposition results in poor lifetime of the battery.  The SEI is extremely sensitive to surface functionalities, cycling procedures, reaction with impurities, etc.  Therefore, a better understanding about the relationship between the polymeric binder and the formation of the SEI is needed to improve battery performance as well as binder selection for Si anodes.&#13;
+The first part of this study investigates how PEFM, an electronically conductive binder mediates the formation and composition of the SEI on the surface of an amorphous Si (a-Si) thin film electrode.  The SEI layer is probed using in situ neutron reflectometry to understand the thickness, roughness and/or diffuseness of the layer.  In addition, information related to the chemical composition is gained from the measured scattering length density value.  Results indicate a large layer, ~ 800 Å thick forms on the surface of the anode.&#13;
+The second part of this study investigates the commonly used binder for Si anodes, polyacrylic acid (PAA), and its effect on SEI formation.  Reflectometry experiments were coupled with electrochemical quartz crystal microbalance (EQCM) studies to understand the viscoelastic response of the polymer layer as the anode is reduced.  Initially the PAA suppresses any new layer formation, confirmed through EQCM and NR results, until the start of lithiation.  As the cell is lithiated/ delithiated the SEI layer changes in chemical composition and thickness based on its state of lithiation.</mods:note>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">Silicon Anodes, Neutron reflectometry, Solid-electrolyte interphase</mods:note>
+  <mods:accessCondition type="local rights statement">Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+  <mods:note displayLabel="Copyright holder">author</mods:note>
+  <mods:physicalDescription>
+    <mods:note displayLabel="Publication Status">PUBLISHED</mods:note>
+  </mods:physicalDescription>
+</mods:mods>

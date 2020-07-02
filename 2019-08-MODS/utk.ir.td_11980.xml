@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Enumeration, Isolation, and Detection of Campylobacter species from Food Stuffs, Fecal Samples, and River Water of East Tennessee</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">Molly Albin</mods:namePart>
+    <mods:namePart type="family">West</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-07-24T11:12:32-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-02-19T12:54:19-05:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-02-19T12:54:19-05:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-07-24T11:12:32-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Doctoral (includes post-doctoral)</etd:level>
+      <etd:name>Doctor of Philosophy</etd:name>
+      <etd:discipline>Food Science</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Jennifer K.</mods:namePart>
+    <mods:namePart type="family">Richards</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">John R.</mods:namePart>
+    <mods:namePart type="family">Buchanan</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Faith J.</mods:namePart>
+    <mods:namePart type="family">Critzer</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Paul C.</mods:namePart>
+    <mods:namePart type="family">Erwin</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">David A.</mods:namePart>
+    <mods:namePart type="family">Golden</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_db06">doctoral thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Campylobacter species (spp.) are a leading cause of bacterial foodborne illness. These Gram-negative, microaerophilic microorganisms are found within the intestinal tracks of warm-blooded animals and in humans can cause a gastroenteritis, campylobacteriosis. Recent outbreaks are linked to raw milk, water, and puppies; however, these outbreak isolates have expressed antibiotic resistance, a main treatment line for campylobacteriosis. While Campylobacter spp. detection improves, cases are mainly sporadic and largely underreported. East Tennessee counties experience a higher prevalence of campylobacteriosis compared to other regions of the state based upon Tennessee Department of Health (TDH) surveillance. It is important for researchers to explore the presence of Campylobacter spp. in the environment to help elucidate the high incidence of campylobacteriosis. This dissertation aimed to identify if Campylobacter spp. exist within the East Tennessee geographic region. &#13;
+The preliminary study collected samples (n=258) from local farmers’ markets, parks, processing facilities, and rivers to better understand possible vehicles for campylobacteriosis within the region.  Following incubation, presumptive positive samples (n=46) were confirmed via PCR with targets for Campylobacter spp., C. jejuni, C. coli, and C. lari. Forty-two samples were confirmed as Campylobacter spp., twelve samples as C. coli, and two samples as C. jejuni. PCR confirmed isolates (n=39) were tested for antibiotic resistance. Eleven (28%) expressed resistance to antibiotics within the screening assay, according to the Clinical and Laboratory Standards Institute (CLSI) guidelines. &#13;
+A quantitative study collected samples (n=264) from four public access river sites to identify if Campylobacter spp. existed within river water throughout one calendar year within the Knoxville, Tennessee area. Following filtration and incubation, presumptive positives (n=244) were confirmed via PCR with targets for Campylobacter spp., C. jejuni, C. coli, and C. lari. Confirmed isolates were identified as Campylobacter spp. (n=168) and C. coli (n=5). PCR confirmed samples (n=161) were tested for antibiotic resistance amongst a panel of eight antibiotics. Ninety-five (59%) isolates expressed resistance, according to CLSI guidelines.&#13;
+By completing this study, a need to update campylobacteriosis risk factors, prevention education, and future treatment options has been identified, especially among Tennessee Department of Health (TDH) surveillance areas.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">food safety, Campylobacter, water, epidemiology, public health</mods:note>
+  <mods:accessCondition type="local rights statement">Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+  <mods:note displayLabel="Copyright holder">author</mods:note>
+  <mods:physicalDescription>
+    <mods:note displayLabel="Publication Status">PUBLISHED</mods:note>
+  </mods:physicalDescription>
+</mods:mods>

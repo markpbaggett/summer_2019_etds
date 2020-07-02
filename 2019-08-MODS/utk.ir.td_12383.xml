@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Youth Can! Grow their Community: Qualitative Evaluation of a Gardening-Enhanced&#13;
+Positive Youth Development Program</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">Marissa</mods:namePart>
+    <mods:namePart type="family">Black</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-05-13T20:45:27-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-05-13T20:35:45-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-05-13T20:35:45-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-05-13T20:45:27-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Masters (pre-doctoral)</etd:level>
+      <etd:name>Master of Science</etd:name>
+      <etd:discipline>Nutrition</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Marsha</mods:namePart>
+    <mods:namePart type="family">Spence</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Sarah</mods:namePart>
+    <mods:namePart type="family">Colby</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_bdcc">masters thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Background: Rates of obesity and overweight for children and adolescents have remained above objectives and disproportionately affect minority youth. Diet quality is one factor related to overweight and obesity and is suboptimal for American youth. Nutrition education programs with additional components including gardening have targeted factors related to diet quality such as increasing fruit and vegetable intake and youth development strategies have been used to empower youth to make healthy changes. This study, in which participants engaged in a nutrition education and gardening program with a focus on improving the health of their community, evaluated the participants’ perceived ability to participate in research, level of intent to be involved in improving the health of their community, and perceived understanding of nutrition concepts as a result of participating in the program.&#13;
+Methods: Participants attended two hour-long weekly lessons for a total of eight weeks at a predominantly minority community youth center. The lessons pertained to nutrition with gardening elements, all while empowering youth and training them to design their own research. The program was evaluated using in-depth interviews with participants. The interviews were coded by two research assistants and analyzed using content analysis.&#13;
+Results: A total of 11 youth participated in the interviews. The interview results suggest that most participants expressed increased self-efficacy to help their community. Participants were able to describe barriers to healthy eating and provide potential solutions to these barriers, and some reported positive changes in their diet and nutrition knowledge. Although the participants designed a research project on their own, they did not seem to recognize the research experience gained from participating in the program.&#13;
+Discussion: The results of this program suggest that youth can gain self-efficacy to improve the health of their community as a result of participating in a gardening-enhanced nutrition education program with youth development strategies. However, participants did not appear to gain self-efficacy to engage in research. Further, participants provided useful feedback which can be used to strengthen the design of similar programs.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">nutrition, positive youth development, gardening, participatory action research, pyd, ypar</mods:note>
+  <mods:accessCondition type="local rights statement">Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+  <mods:note displayLabel="Copyright holder">author</mods:note>
+  <mods:physicalDescription>
+    <mods:note displayLabel="Publication Status">PUBLISHED</mods:note>
+  </mods:physicalDescription>
+  <mods:name>
+    <mods:namePart type="given">Katie</mods:namePart>
+    <mods:namePart type="family">Kavanagh</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+</mods:mods>

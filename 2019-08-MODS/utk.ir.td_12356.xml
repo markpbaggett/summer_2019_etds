@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Effects of Family Adversity and TV Consumption on Turkish Immigrant Children’s Executive Functions (EFs)</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">Lauran</mods:namePart>
+    <mods:namePart type="family">Gieske</mods:namePart>
+    <mods:namePart type="termsOfAddress">Gieske</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-05-03T12:51:56-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-05-03T12:51:56-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-05-03T12:51:56-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Masters (pre-doctoral)</etd:level>
+      <etd:name>Master of Science</etd:name>
+      <etd:discipline>Child and Family Studies</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Julia</mods:namePart>
+    <mods:namePart type="family">Jaekel</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Hillary</mods:namePart>
+    <mods:namePart type="family">Fouts</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">John</mods:namePart>
+    <mods:namePart type="family">Orme</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_bdcc">masters thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Immigrant and ethnic minority children are often exposed to high levels of family&#13;
+adversity and television time. Family adversity and extended TV consumption may be&#13;
+associated with decreased executive functions (EFs). To determine if immigrant children’s exposure to family adversity and TVconsumption predicts EFs skills 12 months later. Data was collected as part of a large longitudinal cohort study on Turkish immigrant children (N=451, aged 5-15 years, 47% male, Table 1) in Germany, the Netherlands, and Norway. At T1, Turkish immigrant mothers reported on family adversity (daily hassles, depression screening, parents’ relationship quality) and children’s average hours spent watching TV per day. At T2, 12 months later, children were administered the computerized Hearts and Flowers task to assess three EF components, updating, shifting, and inhibition (efficiency scores, calculated as mean accuracy divided by median reaction time for correct items). Child age, gender, maternal education, and country of data collection were considered as additional predictors.&#13;
+Structural equation modeling showed that there were no significant effects of family adversity on TV consumption, TV consumption on EFs, or family adversity on EFs. However, age and gender predicted EFs. Model fit was good (χ2 [chi-squared] = 23.663, df [degrees of freedom] = 14, p = .050, CFI = .992, RMSEA = .039, 95% CI [.000, .066], PCLOSE = .720: variance explained in EF: R2 [R squared] = .75). Despite failing to reject the null hypothesis, these results are important as this is the first known study of its kind. This study alone is not sufficient evidence. Others should try to replicate the findings so that avenues for possible interventions and parent education among immigrant children and their families are not overlooked</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">Executive functioning, immigrant children, TV consumption</mods:note>
+  <mods:accessCondition type="local rights statement"> Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+<mods:note displayLabel="Copyright holder">author</mods:note><mods:physicalDescription><mods:note displayLabel="Publication Status">PUBLISHED</mods:note></mods:physicalDescription></mods:mods>

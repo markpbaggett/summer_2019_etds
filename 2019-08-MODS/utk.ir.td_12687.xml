@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Microbial Degradation and Ecological Impacts of Biodegradable Plastic Mulch Films in Agricultural Soils</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal" authority="orcid" authorityURI="http://id.loc.gov/vocabulary/identifiers/orcid.html" valueURI="http://orcid.org/0000-0002-4694-2461">
+    <mods:namePart type="given">Sreejata</mods:namePart>
+    <mods:namePart type="family">Bandopadhyay</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-06-28T19:22:23-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-06-28T19:22:23-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-06-28T19:22:23-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Doctoral (includes post-doctoral)</etd:level>
+      <etd:name>Doctor of Philosophy</etd:name>
+      <etd:discipline>Environmental and Soil Science</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Jennifer</mods:namePart>
+    <mods:namePart type="family">DeBruyn</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Sean</mods:namePart>
+    <mods:namePart type="family">Schaeffer</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Douglas</mods:namePart>
+    <mods:namePart type="family">Hayes</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Todd</mods:namePart>
+    <mods:namePart type="family">Reynolds</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_db06">doctoral thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Agricultural plastic film mulching causes improved crop yields by reducing weeds, moderating soil temperature and conserving soil moisture. However, increased popularity of polyethylene (PE) mulch films have caused widespread pollution because they are non-biodegradable and have limited recycling options. Biodegradable plastic mulch films (BDMs) are emerging as a sustainable alternative to PE films. BDMs are meant to be tilled into the soil where they are expected to biodegrade. However, limited research regarding the impacts of repeated incorporation of BDMs on soil microbial communities, and inadequate information on BDM-degrading microbes and factors that control biodegradation of BDMs has restricted their adoption. The objectives of this study were to 1) evaluate the effects of BDMs and PE on soil microbial community structure and function over two years (Spring 2015- Spring 2017) in two geographical locations: Knoxville, TN, and Mount Vernon, WA, 2) identify potential BDM-degrading microbes using field and laboratory enrichment studies, and 3) evaluate the impacts of added nitrogen amendments on microbial decomposition of BDMs. Bacterial community structure and function were determined using 16S rRNA amplicon sequencing of soil DNA and extracellular enzyme assays. Soil microbial community structure and function differed between TN and WA (P&lt;0.05), and seasons of sampling within each location (P&lt;0.05); however, mulch treatment differences were not significant (P&gt;0.05). Microbial communities on field-weathered BDMs (the plastic-ome) demonstrated enrichment of soil microbial taxa. Sequence data from BDMs in lab enrichments and pure culture work demonstrated that microbial colonization on the BDMs was driven by the composition of the mulch films. BDM decomposition was observed in soil microcosms with and without nitrogen amendments as monitored using CO2 evolution data over 16 weeks. However, the addition of nitrogen amendments to BDMs demonstrated a negative effect on mulch decomposition. Nevertheless, addition of mulch had minimal impacts on nitrification processes and enzyme activities in the microcosms, irrespective of nitrogen amendments. Limited effects of BDMs on soil microbial community structure and function suggest that BDMs may be a viable alternative to PE. The initial characterization of the “plastic-ome” lays a strong groundwork for future research on microbes degrading BDMs.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author"/>
+  <mods:accessCondition type="local rights statement"> Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+<mods:note displayLabel="Copyright holder">author</mods:note><mods:physicalDescription><mods:note displayLabel="Publication Status">PUBLISHED</mods:note></mods:physicalDescription></mods:mods>

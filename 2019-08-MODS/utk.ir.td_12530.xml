@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Embedding and Photoactivating Photosystem I in Unique Organic-Inorganic Matrices</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">Tyler</mods:namePart>
+    <mods:namePart type="family">Bennett</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-06-10T09:30:26-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-06-10T09:30:26-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-06-10T09:30:26-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Doctoral (includes post-doctoral)</etd:level>
+      <etd:name>Doctor of Philosophy</etd:name>
+      <etd:discipline>Chemical Engineering</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Bamin</mods:namePart>
+    <mods:namePart type="family">Khoami</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Dibyendu</mods:namePart>
+    <mods:namePart type="family">Mukherjee</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Paul</mods:namePart>
+    <mods:namePart type="family">Frymier</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Andy</mods:namePart>
+    <mods:namePart type="family">Sarles</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_db06">doctoral thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>The transmembrane photosynthetic protein complex Photosystem I (PSI) possesses remarkable photoactive electrochemical properties which make it highly sought after for incorporation into biohybrid photovoltaic devices. In the pursuit of all such endeavors, three main factors must always be kept in view: understanding the direct redox transfer steps, three-dimensional coordination and stabilization of PSI aggregates, and interfacial connectivity with conductive pathways. This thesis presents steps taken to further these three concepts, contributing to the research community what may help utilize the great potential of PSI. &#13;
+First is presented detailed electrochemical investigations reveal that dissolved O2 forms a complex intermediate species with MV which plays the essential role in mediating redox pathways for unidirectional electron transfer processes. This lends insight into rational design of electron scavengers through systematic tuning of mediator combinations. &#13;
+Second, a novel 3D architecture is described to organize and stabilize PSI in the myriad of harsh conditions in which it needs to function. PSI is encapsulated in a highly stable nanoporous metal–organic framework, ZIF-8, denoted here as PSI@ZIF-8. The ZIF-8 framework provides a unique scaffold with a robust confining environment for PSI while protecting its precisely coordinated chlorophyll networks from denaturing agents. Pump–probe spectroscopy confirms the photoactivity of the PSI@ZIF-8 composites by revealing the successful internal charge separation and external charge transfer of P700+ and FB− even after exposure to denaturing agents and organic solvents. This work provides greater fundamental understanding of confinement effects on pigment networks, while significantly broadening the potential working environments for PSI-integrated bio-hybrid materials.&#13;
+	Finally, we report the use of PSI@ZIF-8 composites as starting scaffolding materials to drive the constituent cations from ZIF-8 towards subsequent formation of charge transfer complexes with the extremely strong organic electron acceptor TCNQ. Through Raman spectroscopy and laser-induced breakdown spectroscopy, the subsequent PSI-Zn-H2mim-TCNQ charge transfer salt complex formed was shown to contain both the Zn2+(TCNQ-)2(H2O) and H2mim+TCNQ- complexes. Through voltammetric cycling and the exchange of Zn2+ and H2mim+ cations, electrochemical annealing of the film increases electrical connectivity and electron conductivity that enabled PSI embedded charge transfer film to generate an order of magnitude greater photocurrents (15 µA/cm2).</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">Photosystem I, biohybrid photovoltaic, metal organic framework, charge-transfer salt</mods:note>
+  <mods:accessCondition type="local rights statement"> Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+<mods:note displayLabel="Copyright holder">author</mods:note><mods:physicalDescription><mods:note displayLabel="Publication Status">PUBLISHED</mods:note></mods:physicalDescription></mods:mods>

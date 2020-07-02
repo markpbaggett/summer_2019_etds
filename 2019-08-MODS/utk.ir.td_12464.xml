@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Device Modeling and Circuit Design of Neuromorphic Memory Structures</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">Sherif</mods:namePart>
+    <mods:namePart type="family">Amer</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-07-19T20:12:27-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-06-06T10:14:30-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-06-06T10:14:30-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-07-02T16:20:10-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-07-19T20:12:27-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Doctoral (includes post-doctoral)</etd:level>
+      <etd:name>Doctor of Philosophy</etd:name>
+      <etd:discipline>Computer Engineering</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Garrett</mods:namePart>
+    <mods:namePart type="family">Rose</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Garrett</mods:namePart>
+    <mods:namePart type="family">Rose</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Benjamin J.</mods:namePart>
+    <mods:namePart type="family">Blalock</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Nicole</mods:namePart>
+    <mods:namePart type="family">McFarlane</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Andy</mods:namePart>
+    <mods:namePart type="family">Sarles</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_db06">doctoral thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>The downscaling of CMOS technology and the benefits gleaned thereof have made it the cornerstone of the semiconductor industry for many years. As the technology reaches its fundamental physical limits, however, CMOS is expected to run out of steam instigating the exploration of new nanoelectronic devices. Memristors have emerged as promising candidates for future computing paradigms, specifically, memory arrays and neuromorphic circuits. Towards this end, this dissertation will explore the use of two memristive devices, namely, Transition Metal Oxide (TMO) devices and Insulator Metal Transition (IMT) devices in constructing neuromorphic circuits. &#13;
+&#13;
+A compact model for TMO devices is first proposed and verified against experimental data. The proposed model, unlike most of the other models present in the literature, leverages the instantaneous resistance of the device as the state variable which facilitates parameter extraction. In addition, a model for the forming voltage of TMO devices is developed and verified against experimental data and Monte Carlo simulations. Impact of the device geometry and material characteristics of the TMO device on the forming voltage is investigated and techniques for reducing the forming voltage are proposed. The use of TMOs in syanptic arrays is then explored and a multi-driver write scheme is proposed that improves their performance. The proposed technique enhances voltage delivery across the selected cells via suppressing the effective line resistance and leakage current paths, thus, improving the performance of the crossbar array. &#13;
+&#13;
+An IMT compact model is also developed and verified against experiemntal data and electro-thermal device simulations. The proposed model describes the device as a memristive system with the temperature being the state variable, thus, capturing the temperature dependent resistive switching of the IMT device in a compact form suitable for SPICE implementation. An IMT based Integrate-And-Fire neuron is then proposed. The IMT neuron leverages the temperature dynamics of the device to deliver the functionality of the neuron. The proposed IMT neuron is more compact than its CMOS counterparts as it alleviates the need for complex CMOS circuitry. Impact of the IMT device parameters on the neuron's performance is then studied and design considerations are provided.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment">Portions if this document where previously published in journals and conferences</mods:note>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">memristor, RRAM, IMT,  neuromorphic</mods:note>
+  <mods:accessCondition type="local rights statement">Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+  <mods:note displayLabel="Copyright holder">author</mods:note>
+  <mods:physicalDescription>
+    <mods:note displayLabel="Publication Status">PUBLISHED</mods:note>
+  </mods:physicalDescription>
+</mods:mods>

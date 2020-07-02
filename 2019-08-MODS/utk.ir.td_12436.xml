@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>A Realist Evaluation Approach to the Study of a K-12 Online Professional Development Course</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">Stephanie</mods:namePart>
+    <mods:namePart type="family">Teague</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-05-31T16:19:06-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-05-31T16:19:06-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-05-31T16:19:06-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Doctoral (includes post-doctoral)</etd:level>
+      <etd:name>Doctor of Philosophy</etd:name>
+      <etd:discipline>Education</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Lisa</mods:namePart>
+    <mods:namePart type="family">Yamagata-Lynch</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Gary</mods:namePart>
+    <mods:namePart type="family">Skolits</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Barbara</mods:namePart>
+    <mods:namePart type="family">Thayer-Bacon</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Louis</mods:namePart>
+    <mods:namePart type="family">Rocconi</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_db06">doctoral thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>The primary purpose of this study is to determine the extent to which the desired outcomes for select K-12 teachers’ participation in a specific arts-based online professional development (OPD) course were being achieved, for which teachers (or subgroups of teachers), in what types of contexts, and how. A secondary purpose of the study is to set a precedent for future studies of K-12 OPD courses, particularly those using a realist evaluation (RE) approach.&#13;
+The RE approach develops, tests, and refines a set of program theories, or hypotheses, about what outcomes will be achieved, for whom, and in what circumstances (Pawson &amp; Tilley, 1997). In accordance with this approach, I began by developing initial program theories that hypothesized the extent to which the desired course outcomes were being achieved, for which teachers (or subgroups of teachers), in what types of contexts, and how. I then used multiple forms of data collection and analysis to test and refine these program theories during three iterative phases: Develop Initial Program Theories, Test and Revise Program Theories, and Refine and Finalize Program Theories. As RE approaches are retroductive, I analyzed the data as it was being collected. I gathered data from course completion rates, a realist review of the literature, interviews, course annotations, and responses to question and reflection prompts embedded in the course. Collectively, these data were used to determine the extent to which desired course outcomes were being achieved, for which teachers, in what types of contexts, and how.&#13;
+Ultimately, six program theories were finalized, from which five middle-range theories were derived. These findings identified relationships between the contextual factors, causal mechanisms, and outcomes from the VTSB course. They indicated that teachers engaged in, applied, and shared course content when the content aligned with their pedagogical beliefs, when they experienced pedagogical discontentment, and when they had strong interpersonal relationships with school leadership. Findings also indicated that teachers’ engagement in the course was constrained by mandated curricular requirements, time demands, an over-focus on accountability measures, and when course examples were not representative of their diverse students and instructional contexts.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">Online professional development, K-12 professional development, realist evaluation, program evaluation</mods:note>
+  <mods:accessCondition type="local rights statement"> Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+<mods:note displayLabel="Copyright holder">author</mods:note><mods:physicalDescription><mods:note displayLabel="Publication Status">PUBLISHED</mods:note></mods:physicalDescription></mods:mods>

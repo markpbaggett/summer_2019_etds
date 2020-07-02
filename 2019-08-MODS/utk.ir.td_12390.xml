@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Modern Power System Dynamic Performance Improvement through Big Data Analysis</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal" authority="orcid" authorityURI="http://id.loc.gov/vocabulary/identifiers/orcid.html" valueURI="http://orcid.org/0000-0002-8430-9210">
+    <mods:namePart type="given">Yajun</mods:namePart>
+    <mods:namePart type="family">Wang</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-05-15T11:19:28-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-05-15T11:19:28-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-05-15T11:19:28-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Doctoral (includes post-doctoral)</etd:level>
+      <etd:name>Doctor of Philosophy</etd:name>
+      <etd:discipline>Electrical Engineering</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Héctor</mods:namePart>
+    <mods:namePart type="family">Pulgar-Painemal</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Yilu</mods:namePart>
+    <mods:namePart type="family">Liu</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Hairong</mods:namePart>
+    <mods:namePart type="family">Qi</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Russell</mods:namePart>
+    <mods:namePart type="family">Zaretzki</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_db06">doctoral thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Higher penetration of Renewable Energy (RE) is causing generation uncertainty and reduction of system inertia for the modern power system. This phenomenon brings more challenges on the power system dynamic behavior, especially the frequency oscillation and excursion, voltage and transient stability problems. &#13;
+&#13;
+This dissertation work extracts the most useful information from the power system features and improves the system dynamic behavior by big data analysis through three aspects: inertia distribution estimation, actuator placement, and operational studies.&#13;
+&#13;
+First of all, a pioneer work for finding the physical location of COI in the system and creating accurate and useful inertia distribution map is presented. Theoretical proof and dynamic simulation validation have been provided to support the proposed method for inertia distribution estimation based on measurement PMU data. Estimation results are obtained for a radial system, a meshed system, IEEE 39 bus-test system, the Chilean system, and a real utility system in the US. &#13;
+&#13;
+Then, this work provided two control actuator placement strategy using measurement data samples and machine learning algorithms. The first strategy is for the system with single oscillation mode. Control actuators should be placed at the bus that are far away from the COI bus. This rule increased damping ratio of eamples systems up to 14\% and hugely reduced the computational complexity from the simulation results of the Chilean system. The second rule is created for system with multiple dynamic problems. General and effective guidance for planners is obtained for IEEE 39-bus system and IEEE 118-bus system using machine learning algorithms by finding the relationship between system most significant features and system dynamic performance. &#13;
+&#13;
+Lastly, it studied the real-time voltage security assessment and key link identification in cascading failure analysis. A proposed deep-learning framework has Achieved the highest accuracy and lower computational time for real-time security analysis. In addition, key links are identified through distance matrix calculation and probability tree generation using 400,000 data samples from the Western Electricity Coordinating Council (WECC) system.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">Power system dynamics, big data analysis, inertia distribution, energy storage system, power system stability</mods:note>
+  <mods:accessCondition type="local rights statement"> Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+<mods:note displayLabel="Copyright holder">author</mods:note><mods:physicalDescription><mods:note displayLabel="Publication Status">PUBLISHED</mods:note></mods:physicalDescription></mods:mods>

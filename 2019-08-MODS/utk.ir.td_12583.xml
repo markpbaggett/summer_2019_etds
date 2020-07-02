@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Slow Violence and Movement Resistance by the Gas Peddit in Neoliberal India</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">Nikhil</mods:namePart>
+    <mods:namePart type="family">Deb</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-06-10T14:45:21-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-06-10T14:45:21-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-06-10T14:45:21-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Doctoral (includes post-doctoral)</etd:level>
+      <etd:name>Doctor of Philosophy</etd:name>
+      <etd:discipline>Sociology</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Paul</mods:namePart>
+    <mods:namePart type="family">Gellert</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Stephanie</mods:namePart>
+    <mods:namePart type="family">Bohon</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Harry</mods:namePart>
+    <mods:namePart type="family">Dahms</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Jon</mods:namePart>
+    <mods:namePart type="family">Shefner</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Raja</mods:namePart>
+    <mods:namePart type="family">Swamy</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_db06">doctoral thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>The Bhopal disaster that caused at least 25,000 deaths and over 600,000 injuries, health defects, socioenvironmental destruction, and other ailments is remembered almost exclusively by the spectacle of its immediate aftermaths. Yet few are cognizant of the way in which the slow violence of biosocial and environmental destruction continues to affect marginalized people living in Bhopal, as well as their struggles for environmental justice, including clean up of toxic zones, compensation, health care, and importantly, recognition of their rights and memories. More than three decades later, children are born with mental and physical disabilities, and women and girls are plagued with reproductive health problems. To this day, many dangerous chemicals left in the abandoned factory continue to contaminate soil and groundwater, affecting more and more marginalized Bhopalis. This dissertation goes beyond the spectacle-driven understanding of the tragedy by examining both the disaster and its ongoing adverse consequences as the outcomes of political and economic dynamics that create conditions for catastrophes and render invisible the lingering devastation affecting vulnerable populations in peripheral countries. Based on 60 interviews with Bhopal gas and water sufferers (Gas Peddit) and activists, field observations, archives, and official and independent reports, this dissertation argues that a) the disaster that happened under a shrinking developmental state was the outcome of a long chain of global political economic development; b) prolonged biosocial and environmental destruction is characteristic of India’s neoliberal regime; and c) the process of marginalization of affected Bhopalis in neoliberal India has created a new kind of politics for social and environmental justice, evident in the Bhopal Movement, the longest-running social movement in postcolonial India. Findings of this dissertation suggest that Bhopal is the embodiment of ‘slow violence’ in neoliberalism, not only because the enduring consequences elude political, judicial, and medical discourse and restitution from governments and corporations, but also because neoliberal actors have tried to suppress the legitimacy of the sufferers’ crises in Bhopal.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment"/>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">Bhopal, India, Slow violence, Neoliberalism, Development state, Environment</mods:note>
+  <mods:accessCondition type="local rights statement"> Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+<mods:note displayLabel="Copyright holder">author</mods:note><mods:physicalDescription><mods:note displayLabel="Publication Status">PUBLISHED</mods:note></mods:physicalDescription></mods:mods>

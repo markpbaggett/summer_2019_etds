@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Expanding the omics repertoire for model studies on a Chlorella-infecting giant virus</mods:title>
+  </mods:titleInfo>
+  <mods:name valueURI="http://orcid.org/0000-0001-8824-1586" type="personal" authority="orcid" authorityURI="http://id.loc.gov/vocabulary/identifiers/orcid.html">
+    <mods:namePart type="given">Samantha</mods:namePart>
+    <mods:namePart type="family">Coy</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-07-27T23:58:36-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-05-22T13:15:32-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-05-22T13:15:32-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-07-23T13:07:32-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-07-23T13:08:03-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-07-27T23:58:36-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Doctoral (includes post-doctoral)</etd:level>
+      <etd:name>Doctor of Philosophy</etd:name>
+      <etd:discipline>Microbiology</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Steven</mods:namePart>
+    <mods:namePart type="family">Wilhelm</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Alison</mods:namePart>
+    <mods:namePart type="family">Buchan</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Shawn</mods:namePart>
+    <mods:namePart type="family">Campagna</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Erik</mods:namePart>
+    <mods:namePart type="family">Zinser</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_db06">doctoral thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Viruses are the most abundant biological entities in aquatic ecosystems. As top-down controls of plankton abundance and diversity, they are intrinsically linked to biogeochemical cycling, and by proxy, to global climate change. It is thus of great interest for researchers to understand the mechanics of viral infection and persistence among ecologically important phytoplankton assemblages. Viruses which infect eukaryotic algae are observed with diverse nucleic acid types, structures, and sizes, though most isolates to date bear large, dsDNA genomes comprised of genes normally only seen in cellular organisms. The Chlorella viruses are the model system for studying these entities, with many of the ‘omics’ approaches having been used to characterize the biology of this system. Here, we present data generated from epigenomic (i.e. DNA methylation) and metabolomic experiments of the prototype Chlorella virus, PBCV-1. In order to ask questions about virus DNA methylation, we first established a novel protocol for cryopreservation of PBCV-1 to control against epigenomic and genetic drift. This allowed for a baseline characterization of the DNA methylome profile in the prototype chlorovirus, PBCV-1, using PacBio’s single-molecule, real-time (SMRT) sequencing software. The results of this study suggest the possibility of widespread epigenomic modifications, and that DNA methylation by viral restriction-modification associated enzymes is incomplete. Most instances of missing methylation marks are represented as hemimethylated palindromes, which are protected against the types of restriction enzymes encoded by these viruses and thus might represent an epigenomic regulatory function in the virus. Finally, we conducted a non-targeted metabolomics study of PBCV-1 infected Chlorella cells to make some of the first inferences of how viral infection alters the metabolic profile of this host system. Altogether, this work helps to distinguish the baseline epigenomic and metabolomic profiles of the Chlorella-PBCV-1 virus system for future comparison with more ecologically informative treatments (i.e. competition, sub-optimal light, nutrient limitation, etc.). This work will help to uncover general trends specific to algal-giant virus interactions that distinguish themselves from phage-bacteria systems.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment">Portions of this document were previously published in journals, or are in review. The specifics of where these sections are published/in review will be indicated at the start of the respective chapters.</mods:note>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">Algal-Virus, Giant Virus, DNA Methylation, Epigenomics, Metabolomics, Cryopreservation</mods:note>
+  <mods:accessCondition type="local rights statement">Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+  <mods:note displayLabel="Copyright holder">author</mods:note>
+  <mods:physicalDescription>
+    <mods:note displayLabel="Publication Status">PUBLISHED</mods:note>
+  </mods:physicalDescription>
+</mods:mods>

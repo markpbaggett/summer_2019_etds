@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns="http://www.loc.gov/mods/v3" xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <mods:titleInfo>
+    <mods:title>Mechanisms of methanogenic microbial community assembly: dissecting anaerobic digester as a model</mods:title>
+  </mods:titleInfo>
+  <mods:name type="personal">
+    <mods:namePart type="given">Liu</mods:namePart>
+    <mods:namePart type="family">Cao</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:originInfo>
+    <mods:dateCreated encoding="w3cdtf">2019-07-07T13:46:36-04:00</mods:dateCreated>
+    <mods:dateIssued keyDate="yes" encoding="edtf">2019-08</mods:dateIssued>
+  </mods:originInfo>
+  <mods:recordInfo displayLabel="Submission">
+    <mods:recordCreationDate encoding="w3cdtf">2019-06-08T18:01:58-04:00</mods:recordCreationDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-06-08T18:01:58-04:00</mods:recordChangeDate>
+    <mods:recordChangeDate keyDate="yes" encoding="w3cdtf">2019-07-07T13:46:36-04:00</mods:recordChangeDate>
+  </mods:recordInfo>
+  <mods:extension>
+    <etd:degree>
+      <etd:level>Doctoral (includes post-doctoral)</etd:level>
+      <etd:name>Doctor of Philosophy</etd:name>
+      <etd:discipline>Environmental Engineering</etd:discipline>
+      <etd:grantor>University of Tennessee</etd:grantor>
+    </etd:degree>
+  </mods:extension>
+  <mods:name>
+    <mods:namePart type="given">Chris</mods:namePart>
+    <mods:namePart type="family">Cox</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Qiang</mods:namePart>
+    <mods:namePart type="family">He</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/ths">Thesis advisor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Terry</mods:namePart>
+    <mods:namePart type="family">Hazen</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:name>
+    <mods:namePart type="given">Jun</mods:namePart>
+    <mods:namePart type="family">Lin</mods:namePart>
+    <mods:namePart type="termsOfAddress"/>
+    <mods:role>
+      <mods:roleTerm type="text">Committee member</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>text</mods:typeOfResource>
+  <mods:genre authority="lcgft" valueURI="http://id.loc.gov/authorities/genreForms/gf2014026039">Academic theses</mods:genre>
+  <mods:genre authority="coar" valueURI="http://purl.org/coar/resource_type/c_db06">doctoral thesis</mods:genre>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:abstract>Methanogens are important populations of microbial communities that are responsible for natural recycling of carbon in the biosphere. Methanogenesis has also been engineered into a process termed “anaerobic digestion”, where the degradation of organic matter undergoes a network of complex metabolic pathways by diverse microbial trophic groups under anaerobic conditions. It is of great importance to understand the underlying mechanisms of this process. This research uses anaerobic digestion as a model system to better understand the microbial community assembly mechanism, the microbial interactions, and the impact of source populations on the development of microbial community structures. In Chapter 1, basic concepts of the microbial food web in the anaerobic digestion process and the two known community assembly mechanisms were introduced. In Chapter 2, 13 replicate laboratory-scale semi-continuous anaerobic reactors were inoculated with the same culture and maintained under the identical operational and environmental conditions for a year. The results revealed that despite the change in community composition between time points, overall community structure was remarkably consistent among the 13 replicates, indicating that non-random mechanisms such as selective pressure shapes the changing trajectory of the community structure over long periods of time. Chapter 3 aimed to gain a deeper understanding of the methanogenesis associated with short-chain fatty acids as they are the most common intermediates during anaerobic digestion. Enrichments were set up and kinetics of the anaerobic degradation of the fatty acids was determined by the accumulative methane yields. Based on the results, a food web was proposed for anaerobic degradation of the short chain fatty acids, including both acetoclastic and hydrogenotrophic methanogens, syntrophic bacteria, and other redundant bacteria populations. Chapters 4 developed several groups of propionate enrichment cultures to identify the syntrophic propionate oxidizers and to investigate the effect of diverse sources of inoculum, different sampling points, and altered substrate concentrations on the microbial community structures of propionate enrichment. The results provided various evidences to demonstrate Syntrophobacter as the specific obligate syntrophic proton-reducing acetogenic bacteria while its associated methanogen partners are not definitive. Altogether, this dissertation conducted several bottom-up experiments towards the understanding of anaerobic microbial community assembly.</mods:abstract>
+  <mods:note displayLabel="Submitted Comment">This is a Draft.</mods:note>
+  <mods:relatedItem type="series">
+    <mods:titleInfo>
+      <mods:title>Graduate Theses and Dissertations</mods:title>
+    </mods:titleInfo>
+  </mods:relatedItem>
+  <mods:note displayLabel="Keywords Submitted by Author">Anaerobic Digestion&#13;
+Syntrophy&#13;
+Methanogenesis</mods:note>
+  <mods:accessCondition type="local rights statement">Unless otherwise noted, (c) 2017 The Author(s).</mods:accessCondition>
+  <mods:note displayLabel="Copyright holder">author</mods:note>
+  <mods:physicalDescription>
+    <mods:note displayLabel="Publication Status">PUBLISHED</mods:note>
+  </mods:physicalDescription>
+</mods:mods>
