@@ -1,0 +1,51 @@
+
+<rdf:RDF xmlns:islandora="http://islandora.ca/ontology/relsint#" xmlns:islandora-embargo="info:islandora/islandora-system:def/scholar#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="info:fedora/utk.ir.td:12430/PDF">
+    <islandora-embargo:embargo-until rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-08-15T04:00:00Z</islandora-embargo:embargo-until>
+    <islandora-embargo:embargo-expiry-notification-date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-08-05T04:00:00Z</islandora-embargo:embargo-expiry-notification-date>
+  </rdf:Description>
+  <rdf:Description rdf:about="info:fedora/utk.ir.td:12430/FULL_TEXT">
+    <islandora-embargo:embargo-until rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-08-15T04:00:00Z</islandora-embargo:embargo-until>
+    <islandora-embargo:embargo-expiry-notification-date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-08-05T04:00:00Z</islandora-embargo:embargo-expiry-notification-date>
+  </rdf:Description>
+  <rdf:Description rdf:about="info:fedora/utk.ir.td:12430/SUPPL_9">
+    <islandora-embargo:embargo-until rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-08-15T04:00:00Z</islandora-embargo:embargo-until>
+    <islandora-embargo:embargo-expiry-notification-date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-08-05T04:00:00Z</islandora-embargo:embargo-expiry-notification-date>
+  </rdf:Description>
+  <rdf:Description rdf:about="info:fedora/utk.ir.td:12430/SUPPL_0">
+    <islandora-embargo:embargo-until rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-08-15T04:00:00Z</islandora-embargo:embargo-until>
+    <islandora-embargo:embargo-expiry-notification-date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-08-05T04:00:00Z</islandora-embargo:embargo-expiry-notification-date>
+  </rdf:Description>
+  <rdf:Description rdf:about="info:fedora/utk.ir.td:12430/SUPPL_1">
+    <islandora-embargo:embargo-until rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-08-15T04:00:00Z</islandora-embargo:embargo-until>
+    <islandora-embargo:embargo-expiry-notification-date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-08-05T04:00:00Z</islandora-embargo:embargo-expiry-notification-date>
+  </rdf:Description>
+  <rdf:Description rdf:about="info:fedora/utk.ir.td:12430/SUPPL_6">
+    <islandora-embargo:embargo-until rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-08-15T04:00:00Z</islandora-embargo:embargo-until>
+    <islandora-embargo:embargo-expiry-notification-date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-08-05T04:00:00Z</islandora-embargo:embargo-expiry-notification-date>
+  </rdf:Description>
+  <rdf:Description rdf:about="info:fedora/utk.ir.td:12430/SUPPL_2">
+    <islandora-embargo:embargo-until rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-08-15T04:00:00Z</islandora-embargo:embargo-until>
+    <islandora-embargo:embargo-expiry-notification-date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-08-05T04:00:00Z</islandora-embargo:embargo-expiry-notification-date>
+  </rdf:Description>
+  <rdf:Description rdf:about="info:fedora/utk.ir.td:12430/SUPPL_5">
+    <islandora-embargo:embargo-until rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-08-15T04:00:00Z</islandora-embargo:embargo-until>
+    <islandora-embargo:embargo-expiry-notification-date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-08-05T04:00:00Z</islandora-embargo:embargo-expiry-notification-date>
+  </rdf:Description>
+  <rdf:Description rdf:about="info:fedora/utk.ir.td:12430/SUPPL_3">
+    <islandora-embargo:embargo-until rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-08-15T04:00:00Z</islandora-embargo:embargo-until>
+    <islandora-embargo:embargo-expiry-notification-date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-08-05T04:00:00Z</islandora-embargo:embargo-expiry-notification-date>
+  </rdf:Description>
+  <rdf:Description rdf:about="info:fedora/utk.ir.td:12430/SUPPL_8">
+    <islandora-embargo:embargo-until rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-08-15T04:00:00Z</islandora-embargo:embargo-until>
+    <islandora-embargo:embargo-expiry-notification-date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-08-05T04:00:00Z</islandora-embargo:embargo-expiry-notification-date>
+  </rdf:Description>
+  <rdf:Description rdf:about="info:fedora/utk.ir.td:12430/SUPPL_4">
+    <islandora-embargo:embargo-until rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-08-15T04:00:00Z</islandora-embargo:embargo-until>
+    <islandora-embargo:embargo-expiry-notification-date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-08-05T04:00:00Z</islandora-embargo:embargo-expiry-notification-date>
+  </rdf:Description>
+  <rdf:Description rdf:about="info:fedora/utk.ir.td:12430/SUPPL_7">
+    <islandora-embargo:embargo-until rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-08-15T04:00:00Z</islandora-embargo:embargo-until>
+    <islandora-embargo:embargo-expiry-notification-date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-08-05T04:00:00Z</islandora-embargo:embargo-expiry-notification-date>
+  </rdf:Description>
+</rdf:RDF>
